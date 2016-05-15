@@ -10,3 +10,16 @@
     border:0;
     background:transparent;
 }
+/* starred ratings */
+.half:after {
+    content:'';
+    position:absolute;
+    z-index:1;
+    background:white;
+    width: 50%;
+    height: 100%;
+    left: 47%;
+}
+.star-color {
+	color: #F5B800    
+}

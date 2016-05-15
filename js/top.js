@@ -1,9 +1,9 @@
 var feedGrabber = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=-1&callback=?&q=',
 	totalEscapes = 100,
-	poblacion = 'A',
-	nombre = 'B',
-	web = 'C',
-	juego = 'D',	
+	puntuacion = 'A',
+	nombre = 'B',	
+	juego = 'C',
+	web = 'D',	
 	spreadsheet = [];
 	
 function row(cell) {
@@ -24,9 +24,9 @@ function parseRSS(data, firstRow) {
 		cell = entries[i].title;
 		content = entries[i].content;
 		switch (col(cell)) {
-			case poblacion:
-				spreadsheet.push({poblacion: content});
-				spreadsheet[row(cell) - firstRow].poblacion = content;
+			case puntuacion:
+				spreadsheet.push({puntuacion: content});
+				spreadsheet[row(cell) - firstRow].puntuacion = content.replace(',','.');
 				break;
 			case nombre:
 				spreadsheet[row(cell) - firstRow].nombre = content;
@@ -53,7 +53,7 @@ function loadData(numRequest){
 	//for (var numRequest=0; numRequest<totalNumRequests; numRequest++) {		
 	if(numRequest < totalNumRequests){
 		var gdocID = "1bKHe5wg1t_XXV4RTVw6QHlWmw1SsDfIM5evr207XP_U";
-		var sheetPosition = 2; //second sheet
+		var sheetPosition = 3; //third sheet
 		var baseURL = "https://spreadsheets.google.com/feeds/cells/" + gdocID + "/" + sheetPosition + "/public/basic";
 		var columnaInicial = "A";
 		var columnaFinal = "D";
@@ -82,12 +82,24 @@ function display() {
 	for (var i=0; i<spreadsheet.length; i++) {
 		var escape = spreadsheet[i];
 		if (escape.nombre && escape.nombre !== '-') {
-			var escapeHTML = $('<tr id="escape'+i+'" class="escape"></tr>');
-			escapeHTML.append('<td>'+escape.poblacion+'</td>');
-			escapeHTML.append('<td>'+escape.nombre+'</td>');
-			escapeHTML.append('<td>'+ (escape.juego || '-') +'</td>');
-			escapeHTML.append('<td><a href="'+ (escape.web || '#') +'">'+ (escape.web || '-') +'</a></td>');
-			$("#table1").find('tbody').append(escapeHTML);
+			if (escape.puntuacion && escape.puntuacion >= 4) { //Top filter
+				var escapeHTML = $('<tr id="escape'+i+'" class="escape"></tr>');
+				var punts = "";
+				for (var j=1; j<=5; j++) {
+					if (j <= escape.puntuacion) {
+						punts += '<i class="glyphicon glyphicon-star star-color"/>';
+					} else if (j <= Math.round(escape.puntuacion)) {
+						punts += '<i class="glyphicon glyphicon-star star-color half"/>';						
+					} else {
+						punts += '<i class="glyphicon glyphicon-star-empty star-color"/>';
+					}
+				}
+				escapeHTML.append('<td id="punt'+i+'">' + punts + '</td>');				
+				escapeHTML.append('<td>'+escape.nombre+'</td>');
+				escapeHTML.append('<td>'+ (escape.juego || '-') +'</td>');
+				escapeHTML.append('<td><a href="'+ (escape.web || '#') +'">'+ (escape.web || '-') +'</a></td>');
+				$("#table1").find('tbody').append(escapeHTML);
+			}
 		}
 	}
 	

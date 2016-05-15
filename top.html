@@ -1,0 +1,42 @@
+---
+layout: default
+title: Top Escapes
+---
+<html>
+	<head>
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="/js/top.js"></script>
+		<link href="/css/style.css" rel="stylesheet" type="text/css">
+		<!-- Bootstrap --> 
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+		<script src="/js/bootstrap.min.js"></script>
+	</head>
+	<body onload="loadData()">
+		<div class="wrap">
+			<div class="container">
+				<h3>Top Escapes</h3>
+				<!--div class="input-group stylish-input-group">
+					<input id="filter1" type="text" class="form-control" placeholder="Buscar..." >
+					<span class="input-group-addon">
+						<button type="submit">
+							<span class="glyphicon glyphicon-search"></span>
+						</button>  
+					</span>
+				</div-->
+				<table id="table1" class="table">
+					<thead>
+					  <tr>
+						<th>Puntuación</th>
+						<th>Escape</th>
+						<th>Juego</th>
+						<th>Web</th>
+					  </tr>
+					</thead>
+					<tbody id="table_rows">
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
