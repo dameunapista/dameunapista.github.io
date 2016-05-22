@@ -4,6 +4,7 @@ var feedGrabber = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num
 	nombre = 'B',
 	web = 'C',
 	juego = 'D',	
+	publicar = 'E',	
 	spreadsheet = [];
 	
 function row(cell) {
@@ -37,6 +38,9 @@ function parseRSS(data, firstRow) {
 			case juego:
 				spreadsheet[row(cell) - firstRow].juego = content;
 				break;
+			case publicar:
+				spreadsheet[row(cell) - firstRow].publicar = content;
+				break;
 			default:
 				break;
 		}
@@ -56,7 +60,7 @@ function loadData(numRequest){
 		var sheetPosition = 2; //second sheet
 		var baseURL = "https://spreadsheets.google.com/feeds/cells/" + gdocID + "/" + sheetPosition + "/public/basic";
 		var columnaInicial = "A";
-		var columnaFinal = "D";
+		var columnaFinal = "E";
 		var filaInicial = 2 + (numRows * numRequest); //+2 --> Excel Header
 		var filaFinal = 1 + numRows + (numRows * numRequest); // +1 --> Excel Header
 		var d = new Date();
@@ -81,7 +85,7 @@ function display() {
 	console.log(spreadsheet.length);
 	for (var i=0; i<spreadsheet.length; i++) {
 		var escape = spreadsheet[i];
-		if (escape.nombre && escape.nombre !== '-') {
+		if (escape.nombre && escape.nombre !== '-' && escape.publicar !== 'no') {
 			var escapeHTML = $('<tr id="escape'+i+'" class="escape"></tr>');
 			escapeHTML.append('<td>'+escape.poblacion+'</td>');
 			escapeHTML.append('<td>'+escape.nombre+'</td>');

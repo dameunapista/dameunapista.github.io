@@ -28,7 +28,7 @@ title: Escape News!
 
 	  <!--{% assign first = true %}-->
 	  {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-	  {% for post in site.posts %}		
+	  {% for post in site.posts reversed %}		
 		<!--{% if first == true %}
 		  {{ post.title }}
 		{% assign first = false %}
