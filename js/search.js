@@ -49,7 +49,7 @@ function parseRSS(data, firstRow) {
 }
 
 function loadData(numRequest){
-	var numColumns = 4;
+	var numColumns = 5;
 	var maxCellsResults = 100; //default-max value
 	var numRows = Math.ceil(maxCellsResults/numColumns);
 	var totalNumRequests = Math.ceil(totalEscapes/numRows); //number of request necessary to get all Escapes
