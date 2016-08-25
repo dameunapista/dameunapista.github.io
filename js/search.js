@@ -1,5 +1,5 @@
 var feedGrabber = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=-1&callback=?&q=',
-	totalEscapes = 100,
+	totalEscapes = 150,
 	poblacion = 'A',
 	nombre = 'B',
 	web = 'C',
