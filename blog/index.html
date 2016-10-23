@@ -16,7 +16,7 @@ title: Escape News!
 		{% assign first = false %}
 		{% endif %}-->		
 		{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}		
-		{% if posttime <= now %}
+		{% if posttime < now %}
 	    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 	  {% endfor %}
@@ -34,7 +34,7 @@ title: Escape News!
 		{% assign first = false %}
 		{% endif %}-->
 		{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}		
-		{% if posttime > now %}
+		{% if posttime >= now %}
 	    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> » {{ post.title }}</li>
 		{% endif %}
 	  {% endfor %}
