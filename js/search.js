@@ -6,6 +6,8 @@ var feedGrabber = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num
 	juego = 'D',	
 	publicar = 'E',	
 	spreadsheet = [];
+
+var numEscapes = 0;
 	
 function row(cell) {
 	return parseInt(cell.substr(1));
@@ -92,6 +94,9 @@ function display() {
 			escapeHTML.append('<td>'+ (escape.juego || '-') +'</td>');
 			escapeHTML.append('<td><a href="'+ (escape.web || '#') +'">'+ (escape.web || '-') +'</a></td>');
 			$("#table1").find('tbody').append(escapeHTML);
+			//update num total escapes
+			numEscapes++;
+			$('#lblNumEscapes').text(numEscapes);
 		}
 	}
 	

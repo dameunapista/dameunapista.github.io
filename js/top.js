@@ -1,10 +1,12 @@
 var feedGrabber = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=-1&callback=?&q=',
-	totalEscapes = 100,
+	totalEscapes = 150,
 	puntuacion = 'A',
 	nombre = 'B',	
 	juego = 'C',
 	web = 'D',	
 	spreadsheet = [];
+
+var numEscapes = 0;
 	
 function row(cell) {
 	return parseInt(cell.substr(1));
@@ -98,7 +100,12 @@ function display() {
 				escapeHTML.append('<td>'+escape.nombre+'</td>');
 				escapeHTML.append('<td>'+ (escape.juego || '-') +'</td>');
 				escapeHTML.append('<td><a href="'+ (escape.web || '#') +'">'+ (escape.web || '-') +'</a></td>');
-				$("#table1").find('tbody').append(escapeHTML);
+				$("#table1").find('tbody').append(escapeHTML);				
+			}
+			if (escape.puntuacion) { //played escapes
+				//update num total played escapes
+				numEscapes++;
+				$('#lblNumEscapes').text(numEscapes);
 			}
 		}
 	}
