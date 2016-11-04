@@ -1,0 +1,13 @@
+{
+  "name": "gs2json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gs2json.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet-to-json": "^0.3.0",
+    "jsonfile": "^2.4.0"
+  }
+}
