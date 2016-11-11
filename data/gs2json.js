@@ -1,10 +1,13 @@
 var gsjson = require('google-spreadsheet-to-json');
 var jsonfile = require('jsonfile');
 
+jsonfile.spaces = 4 //format json output
+
 //Escapes
 gsjson({
     spreadsheetId: '1bKHe5wg1t_XXV4RTVw6QHlWmw1SsDfIM5evr207XP_U',
-    worksheet: 0
+    worksheet: 0,
+    beautify: true
 })
 .then(function(result) {
     /*console.log(result.length);
