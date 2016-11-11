@@ -1154,7 +1154,8 @@
         "latitud": 41.2405513,
         "longitud": 1.8106403,
         "publicar": "si",
-        "jugadores": "Fibers"
+        "jugadores": "Fibers",
+        "valoracion": 3.75
     },
     {
         "poblacion": "Terrassa",
@@ -1241,7 +1242,8 @@
         "max_jugadores": 5,
         "latitud": 41.3481787,
         "longitud": 1.7023711,
-        "publicar": "si"
+        "publicar": "si",
+        "valoracion": 4.5
     },
     {
         "poblacion": "Vilanova i la Geltrú",
