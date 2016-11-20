@@ -88,6 +88,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Conund Room",
+        "web": "http://www.conundroom.es/",
+        "juego": "Mr. Ascott",
+        "tematica": "-",
+        "latitud": 41.4024907,
+        "longitud": 2.1801108,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Cronologic",
         "web": "http://www.cronologic.es",
         "juego": "Cronologic",
@@ -332,7 +342,10 @@
         "tematica": "-",
         "latitud": 41.4260455,
         "longitud": 2.1889315,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42694,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4.25
     },
     {
         "poblacion": "Barcelona",
@@ -385,6 +398,28 @@
         "sitio": "Lostroom",
         "web": "http://lostroombcn.com",
         "juego": "La quest cosmos",
+        "tematica": "-",
+        "max_jugadores": 6,
+        "latitud": 41.3943332,
+        "longitud": 2.1761636,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Lostroom",
+        "web": "http://lostroombcn.com",
+        "juego": "La fiesta de los zombies",
+        "tematica": "-",
+        "max_jugadores": 6,
+        "latitud": 41.3943332,
+        "longitud": 2.1761636,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Lostroom",
+        "web": "http://lostroombcn.com",
+        "juego": "Alicia en el pais de las maravillas",
         "tematica": "-",
         "max_jugadores": 6,
         "latitud": 41.3943332,
@@ -615,6 +650,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "The house of whispers",
+        "web": "http://thehouseofwhispers.com/",
+        "juego": "La historia de Myra Savage",
+        "tematica": "Terror",
+        "latitud": 41.4040265,
+        "longitud": 2.1656596,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Tic Tac room",
         "web": "http://tictacroom.es",
         "juego": "Walter Gate",
@@ -668,26 +713,6 @@
         "longitud": 2.1571213,
         "publicar": "si",
         "valoracion": 4
-    },
-    {
-        "poblacion": "Barcelona",
-        "sitio": "The house of whispers",
-        "web": "http://thehouseofwhispers.com/",
-        "juego": "La historia de Myra Savage",
-        "tematica": "Terror",
-        "latitud": 41.4040265,
-        "longitud": 2.1656596,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Barcelona",
-        "sitio": "Top Secret",
-        "web": "http://www.topsecretbarcelona.com/",
-        "juego": "Ley Seca",
-        "tematica": "-",
-        "latitud": 41.4049027,
-        "longitud": 2.1991143,
-        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",
@@ -818,6 +843,16 @@
         "publicar": "si",
         "jugadores": "Alcaparrones",
         "valoracion": 5
+    },
+    {
+        "poblacion": "Cornellà de Llobregat",
+        "sitio": "Sala Koala",
+        "web": "http://www.salakoala.com/",
+        "juego": "La modelo",
+        "tematica": "-",
+        "latitud": 41.354794,
+        "longitud": 2.072712,
+        "publicar": "si"
     },
     {
         "poblacion": "Cubelles",
