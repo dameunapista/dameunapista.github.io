@@ -10,4 +10,5 @@ Muy original la dinámica, donde a parte de un objetivo común, cada uno tendrá
 
 Tanto por la originalidad de la temática como de la dinámica de juego, lo recomendamos mucho a los que ya hayáis hecho unos cuantos y busqueis algo diferente.
 
+![]({{ site.url }}/img/petit_piaf_hotel.jpg){:width="400px"}.
 
