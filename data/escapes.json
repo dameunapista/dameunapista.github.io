@@ -608,7 +608,7 @@
         "sitio": "Tactic room",
         "web": "http://www.tacticgame.es/",
         "juego": "La casa paranormal",
-        "tematica": "-",
+        "tematica": "Terror",
         "latitud": 41.4073437,
         "longitud": 2.1747244,
         "publicar": "si"
@@ -635,6 +635,16 @@
         "tematica": "-",
         "latitud": 41.4320532,
         "longitud": 2.1783615,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Top secret",
+        "web": "http://www.topsecretbarcelona.com/",
+        "juego": "Ley seca",
+        "tematica": "-",
+        "latitud": 41.4049647,
+        "longitud": 2.1974606,
         "publicar": "si"
     },
     {
@@ -711,6 +721,36 @@
         "tematica": "-",
         "latitud": 41.3863132,
         "longitud": 2.1578216,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Xcape",
+        "web": "http://www.juegosdeescapebarcelona.com/",
+        "juego": "El castillo de las tinieblas",
+        "tematica": "-",
+        "latitud": 41.378372,
+        "longitud": 2.1499193,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Xcape",
+        "web": "http://www.juegosdeescapebarcelona.com/",
+        "juego": "Celda infernal",
+        "tematica": "-",
+        "latitud": 41.378372,
+        "longitud": 2.1499193,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Xcape",
+        "web": "http://www.juegosdeescapebarcelona.com/",
+        "juego": "El misterio del antiguo Egipto",
+        "tematica": "-",
+        "latitud": 41.378372,
+        "longitud": 2.1499193,
         "publicar": "si"
     },
     {

@@ -9,4 +9,4 @@ Después de casi 2 años de haber jugado Apartamento 97, nuestro primer escape, 
 Como el primero, muy recomendable para los que no hayáis jugado a ninguno, es una buena entrada a este mundillo.
 
 
-![]({{ site.url }}/img/parapark_experimento_n5.jpg){:width="500px"}.
+![]({{ site.url }}/img/parapark_experimento_n5.jpg){:width="400px"}.
