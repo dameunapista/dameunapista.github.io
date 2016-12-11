@@ -34,7 +34,7 @@
         "latitud": 41.375858,
         "longitud": 2.1558233,
         "publicar": "si",
-        "fecha": 2015,
+        "fecha": 42251,
         "jugadores": "Gem / Nadgi",
         "valoracion": 4
     },
@@ -43,7 +43,7 @@
         "sitio": "Chicken Banana",
         "web": "http://chickenbanana.com",
         "juego": "Psiquiatría",
-        "tematica": "-",
+        "tematica": "Terror",
         "max_jugadores": 6,
         "latitud": 41.375858,
         "longitud": 2.1558233,
@@ -106,7 +106,7 @@
         "latitud": 41.4092265,
         "longitud": 2.1843926,
         "publicar": "si",
-        "fecha": "2014-2015",
+        "fecha": 42127,
         "jugadores": "Gem / Nadgi",
         "valoracion": 4
     },
@@ -120,6 +120,8 @@
         "latitud": 41.4167708,
         "longitud": 2.191338,
         "publicar": "si",
+        "fecha": 42533,
+        "jugadores": "Nadgi",
         "valoracion": 3
     },
     {
@@ -182,6 +184,7 @@
         "latitud": 41.4383891,
         "longitud": 2.1650027,
         "publicar": "si",
+        "fecha": 42469,
         "jugadores": "Alcaparrones",
         "valoracion": 3.5
     },
@@ -197,7 +200,7 @@
         "publicar": "si",
         "fecha": 42407,
         "jugadores": "Alcaparrones",
-        "valoracion": 5
+        "valoracion": 4
     },
     {
         "poblacion": "Barcelona",
@@ -233,7 +236,7 @@
         "latitud": 41.4093127,
         "longitud": 2.1560271,
         "publicar": "si",
-        "fecha": "27/11/2015 - 10/11/2016",
+        "fecha": 42684,
         "jugadores": "Gem - Nadgi",
         "valoracion": 3.5
     },
@@ -272,30 +275,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Espaniq",
-        "web": "http://espaniq.es",
-        "juego": "El maníaco",
-        "tematica": "-",
-        "max_jugadores": 7,
-        "latitud": 41.399925,
-        "longitud": 2.1612722,
-        "publicar": "si",
-        "jugadores": "Alcaparrones",
-        "valoracion": 2
-    },
-    {
-        "poblacion": "Barcelona",
-        "sitio": "Espaniq",
-        "web": "http://espaniq.es",
-        "juego": "La cárcel",
-        "tematica": "-",
-        "max_jugadores": 7,
-        "latitud": 41.399925,
-        "longitud": 2.1612722,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Habitación 73",
         "web": "http://www.habitacion73.com",
         "juego": "Habitación 73",
@@ -304,6 +283,7 @@
         "latitud": 41.407443,
         "longitud": 2.1568984,
         "publicar": "si",
+        "fecha": 42169,
         "jugadores": "Nadgi",
         "valoracion": 3.5
     },
@@ -331,6 +311,7 @@
         "latitud": 41.410871103,
         "longitud": 2.178470035,
         "publicar": "si",
+        "fecha": 42540,
         "jugadores": "Nadgi",
         "valoracion": 4.5
     },
@@ -368,6 +349,7 @@
         "latitud": 41.3756901,
         "longitud": 2.1375158,
         "publicar": "si",
+        "fecha": 42546,
         "jugadores": "Alcaparrones",
         "valoracion": 3.5
     },
@@ -409,7 +391,7 @@
         "sitio": "Lostroom",
         "web": "http://lostroombcn.com",
         "juego": "La fiesta de los zombies",
-        "tematica": "-",
+        "tematica": "Terror",
         "max_jugadores": 6,
         "latitud": 41.3943332,
         "longitud": 2.1761636,
@@ -435,7 +417,10 @@
         "max_jugadores": 10,
         "latitud": 41.3949605,
         "longitud": 2.1641855,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42712,
+        "jugadores": "Alcaparrones",
+        "valoracion": 3
     },
     {
         "poblacion": "Barcelona",
@@ -490,6 +475,7 @@
         "latitud": 41.4075291,
         "longitud": 2.1647714,
         "publicar": "si",
+        "fecha": 42393,
         "jugadores": "Nadgi",
         "valoracion": 4
     },
@@ -567,6 +553,7 @@
         "latitud": 41.404546,
         "longitud": 2.1531043,
         "publicar": "si",
+        "fecha": 42351,
         "jugadores": "Nadgi",
         "valoracion": 3.5
     },
@@ -623,6 +610,7 @@
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
+        "fecha": 42484,
         "jugadores": "Nadia",
         "valoracion": 3
     },
@@ -635,6 +623,7 @@
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
+        "fecha": 42484,
         "jugadores": "Sergi",
         "valoracion": 2.5
     },
@@ -654,9 +643,13 @@
         "web": "http://thehouseofwhispers.com/",
         "juego": "La historia de Myra Savage",
         "tematica": "Terror",
+        "max_jugadores": 5,
         "latitud": 41.4040265,
         "longitud": 2.1656596,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42714,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
     },
     {
         "poblacion": "Barcelona",
@@ -712,6 +705,8 @@
         "latitud": 41.399692,
         "longitud": 2.1571213,
         "publicar": "si",
+        "fecha": 42441,
+        "jugadores": "Bailongos",
         "valoracion": 4
     },
     {
@@ -719,7 +714,7 @@
         "sitio": "White rabbit",
         "web": "http://www.whiterabbit.cat",
         "juego": "Invitation",
-        "tematica": "-",
+        "tematica": "Terror",
         "max_jugadores": 6,
         "latitud": 41.3863132,
         "longitud": 2.1578216,
@@ -753,7 +748,7 @@
         "sitio": "Xcape",
         "web": "http://www.juegosdeescapebarcelona.com/",
         "juego": "El castillo de las tinieblas",
-        "tematica": "-",
+        "tematica": "Terror",
         "latitud": 41.378372,
         "longitud": 2.1499193,
         "publicar": "si"
@@ -787,6 +782,7 @@
         "latitud": 42.0998972,
         "longitud": 1.8375174,
         "publicar": "si",
+        "fecha": 42456,
         "jugadores": "Nadgi",
         "valoracion": 4
     },
@@ -841,6 +837,7 @@
         "latitud": 41.35653,
         "longitud": 2.0693133,
         "publicar": "si",
+        "fecha": 42084,
         "jugadores": "Alcaparrones",
         "valoracion": 5
     },
@@ -869,7 +866,7 @@
         "sitio": "The mystery rooms",
         "web": "http://themysteryrooms.com/",
         "juego": "The Richardson's",
-        "tematica": "-",
+        "tematica": "Terror",
         "max_jugadores": 5,
         "latitud": 41.52502,
         "longitud": 1.8557783,
@@ -1229,6 +1226,7 @@
         "latitud": 41.2405513,
         "longitud": 1.8106403,
         "publicar": "si",
+        "fecha": 42655,
         "jugadores": "Fibers",
         "valoracion": 3.75
     },
@@ -1262,6 +1260,7 @@
         "latitud": 28.0597897,
         "longitud": -16.7356747,
         "publicar": "si",
+        "fecha": 42239,
         "jugadores": "Nadgi",
         "valoracion": 3
     },
@@ -1318,6 +1317,8 @@
         "latitud": 41.3481787,
         "longitud": 1.7023711,
         "publicar": "si",
+        "fecha": 42575,
+        "jugadores": "Alcaparrones",
         "valoracion": 4.5
     },
     {
@@ -1329,6 +1330,7 @@
         "latitud": 41.2252727,
         "longitud": 1.7209346,
         "publicar": "si",
+        "fecha": 42434,
         "jugadores": "Alcaparrones",
         "valoracion": 3.75
     },
