@@ -192,6 +192,17 @@
         "valoracion": 4
     },
     {
+        "poblacion": "Molins de Rei",
+        "sitio": "la soga",
+        "web": "http://www.la-soga.com/",
+        "latitud": 41.404767,
+        "longitud": 2.0241523,
+        "publicar": "si",
+        "fecha": 42750,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
+    },
+    {
         "poblacion": "Barcelona",
         "sitio": "Horror Box",
         "web": "http://www.horrorbox.es/producto/jigsaw-escape-room/",
@@ -270,16 +281,18 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Escapa si puedes",
-        "web": "http://www.escapasipuedes.com",
-        "juego": "Agencia 29",
-        "max_jugadores": 5,
-        "latitud": 41.4093127,
-        "longitud": 2.1560271,
+        "sitio": "Chicken Banana",
+        "web": "http://chickenbanana.com",
+        "juego": "Psiquiatría",
+        "tematica": "Terror",
+        "max_jugadores": 6,
+        "latitud": 41.375858,
+        "longitud": 2.1558233,
         "publicar": "si",
-        "fecha": 42684,
-        "jugadores": "Gem - Nadgi",
-        "valoracion": 3.5
+        "fecha": 42112,
+        "jugadores": "Alcaparrones",
+        "valoracion": 3.5,
+        "observaciones": "2 salas"
     },
     {
         "poblacion": "Barcelona",
@@ -335,21 +348,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Chicken Banana",
-        "web": "http://chickenbanana.com",
-        "juego": "Psiquiatría",
-        "tematica": "Terror",
-        "max_jugadores": 6,
-        "latitud": 41.375858,
-        "longitud": 2.1558233,
-        "publicar": "si",
-        "fecha": 42112,
-        "jugadores": "Alcaparrones",
-        "valoracion": 3.5,
-        "observaciones": "2 salas"
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Habitación 73",
         "web": "http://www.habitacion73.com",
         "juego": "Habitación 73",
@@ -372,6 +370,19 @@
         "publicar": "si",
         "fecha": 42546,
         "jugadores": "Alcaparrones",
+        "valoracion": 3.5
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Escapa si puedes",
+        "web": "http://www.escapasipuedes.com",
+        "juego": "Agencia 29",
+        "max_jugadores": 5,
+        "latitud": 41.4093127,
+        "longitud": 2.1560271,
+        "publicar": "si",
+        "fecha": 42684,
+        "jugadores": "Gem - Nadgi",
         "valoracion": 3.5
     },
     {
@@ -453,6 +464,19 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Parapark 1",
+        "web": "http://parapark.es",
+        "juego": "Habitacle 113",
+        "max_jugadores": 5,
+        "latitud": 41.3742875,
+        "longitud": 2.1380698,
+        "publicar": "si",
+        "fecha": 42505,
+        "jugadores": "Nadgi",
+        "valoracion": 3
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "White rabbit",
         "web": "http://www.whiterabbit.cat",
         "juego": "Invitation",
@@ -467,15 +491,14 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Parapark 1",
-        "web": "http://parapark.es",
-        "juego": "Habitacle 113",
-        "max_jugadores": 5,
-        "latitud": 41.3742875,
-        "longitud": 2.1380698,
+        "sitio": "Magic escape",
+        "web": "http://www.magicescape.es/",
+        "max_jugadores": 10,
+        "latitud": 41.3949605,
+        "longitud": 2.1641855,
         "publicar": "si",
-        "fecha": 42505,
-        "jugadores": "Nadgi",
+        "fecha": 42712,
+        "jugadores": "Alcaparrones",
         "valoracion": 3
     },
     {
@@ -493,14 +516,15 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Magic escape",
-        "web": "http://www.magicescape.es/",
-        "max_jugadores": 10,
-        "latitud": 41.3949605,
-        "longitud": 2.1641855,
+        "sitio": "Lostroom",
+        "web": "http://lostroombcn.com",
+        "juego": "Alicia en el pais de las maravillas",
+        "max_jugadores": 6,
+        "latitud": 41.3943332,
+        "longitud": 2.1761636,
         "publicar": "si",
-        "fecha": 42712,
-        "jugadores": "Alcaparrones",
+        "fecha": 42742,
+        "jugadores": "Bailongos",
         "valoracion": 3
     },
     {

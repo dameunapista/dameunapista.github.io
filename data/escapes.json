@@ -345,6 +345,14 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Kessler Galimany",
+        "web": "http://galimany.com/room-escape",
+        "latitud": 41.3749398,
+        "longitud": 2.1357155,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Kidnapped in BCN",
         "web": "http://www.kidnappedinbcn.com/",
         "max_jugadores": 5,
@@ -414,7 +422,10 @@
         "max_jugadores": 6,
         "latitud": 41.3943332,
         "longitud": 2.1761636,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42742,
+        "jugadores": "Bailongos",
+        "valoracion": 3
     },
     {
         "poblacion": "Barcelona",
@@ -1039,7 +1050,10 @@
         "web": "http://www.la-soga.com/",
         "latitud": 41.404767,
         "longitud": 2.0241523,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42750,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
     },
     {
         "poblacion": "Nueva York",
@@ -1112,25 +1126,6 @@
         "valoracion": 3.75
     },
     {
-        "poblacion": "Santa Coloma de Gramanet",
-        "sitio": "Clue Hunter",
-        "web": "http://www.cluehunterbarcelona.com/",
-        "juego": "El juego de Seed: Sótano",
-        "latitud": 41.4489815,
-        "longitud": 2.2120809,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Santa Coloma de Gramanet",
-        "sitio": "Clue Hunter",
-        "web": "http://www.cluehunterbarcelona.com/",
-        "juego": "Asesinato en el tren",
-        "max_jugadores": 5,
-        "latitud": 41.4489815,
-        "longitud": 2.2120809,
-        "publicar": "si"
-    },
-    {
         "poblacion": "Sant Cugat del Vallès",
         "sitio": "MI7 Medusa Corp",
         "web": "http://www.mi7medusacorp.com/",
@@ -1173,6 +1168,34 @@
         "sitio": "Fluwin",
         "web": "http://www.fluwimoci.cat/",
         "juego": "El secret de Sant Jordi",
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Sant Vicenç dels Horts",
+        "sitio": "Escape to SantVi",
+        "web": "https://www.escapetosantvi.com/",
+        "juego": "La habitación de Nelly",
+        "latitud": 41.391163,
+        "longitud": 2.0108793,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Santa Coloma de Gramanet",
+        "sitio": "Clue Hunter",
+        "web": "http://www.cluehunterbarcelona.com/",
+        "juego": "El juego de Seed: Sótano",
+        "latitud": 41.4489815,
+        "longitud": 2.2120809,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Santa Coloma de Gramanet",
+        "sitio": "Clue Hunter",
+        "web": "http://www.cluehunterbarcelona.com/",
+        "juego": "Asesinato en el tren",
+        "max_jugadores": 5,
+        "latitud": 41.4489815,
+        "longitud": 2.2120809,
         "publicar": "si"
     },
     {
