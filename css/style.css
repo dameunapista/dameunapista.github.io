@@ -23,3 +23,14 @@
 .star-color {
 	color: #F5B800    
 }
+/* Boostrap tabs adjust margins*/
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+/* Leaflet Map */
+#mapid { 
+    height: 400px; 
+}

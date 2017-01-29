@@ -3,7 +3,7 @@ layout: default
 title: ¿Buscas Escape?
 ---
 <html>
-	<head>
+	<head>		
 		<script type="text/javascript" src="/js/jquery.js"></script>
 		<script type="text/javascript" src="/js/search.js"></script>
 		<link href="/css/style.css" rel="stylesheet" type="text/css">
@@ -11,12 +11,26 @@ title: ¿Buscas Escape?
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/css/bootstrap-theme.min.css">
 		<script src="/js/bootstrap.min.js"></script>
+		<!-- Leaflet -->
+		<link rel="stylesheet" href="/css/leaflet/leaflet.css" />
+		<link rel="stylesheet" href="/css/leaflet/leaflet-legend.css" />
+		<script src="/js/leaflet/leaflet.js"></script>
+		<script src="/js/leaflet/leaflet-legend.js"></script>
+		<script src="/js/leaflet/leaflet-color-markers.js"></script>
 	</head>
 	<body onload="loadData()">
 		<div class="wrap">
 			<div class="container">
 				<h3>Buscador de Escapes</h3>
 				<p>Aquí encontraréis todos los room escapes que tenemos localizados (<label id="lblNumEscapes">0</label>). También podéis ver <a href="/links">otros listados</a>.</p>
+				<!--div class="input-group stylish-input-group">
+					<input type="checkbox" aria-label="Filtrar en el mapa">
+				</div-->
+				<div class="panel panel-default">
+					<!--div class="panel-body"-->
+						<div id="mapid"></div>
+					<!--/div-->
+				</div>
 				<div class="input-group stylish-input-group">
 					<input id="filter1" type="text" class="form-control" placeholder="Buscar..." >
 					<span class="input-group-addon">
@@ -24,15 +38,15 @@ title: ¿Buscas Escape?
 							<span class="glyphicon glyphicon-search"></span>
 						</button>  
 					</span>
-				</div>
+				</div>				
 				<table id="table1" class="table">
 					<thead>
-					  <tr>
+					<tr>
 						<th>Población</th>
 						<th>Escape</th>
 						<th>Juego</th>
 						<th>Web</th>
-					  </tr>
+					</tr>
 					</thead>
 					<tbody id="table_rows">
 					</tbody>
