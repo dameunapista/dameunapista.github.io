@@ -222,6 +222,7 @@
         "sitio": "Escape Barcelona",
         "web": "http://www.escapebarcelona.com",
         "juego": "Jurassic Land",
+        "max_jugadores": 10,
         "latitud": 41.4514955,
         "longitud": 2.2024353,
         "publicar": "si"
@@ -336,6 +337,7 @@
         "sitio": "Intringulis",
         "web": "http://www.intringulisbcn.com/",
         "juego": "Petit Piaf Hotel",
+        "max_jugadores": 5,
         "latitud": 41.4260455,
         "longitud": 2.1889315,
         "publicar": "si",
@@ -347,6 +349,7 @@
         "poblacion": "Barcelona",
         "sitio": "Kessler Galimany",
         "web": "http://galimany.com/room-escape",
+        "max_jugadores": 6,
         "latitud": 41.3749398,
         "longitud": 2.1357155,
         "publicar": "si"
@@ -493,6 +496,7 @@
         "web": "http://www.picaderomotel.com/",
         "juego": "Picadero motel",
         "tematica": "Terror",
+        "max_jugadores": 6,
         "latitud": 41.4075291,
         "longitud": 2.1647714,
         "publicar": "si",
@@ -617,6 +621,7 @@
         "sitio": "Simulacre vuit",
         "web": "http://roomescapesimulacrevuit.es/",
         "juego": "Amazona",
+        "max_jugadores": 6,
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
@@ -629,6 +634,7 @@
         "sitio": "Simulacre vuit",
         "web": "http://roomescapesimulacrevuit.es/",
         "juego": "Firenze",
+        "max_jugadores": 6,
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
@@ -642,6 +648,7 @@
         "web": "http://www.tacticgame.es/",
         "juego": "La casa paranormal",
         "tematica": "Terror",
+        "max_jugadores": 5,
         "latitud": 41.4073437,
         "longitud": 2.1747244,
         "publicar": "si"
@@ -651,6 +658,17 @@
         "sitio": "Tactic room",
         "web": "http://www.tacticgame.es/",
         "juego": "Chernóbil",
+        "max_jugadores": 5,
+        "latitud": 41.4073437,
+        "longitud": 2.1747244,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Tactic room",
+        "web": "http://www.tacticgame.es/",
+        "juego": "Epidemia Z",
+        "max_jugadores": 5,
         "latitud": 41.4073437,
         "longitud": 2.1747244,
         "publicar": "si"
@@ -674,6 +692,8 @@
         "sitio": "The resistance",
         "web": "http://www.resistanceroom.com/es/",
         "max_jugadores": 6,
+        "latitud": 41.3855569,
+        "longitud": 2.1273675,
         "publicar": "si"
     },
     {
@@ -694,6 +714,7 @@
         "sitio": "Tolok room escape",
         "web": "http://www.tolokroomescape.com/",
         "juego": "El misterio maya",
+        "max_jugadores": 5,
         "latitud": 41.4320532,
         "longitud": 2.1783615,
         "publicar": "si"
@@ -703,6 +724,7 @@
         "sitio": "Top secret",
         "web": "http://www.topsecretbarcelona.com/",
         "juego": "Ley seca",
+        "max_jugadores": 6,
         "latitud": 41.4049647,
         "longitud": 2.1974606,
         "publicar": "si"
@@ -721,6 +743,7 @@
         "sitio": "Últim avís",
         "web": "https://ultimavis.cat/",
         "juego": "Últim avís",
+        "max_jugadores": 5,
         "latitud": 41.399692,
         "longitud": 2.1571213,
         "publicar": "si",
@@ -747,6 +770,7 @@
         "sitio": "White rabbit",
         "web": "http://www.whiterabbit.cat",
         "juego": "The thinking room",
+        "max_jugadores": 2,
         "latitud": 41.3863132,
         "longitud": 2.1578216,
         "publicar": "si"
@@ -756,6 +780,7 @@
         "sitio": "White rabbit",
         "web": "http://www.whiterabbit.cat",
         "juego": "Playground",
+        "max_jugadores": 20,
         "latitud": 41.3863132,
         "longitud": 2.1578216,
         "publicar": "si"
@@ -766,6 +791,7 @@
         "web": "http://www.juegosdeescapebarcelona.com/",
         "juego": "El castillo de las tinieblas",
         "tematica": "Terror",
+        "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
         "publicar": "si"
@@ -775,6 +801,7 @@
         "sitio": "Xcape",
         "web": "http://www.juegosdeescapebarcelona.com/",
         "juego": "Celda infernal",
+        "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
         "publicar": "si"
@@ -784,6 +811,7 @@
         "sitio": "Xcape",
         "web": "http://www.juegosdeescapebarcelona.com/",
         "juego": "El misterio del antiguo Egipto",
+        "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
         "publicar": "si"
@@ -791,9 +819,10 @@
     {
         "poblacion": "Berga",
         "sitio": "Insomnia corporation",
-        "web": "http://www.hoteldeterror.com/",
+        "web": "http://www.insomniacorp.com/",
         "juego": "El còctel del doctor",
         "tematica": "Terror",
+        "max_jugadores": 6,
         "latitud": 42.0998972,
         "longitud": 1.8375174,
         "publicar": "si",
@@ -804,9 +833,10 @@
     {
         "poblacion": "Berga",
         "sitio": "Insomnia corporation",
-        "web": "http://www.hoteldeterror.com/",
+        "web": "http://www.insomniacorp.com/",
         "juego": "XPERIMENT",
         "tematica": "Terror",
+        "max_jugadores": 5,
         "latitud": 42.0998972,
         "longitud": 1.8375174,
         "publicar": "si"
@@ -896,7 +926,7 @@
         "poblacion": "Gironella",
         "sitio": "Hostal 83",
         "web": "http://hostal83.wixsite.com/hostal83",
-        "tematica": "Terror\n",
+        "tematica": "Terror",
         "max_jugadores": 6,
         "latitud": 42.034584,
         "longitud": 1.8777513,
@@ -937,7 +967,10 @@
         "max_jugadores": 5,
         "latitud": 41.378393,
         "longitud": 2.1128913,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42770,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
     },
     {
         "poblacion": "Malgrat de Mar",
@@ -1056,6 +1089,14 @@
         "valoracion": 4
     },
     {
+        "poblacion": "Mollet del Vallès",
+        "sitio": "Trapped Mollet",
+        "web": "http://www.trappedmollet.com/",
+        "latitud": 41.5331997,
+        "longitud": 2.2066314,
+        "publicar": "si"
+    },
+    {
         "poblacion": "Nueva York",
         "sitio": "Escape the room NYC",
         "web": "http://static.escapetheroomnyc.com/",
@@ -1168,6 +1209,8 @@
         "sitio": "Fluwin",
         "web": "http://www.fluwimoci.cat/",
         "juego": "El secret de Sant Jordi",
+        "latitud": 41.9292915,
+        "longitud": 2.2529187,
         "publicar": "si"
     },
     {

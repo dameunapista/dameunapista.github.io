@@ -107,6 +107,7 @@
         "sitio": "Intringulis",
         "web": "http://www.intringulisbcn.com/",
         "juego": "Petit Piaf Hotel",
+        "max_jugadores": 5,
         "latitud": 41.4260455,
         "longitud": 2.1889315,
         "publicar": "si",
@@ -144,6 +145,7 @@
         "sitio": "Últim avís",
         "web": "https://ultimavis.cat/",
         "juego": "Últim avís",
+        "max_jugadores": 5,
         "latitud": 41.399692,
         "longitud": 2.1571213,
         "publicar": "si",
@@ -165,6 +167,20 @@
         "valoracion": 4
     },
     {
+        "poblacion": "Berga",
+        "sitio": "Insomnia corporation",
+        "web": "http://www.insomniacorp.com/",
+        "juego": "El còctel del doctor",
+        "tematica": "Terror",
+        "max_jugadores": 6,
+        "latitud": 42.0998972,
+        "longitud": 1.8375174,
+        "publicar": "si",
+        "fecha": 42456,
+        "jugadores": "Nadgi",
+        "valoracion": 4
+    },
+    {
         "poblacion": "Barcelona",
         "sitio": "The house of whispers",
         "web": "http://thehouseofwhispers.com/",
@@ -176,19 +192,6 @@
         "publicar": "si",
         "fecha": 42714,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
-    },
-    {
-        "poblacion": "Berga",
-        "sitio": "Insomnia corporation",
-        "web": "http://www.hoteldeterror.com/",
-        "juego": "El còctel del doctor",
-        "tematica": "Terror",
-        "latitud": 42.0998972,
-        "longitud": 1.8375174,
-        "publicar": "si",
-        "fecha": 42456,
-        "jugadores": "Nadgi",
         "valoracion": 4
     },
     {
@@ -222,6 +225,7 @@
         "web": "http://www.picaderomotel.com/",
         "juego": "Picadero motel",
         "tematica": "Terror",
+        "max_jugadores": 6,
         "latitud": 41.4075291,
         "longitud": 2.1647714,
         "publicar": "si",
@@ -240,6 +244,18 @@
         "publicar": "si",
         "fecha": 42251,
         "jugadores": "Gem / Nadgi",
+        "valoracion": 4
+    },
+    {
+        "poblacion": "Hospitalet de LLobregat",
+        "sitio": "Scroom BCN",
+        "web": "http://www.scroombcn.com/",
+        "max_jugadores": 5,
+        "latitud": 41.378393,
+        "longitud": 2.1128913,
+        "publicar": "si",
+        "fecha": 42770,
+        "jugadores": "Alcaparrones",
         "valoracion": 4
     },
     {
@@ -278,21 +294,6 @@
         "fecha": 42434,
         "jugadores": "Alcaparrones",
         "valoracion": 3.75
-    },
-    {
-        "poblacion": "Barcelona",
-        "sitio": "Chicken Banana",
-        "web": "http://chickenbanana.com",
-        "juego": "Psiquiatría",
-        "tematica": "Terror",
-        "max_jugadores": 6,
-        "latitud": 41.375858,
-        "longitud": 2.1558233,
-        "publicar": "si",
-        "fecha": 42112,
-        "jugadores": "Alcaparrones",
-        "valoracion": 3.5,
-        "observaciones": "2 salas"
     },
     {
         "poblacion": "Barcelona",
@@ -335,19 +336,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Escape Barcelona",
-        "web": "http://www.escapebarcelona.com",
-        "juego": "La maldición del faraón",
-        "max_jugadores": 5,
-        "latitud": 41.4383891,
-        "longitud": 2.1650027,
-        "publicar": "si",
-        "fecha": 42469,
-        "jugadores": "Alcaparrones",
-        "valoracion": 3.5
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Habitación 73",
         "web": "http://www.habitacion73.com",
         "juego": "Habitación 73",
@@ -357,6 +345,19 @@
         "publicar": "si",
         "fecha": 42169,
         "jugadores": "Nadgi",
+        "valoracion": 3.5
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Escape Barcelona",
+        "web": "http://www.escapebarcelona.com",
+        "juego": "La maldición del faraón",
+        "max_jugadores": 5,
+        "latitud": 41.4383891,
+        "longitud": 2.1650027,
+        "publicar": "si",
+        "fecha": 42469,
+        "jugadores": "Alcaparrones",
         "valoracion": 3.5
     },
     {
@@ -386,6 +387,21 @@
         "valoracion": 3.5
     },
     {
+        "poblacion": "Barcelona",
+        "sitio": "Chicken Banana",
+        "web": "http://chickenbanana.com",
+        "juego": "Psiquiatría",
+        "tematica": "Terror",
+        "max_jugadores": 6,
+        "latitud": 41.375858,
+        "longitud": 2.1558233,
+        "publicar": "si",
+        "fecha": 42112,
+        "jugadores": "Alcaparrones",
+        "valoracion": 3.5,
+        "observaciones": "2 salas"
+    },
+    {
         "poblacion": "Nueva York",
         "sitio": "Escape the room NYC",
         "web": "http://static.escapetheroomnyc.com/",
@@ -400,15 +416,16 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Tic Tac room",
-        "web": "http://tictacroom.es",
-        "juego": "Walter Gate",
+        "sitio": "White rabbit",
+        "web": "http://www.whiterabbit.cat",
+        "juego": "Invitation",
+        "tematica": "Terror",
         "max_jugadores": 6,
-        "latitud": 41.373469,
-        "longitud": 2.1262983,
+        "latitud": 41.3863132,
+        "longitud": 2.1578216,
         "publicar": "si",
-        "fecha": 42329,
-        "jugadores": "Alcaparrones",
+        "fecha": 42420,
+        "jugadores": "Bailongos",
         "valoracion": 3
     },
     {
@@ -429,6 +446,7 @@
         "sitio": "Simulacre vuit",
         "web": "http://roomescapesimulacrevuit.es/",
         "juego": "Amazona",
+        "max_jugadores": 6,
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
@@ -477,16 +495,15 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "White rabbit",
-        "web": "http://www.whiterabbit.cat",
-        "juego": "Invitation",
-        "tematica": "Terror",
+        "sitio": "Tic Tac room",
+        "web": "http://tictacroom.es",
+        "juego": "Walter Gate",
         "max_jugadores": 6,
-        "latitud": 41.3863132,
-        "longitud": 2.1578216,
+        "latitud": 41.373469,
+        "longitud": 2.1262983,
         "publicar": "si",
-        "fecha": 42420,
-        "jugadores": "Bailongos",
+        "fecha": 42329,
+        "jugadores": "Alcaparrones",
         "valoracion": 3
     },
     {
@@ -545,6 +562,7 @@
         "sitio": "Simulacre vuit",
         "web": "http://roomescapesimulacrevuit.es/",
         "juego": "Firenze",
+        "max_jugadores": 6,
         "latitud": 41.4235985,
         "longitud": 2.1742077,
         "publicar": "si",
