@@ -167,6 +167,18 @@
         "valoracion": 4
     },
     {
+        "poblacion": "Barcelona",
+        "sitio": "Kessler Galimany",
+        "web": "http://galimany.com/room-escape",
+        "max_jugadores": 6,
+        "latitud": 41.3749398,
+        "longitud": 2.1357155,
+        "publicar": "si",
+        "fecha": 42799,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
+    },
+    {
         "poblacion": "Berga",
         "sitio": "Insomnia corporation",
         "web": "http://www.insomniacorp.com/",
@@ -250,8 +262,9 @@
         "poblacion": "Hospitalet de LLobregat",
         "sitio": "Scroom BCN",
         "web": "http://www.scroombcn.com/",
+        "juego": "El pironamo",
         "max_jugadores": 5,
-        "latitud": 41.378393,
+        "latitud": 41.3906549,
         "longitud": 2.1128913,
         "publicar": "si",
         "fecha": 42770,
@@ -336,15 +349,15 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Habitación 73",
-        "web": "http://www.habitacion73.com",
-        "juego": "Habitación 73",
-        "max_jugadores": 6,
-        "latitud": 41.407443,
-        "longitud": 2.1568984,
+        "sitio": "Escapa si puedes",
+        "web": "http://www.escapasipuedes.com",
+        "juego": "Agencia 29",
+        "max_jugadores": 5,
+        "latitud": 41.4093127,
+        "longitud": 2.1560271,
         "publicar": "si",
-        "fecha": 42169,
-        "jugadores": "Nadgi",
+        "fecha": 42684,
+        "jugadores": "Gem - Nadgi",
         "valoracion": 3.5
     },
     {
@@ -375,19 +388,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Escapa si puedes",
-        "web": "http://www.escapasipuedes.com",
-        "juego": "Agencia 29",
-        "max_jugadores": 5,
-        "latitud": 41.4093127,
-        "longitud": 2.1560271,
-        "publicar": "si",
-        "fecha": 42684,
-        "jugadores": "Gem - Nadgi",
-        "valoracion": 3.5
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Chicken Banana",
         "web": "http://chickenbanana.com",
         "juego": "Psiquiatría",
@@ -400,6 +400,19 @@
         "jugadores": "Alcaparrones",
         "valoracion": 3.5,
         "observaciones": "2 salas"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Habitación 73",
+        "web": "http://www.habitacion73.com",
+        "juego": "Habitación 73",
+        "max_jugadores": 6,
+        "latitud": 41.407443,
+        "longitud": 2.1568984,
+        "publicar": "si",
+        "fecha": 42169,
+        "jugadores": "Nadgi",
+        "valoracion": 3.5
     },
     {
         "poblacion": "Nueva York",

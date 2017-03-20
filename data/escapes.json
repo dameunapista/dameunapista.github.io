@@ -45,6 +45,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "60' Escape",
+        "web": "https://60escape.es/",
+        "juego": "Los infiltrados",
+        "max_jugadores": 8,
+        "latitud": 41.375768,
+        "longitud": 2.1556063,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Barcelocked",
         "web": "https://barcelocked.com",
         "juego": "Barcelocked",
@@ -113,7 +123,7 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Conund Room",
+        "sitio": "Conundroom",
         "web": "http://www.conundroom.es/",
         "juego": "Mr. Ascott",
         "latitud": 41.4024907,
@@ -153,6 +163,15 @@
         "juego": "Berlín 1983",
         "latitud": 41.4167708,
         "longitud": 2.191338,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Encrypt escape room",
+        "web": "http://encryptroom.com/",
+        "max_jugadores": 6,
+        "latitud": 41.3712359,
+        "longitud": 2.140304,
         "publicar": "si"
     },
     {
@@ -229,14 +248,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Escape World Barcelona",
-        "web": "http://www.escapeworldbarcelona.com/inicio.html?lang=es",
-        "juego": "Aventura de piratas",
-        "max_jugadores": 6,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Escapa si puedes",
         "web": "http://www.escapasipuedes.com",
         "juego": "Apartamento 97",
@@ -289,6 +300,16 @@
         "max_jugadores": 6,
         "latitud": 41.402034,
         "longitud": 2.1682443,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Escape world Barcelona",
+        "web": "http://www.escapeworldbarcelona.com",
+        "juego": "Aventura de piratas",
+        "max_jugadores": 5,
+        "latitud": 41.4244732,
+        "longitud": 2.1736199,
         "publicar": "si"
     },
     {
@@ -352,7 +373,10 @@
         "max_jugadores": 6,
         "latitud": 41.3749398,
         "longitud": 2.1357155,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42799,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
     },
     {
         "poblacion": "Barcelona",
@@ -731,6 +755,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Totem room escape",
+        "web": "http://totemescaperoom.com/",
+        "juego": "Las profecias de El Bosco",
+        "max_jugadores": 6,
+        "latitud": 41.4399044,
+        "longitud": 2.1616682,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Training room",
         "web": "http://trainingroombcn.com/",
         "max_jugadores": 6,
@@ -881,6 +915,16 @@
     },
     {
         "poblacion": "Cornellà de Llobregat",
+        "sitio": "Open mind room escape",
+        "web": "http://openmindroomescape.es/",
+        "juego": "Misión S.W.A.T",
+        "max_jugadores": 6,
+        "latitud": 41.3647727,
+        "longitud": 2.0753745,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Cornellà de Llobregat",
         "sitio": "Sala Koala",
         "web": "http://www.salakoala.com/",
         "juego": "La modelo",
@@ -905,6 +949,36 @@
         "max_jugadores": 5,
         "latitud": 41.52502,
         "longitud": 1.8557783,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Figueres",
+        "sitio": "ClaustroEuphoria",
+        "web": "http://www.claustroeuphoria.com/",
+        "juego": "Viatge a la lluna",
+        "max_jugadores": 5,
+        "latitud": 41.8577324,
+        "longitud": 3.1259738,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Figueres",
+        "sitio": "ClaustroEuphoria",
+        "web": "http://www.claustroeuphoria.com/",
+        "juego": "Aventura surrealista",
+        "max_jugadores": 5,
+        "latitud": 41.8577324,
+        "longitud": 3.1259738,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Figueres",
+        "sitio": "Kiwi escape room",
+        "web": "http://kiwiescaperoom.com/",
+        "juego": "Centro penitenciario Northwind",
+        "max_jugadores": 5,
+        "latitud": 42.2622058,
+        "longitud": 2.9489869,
         "publicar": "si"
     },
     {
@@ -962,15 +1036,65 @@
     },
     {
         "poblacion": "Hospitalet de LLobregat",
+        "sitio": "Kidnapped in BCN",
+        "web": "http://www.kidnappedinbcn.com/",
+        "max_jugadores": 5,
+        "latitud": 41.39065,
+        "longitud": 2.1223591,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Hospitalet de LLobregat",
         "sitio": "Scroom BCN",
         "web": "http://www.scroombcn.com/",
+        "juego": "El pironamo",
         "max_jugadores": 5,
-        "latitud": 41.378393,
+        "latitud": 41.3906549,
         "longitud": 2.1128913,
         "publicar": "si",
         "fecha": 42770,
         "jugadores": "Alcaparrones",
         "valoracion": 4
+    },
+    {
+        "poblacion": "Hospitalet de LLobregat",
+        "sitio": "The X door",
+        "web": "http://thexdoorbarcelona.com",
+        "juego": "White&Black",
+        "max_jugadores": 6,
+        "latitud": 41.369007,
+        "longitud": 2.1225283,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Hospitalet de LLobregat",
+        "sitio": "The X door",
+        "web": "http://thexdoorbarcelona.com",
+        "juego": "The haunted prision",
+        "max_jugadores": 6,
+        "latitud": 41.369007,
+        "longitud": 2.1225283,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Lleida",
+        "sitio": "Bluescape room",
+        "web": "http://bluescaperoom.com/",
+        "juego": "Amenaza nuclear",
+        "max_jugadores": 5,
+        "latitud": 41.6086456,
+        "longitud": 0.6622677,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Lleida",
+        "sitio": "Escapate",
+        "web": "http://escapatlleida.com/",
+        "juego": "Wild west",
+        "max_jugadores": 7,
+        "latitud": 41.622897,
+        "longitud": 0.6251737,
+        "publicar": "si"
     },
     {
         "poblacion": "Malgrat de Mar",
@@ -1168,6 +1292,16 @@
     },
     {
         "poblacion": "Sant Cugat del Vallès",
+        "sitio": "Komnata Quest",
+        "web": "http://komnataquest.es/barcelona/",
+        "juego": "Castillo Sant Angelo",
+        "max_jugadores": 5,
+        "latitud": 41.3862404,
+        "longitud": 2.1784891,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Sant Cugat del Vallès",
         "sitio": "MI7 Medusa Corp",
         "web": "http://www.mi7medusacorp.com/",
         "juego": "MI7 Medusa Corp",
@@ -1280,6 +1414,17 @@
         "fecha": 42655,
         "jugadores": "Fibers",
         "valoracion": 3.75
+    },
+    {
+        "poblacion": "Sitges",
+        "sitio": "Sitgesskape",
+        "web": "http://www.sitgescape.com/",
+        "juego": "Horror movie",
+        "tematica": "Terror",
+        "max_jugadores": 5,
+        "latitud": 41.2386149,
+        "longitud": 1.805336,
+        "publicar": "si"
     },
     {
         "poblacion": "Tarragona",
