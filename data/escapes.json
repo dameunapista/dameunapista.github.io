@@ -24,6 +24,15 @@
         "publicar": "si"
     },
     {
+        "poblacion": "Arboç",
+        "sitio": "Indicis",
+        "web": "http://www.indicis.es/",
+        "max_jugadores": 8,
+        "latitud": 41.268038,
+        "longitud": 1.600266,
+        "publicar": "si"
+    },
+    {
         "poblacion": "Badalona",
         "sitio": "Abduction",
         "web": "http://www.abduction.es/",
@@ -142,6 +151,16 @@
         "fecha": 42127,
         "jugadores": "Gem / Nadgi",
         "valoracion": 4
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Doppler Room Escape",
+        "web": "https://www.dopplerexperiences.com",
+        "juego": "Acto 1 - Vientos de Pólvora",
+        "max_jugadores": 6,
+        "latitud": 41.4076976,
+        "longitud": 2.1574655,
+        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",
@@ -355,6 +374,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Intramundos",
+        "web": "http://intramurosroomescape.es/",
+        "juego": "Necronomicón",
+        "max_jugadores": 6,
+        "latitud": 41.4114977,
+        "longitud": 2.1803621,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Intringulis",
         "web": "http://www.intringulisbcn.com/",
         "juego": "Petit Piaf Hotel",
@@ -499,6 +528,15 @@
         "web": "http://openmindroomescape.es/",
         "juego": "Misión S.W.A.T",
         "max_jugadores": 6,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Pandemya",
+        "web": "http://www.pandemya.com/",
+        "max_jugadores": 6,
+        "latitud": 41.3749074,
+        "longitud": 2.1293797,
         "publicar": "si"
     },
     {
@@ -1028,10 +1066,12 @@
     },
     {
         "poblacion": "Granollers",
-        "sitio": "Key room granollers",
-        "web": "http://www.key-room.es/",
+        "sitio": "KeyPlay",
+        "web": "http://www.keyplay.es/",
         "juego": "Expediente Mallory",
         "max_jugadores": 6,
+        "latitud": 41.6038223,
+        "longitud": 2.2858726,
         "publicar": "si"
     },
     {
