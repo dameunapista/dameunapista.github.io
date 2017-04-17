@@ -329,7 +329,10 @@
         "max_jugadores": 5,
         "latitud": 41.4244732,
         "longitud": 2.1736199,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42841,
+        "jugadores": "Nadgi",
+        "valoracion": 3.75
     },
     {
         "poblacion": "Barcelona",
@@ -1583,7 +1586,10 @@
         "juego": "Franky Resurrection",
         "latitud": 41.2252727,
         "longitud": 1.7209346,
-        "publicar": "si"
+        "publicar": "si",
+        "fecha": 42834,
+        "jugadores": "Alcaparrones",
+        "valoracion": 3.75
     },
     {
         "poblacion": "Zaragoza",
