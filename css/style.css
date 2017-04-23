@@ -50,3 +50,9 @@
     margin-right: 8px;
     opacity: 0.7;
 }
+/* react-bootstrap-table */
+.react-bs-table table td {
+  /*overflow: hidden;*/
+  white-space: normal !important; /*default nowrap*/
+  /*text-overflow: ellipsis;*/
+}

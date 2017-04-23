@@ -1,5 +1,6 @@
 var gsjson = require('google-spreadsheet-to-json');
 var jsonfile = require('jsonfile');
+var path = require('path');
 
 jsonfile.spaces = 4 //format json output
 
@@ -15,7 +16,7 @@ gsjson({
     var escapes = result.filter(function(escape){
 		return (escape.publicar === "si");
 	})
-	jsonfile.writeFile('escapes.json', escapes, function (err) {
+	jsonfile.writeFile(path.join(process.cwd(),'data', 'escapes.json'), escapes, function (err) {
 		if (err) console.error(err);
 	});
 
@@ -26,7 +27,7 @@ gsjson({
 	.sort(function(a, b){
 	    return b.valoracion - a.valoracion; //order desc
 	});
-	jsonfile.writeFile('top.json', top, function (err) {
+	jsonfile.writeFile(path.join(process.cwd(),'data','top.json'), top, function (err) {
 		if (err) console.error(err);
 	});
 })
