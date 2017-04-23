@@ -5,31 +5,16 @@ title: Top Escapes
 <html>
 	<head>
 		<script type="text/javascript" src="/js/jquery.js"></script>
-		<script type="text/javascript" src="/js/top.js"></script>
 		<link href="/css/style.css" rel="stylesheet" type="text/css">
 		<!-- Bootstrap --> 
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/css/bootstrap-theme.min.css">
 		<script src="/js/bootstrap.min.js"></script>
+		<!--react-bootstrap-table-->
+		<link rel="stylesheet" href="https://npmcdn.com/react-bootstrap-table/dist/react-bootstrap-table-all.min.css">
 	</head>
-	<body onload="loadData()">
-		<div class="wrap">
-			<div class="container">
-				<h3>Top Escapes</h3>
-				<p>Aquí encontraréis los room escapes que más nos han gustado, de entre los <label id="lblNumEscapes">0</label> que llevamos jugados ya!.
-				<table id="table1" class="table">
-					<thead>
-					  <tr>
-						<th>Puntuación</th>
-						<th>Escape</th>
-						<th>Juego</th>
-						<th>Web</th>
-					  </tr>
-					</thead>
-					<tbody id="table_rows">
-					</tbody>
-				</table>
-			</div>
-		</div>
+	<body>
+        <div id="top"></div>
+        <script type="text/javascript" src="/js/top.bundle.js" charset="utf-8"></script>		
 	</body>
 </html>

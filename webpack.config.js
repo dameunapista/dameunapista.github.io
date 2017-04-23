@@ -1,7 +1,7 @@
 path = require("path");
 
 module.exports = {
-  devtool: 'source-map',
+  //devtool: 'source-map',
   // src folder's entry js - excluded from jekll's build process.
   entry: "./src/top.jsx",
   output: {
