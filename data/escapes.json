@@ -414,9 +414,10 @@
         "poblacion": "Barcelona",
         "sitio": "Kidnapped in BCN",
         "web": "http://www.kidnappedinbcn.com/",
+        "juego": "El secuestro",
         "max_jugadores": 5,
-        "latitud": 41.3796384,
-        "longitud": 2.1219451,
+        "latitud": 41.3792856,
+        "longitud": 2.1231636,
         "publicar": "si"
     },
     {
@@ -1075,15 +1076,6 @@
         "max_jugadores": 6,
         "latitud": 41.6038223,
         "longitud": 2.2858726,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Hospitalet de LLobregat",
-        "sitio": "Kidnapped in BCN",
-        "web": "http://www.kidnappedinbcn.com/",
-        "max_jugadores": 5,
-        "latitud": 41.39065,
-        "longitud": 2.1223591,
         "publicar": "si"
     },
     {

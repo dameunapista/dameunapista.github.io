@@ -1,0 +1,1876 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.600266,
+                    41.268038
+                ]
+            },
+            "properties": {
+                "sitio": "Indicis",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.indicis.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2414453,
+                    41.447387
+                ]
+            },
+            "properties": {
+                "sitio": "Abduction",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.abduction.es/",
+                "valoracion": 4.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1556063,
+                    41.375768
+                ]
+            },
+            "properties": {
+                "sitio": "60' Escape",
+                "juego": [
+                    "Los infiltrados"
+                ],
+                "web": "https://60escape.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1762653,
+                    41.385173
+                ]
+            },
+            "properties": {
+                "sitio": "Barcelocked",
+                "juego": [
+                    "Barcelocked"
+                ],
+                "web": "https://barcelocked.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1558233,
+                    41.375858
+                ]
+            },
+            "properties": {
+                "sitio": "Chicken Banana",
+                "juego": [
+                    "Mafia",
+                    "Psiquiatría"
+                ],
+                "web": "http://chickenbanana.com",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174245,
+                    41.3917024
+                ]
+            },
+            "properties": {
+                "sitio": "Claustrophobia",
+                "juego": [
+                    "Los prisioneros de la mazmorra",
+                    "Los bootlegers"
+                ],
+                "web": "https://claustrophobia.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1877892,
+                    41.4319424
+                ]
+            },
+            "properties": {
+                "sitio": "Confined",
+                "juego": [
+                    "Confined"
+                ],
+                "web": "http://www.confinedbcn.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1801108,
+                    41.4024907
+                ]
+            },
+            "properties": {
+                "sitio": "Conundroom",
+                "juego": [
+                    "Mr. Ascott"
+                ],
+                "web": "http://www.conundroom.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1843926,
+                    41.4092265
+                ]
+            },
+            "properties": {
+                "sitio": "Cronologic",
+                "juego": [
+                    "Cronologic"
+                ],
+                "web": "http://www.cronologic.es",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1574655,
+                    41.4076976
+                ]
+            },
+            "properties": {
+                "sitio": "Doppler Room Escape",
+                "juego": [
+                    "Acto 1 - Vientos de Pólvora"
+                ],
+                "web": "https://www.dopplerexperiences.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.191338,
+                    41.4167708
+                ]
+            },
+            "properties": {
+                "sitio": "Encerrado",
+                "juego": [
+                    "El veneno mortal",
+                    "Berlín 1983"
+                ],
+                "web": "http://www.encerrado.es",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.140304,
+                    41.3712359
+                ]
+            },
+            "properties": {
+                "sitio": "Encrypt escape room",
+                "juego": [
+                    ""
+                ],
+                "web": "http://encryptroom.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1760533,
+                    41.425245
+                ]
+            },
+            "properties": {
+                "sitio": "Enigma Room Escape",
+                "juego": [
+                    "Enigma"
+                ],
+                "web": "http://juegoenigma.es/es/",
+                "valoracion": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1775313,
+                    41.4098961
+                ]
+            },
+            "properties": {
+                "sitio": "Enigmik",
+                "juego": [
+                    "The Bunker"
+                ],
+                "web": "http://www.enigmik.com",
+                "valoracion": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1705581,
+                    41.422591
+                ]
+            },
+            "properties": {
+                "sitio": "Escápate Barcelona",
+                "juego": [
+                    "El silo"
+                ],
+                "web": "http://roomescapatebarcelona.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1650027,
+                    41.4383891
+                ]
+            },
+            "properties": {
+                "sitio": "Escape Barcelona",
+                "juego": [
+                    "La maldición del faraón",
+                    "El templo perdido",
+                    "Jurassic Land"
+                ],
+                "web": "http://www.escapebarcelona.com",
+                "valoracion": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1475154,
+                    41.4052586
+                ]
+            },
+            "properties": {
+                "sitio": "Escapa si puedes",
+                "juego": [
+                    "Apartamento 97",
+                    "Agencia 29"
+                ],
+                "web": "http://www.escapasipuedes.com",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1682443,
+                    41.402034
+                ]
+            },
+            "properties": {
+                "sitio": "Escape Hunt",
+                "juego": [
+                    "El misterio de Gaudí",
+                    "Escuela de ladrones",
+                    "La vampira de Barcelona"
+                ],
+                "web": "http://barcelona.escapehunt.com/es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1736199,
+                    41.4244732
+                ]
+            },
+            "properties": {
+                "sitio": "Escape world Barcelona",
+                "juego": [
+                    "Aventura de piratas"
+                ],
+                "web": "http://www.escapeworldbarcelona.com",
+                "valoracion": 3.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1568984,
+                    41.407443
+                ]
+            },
+            "properties": {
+                "sitio": "Habitación 73",
+                "juego": [
+                    "Habitación 73"
+                ],
+                "web": "http://www.habitacion73.com",
+                "valoracion": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.178470035,
+                    41.410871103
+                ]
+            },
+            "properties": {
+                "sitio": "Horror Box",
+                "juego": [
+                    "Jigsaw",
+                    "Ouija"
+                ],
+                "web": "http://www.horrorbox.es/producto/jigsaw-escape-room/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1803621,
+                    41.4114977
+                ]
+            },
+            "properties": {
+                "sitio": "Intramundos",
+                "juego": [
+                    "Necronomicón"
+                ],
+                "web": "http://intramurosroomescape.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1889315,
+                    41.4260455
+                ]
+            },
+            "properties": {
+                "sitio": "Intringulis",
+                "juego": [
+                    "Petit Piaf Hotel"
+                ],
+                "web": "http://www.intringulisbcn.com/",
+                "valoracion": 4.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1357155,
+                    41.3749398
+                ]
+            },
+            "properties": {
+                "sitio": "Kessler Galimany",
+                "juego": [
+                    ""
+                ],
+                "web": "http://galimany.com/room-escape",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1231636,
+                    41.3792856
+                ]
+            },
+            "properties": {
+                "sitio": "Kidnapped in BCN",
+                "juego": [
+                    "El secuestro"
+                ],
+                "web": "http://www.kidnappedinbcn.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1375158,
+                    41.3756901
+                ]
+            },
+            "properties": {
+                "sitio": "La Sala",
+                "juego": [
+                    "Sala 1"
+                ],
+                "web": "http://lasaladeescape.com/",
+                "valoracion": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1712963,
+                    41.386199
+                ]
+            },
+            "properties": {
+                "sitio": "Lock-clock",
+                "juego": [
+                    "El secreto de Gaudi",
+                    "Tesoro azteca"
+                ],
+                "web": "http://lock-clock.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1761636,
+                    41.3943332
+                ]
+            },
+            "properties": {
+                "sitio": "Lostroom",
+                "juego": [
+                    "La quest cosmos",
+                    "La fiesta de los zombies",
+                    "Alicia en el pais de las maravillas"
+                ],
+                "web": "http://lostroombcn.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1641855,
+                    41.3949605
+                ]
+            },
+            "properties": {
+                "sitio": "Magic escape",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.magicescape.es/",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2006886,
+                    41.4070564
+                ]
+            },
+            "properties": {
+                "sitio": "Mystery escape barcelona",
+                "juego": [
+                    "El misterio de la mansión"
+                ],
+                "web": "http://mysteryescape.es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1293797,
+                    41.3749074
+                ]
+            },
+            "properties": {
+                "sitio": "Pandemya",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.pandemya.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1380698,
+                    41.3742875
+                ]
+            },
+            "properties": {
+                "sitio": "Parapark 1",
+                "juego": [
+                    "Habitacle 113"
+                ],
+                "web": "http://parapark.es",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1647714,
+                    41.4075291
+                ]
+            },
+            "properties": {
+                "sitio": "Picadero motel",
+                "juego": [
+                    "Picadero motel"
+                ],
+                "web": "http://www.picaderomotel.com/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1434603,
+                    41.371419
+                ]
+            },
+            "properties": {
+                "sitio": "Proyecto Target",
+                "juego": [
+                    "Proyecto Target"
+                ],
+                "web": "http://proyectotarget.com",
+                "valoracion": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.131628,
+                    41.3808217
+                ]
+            },
+            "properties": {
+                "sitio": "Questory",
+                "juego": [
+                    "Asalto a la guarida",
+                    "Prison Break"
+                ],
+                "web": "http://questory.es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1908853,
+                    41.439479
+                ]
+            },
+            "properties": {
+                "sitio": "Retobox",
+                "juego": [
+                    "Celda",
+                    "Capitán Pessoa"
+                ],
+                "web": "http://www.retobox.com",
+                "valoracion": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1531043,
+                    41.404546
+                ]
+            },
+            "properties": {
+                "sitio": "Roomin",
+                "juego": [
+                    "Roomin"
+                ],
+                "web": "http://www.roomin.es/es/",
+                "valoracion": 3.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.197161,
+                    41.3907832
+                ]
+            },
+            "properties": {
+                "sitio": "Room of Riddle",
+                "juego": [
+                    "El capitán del puerto",
+                    "El coleccionista"
+                ],
+                "web": "http://barcelona.roomofriddles.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1731081,
+                    41.4007354
+                ]
+            },
+            "properties": {
+                "sitio": "Señor escape",
+                "juego": [
+                    "El prisionero",
+                    "La isla"
+                ],
+                "web": "http://senorescape.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1742077,
+                    41.4235985
+                ]
+            },
+            "properties": {
+                "sitio": "Simulacre vuit",
+                "juego": [
+                    "Amazona",
+                    "Firenze"
+                ],
+                "web": "http://roomescapesimulacrevuit.es/",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1747244,
+                    41.4073437
+                ]
+            },
+            "properties": {
+                "sitio": "Tactic room",
+                "juego": [
+                    "La casa paranormal",
+                    "Chernóbil",
+                    "Epidemia Z"
+                ],
+                "web": "http://www.tacticgame.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1656596,
+                    41.4040265
+                ]
+            },
+            "properties": {
+                "sitio": "The house of whispers",
+                "juego": [
+                    "La historia de Myra Savage"
+                ],
+                "web": "http://thehouseofwhispers.com/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1273675,
+                    41.3855569
+                ]
+            },
+            "properties": {
+                "sitio": "The resistance",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.resistanceroom.com/es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1262983,
+                    41.373469
+                ]
+            },
+            "properties": {
+                "sitio": "Tic Tac room",
+                "juego": [
+                    "Walter Gate"
+                ],
+                "web": "http://tictacroom.es",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1783615,
+                    41.4320532
+                ]
+            },
+            "properties": {
+                "sitio": "Tolok room escape",
+                "juego": [
+                    "El misterio maya"
+                ],
+                "web": "http://www.tolokroomescape.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1974606,
+                    41.4049647
+                ]
+            },
+            "properties": {
+                "sitio": "Top secret",
+                "juego": [
+                    "Ley seca"
+                ],
+                "web": "http://www.topsecretbarcelona.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1616682,
+                    41.4399044
+                ]
+            },
+            "properties": {
+                "sitio": "Totem room escape",
+                "juego": [
+                    "Las profecias de El Bosco"
+                ],
+                "web": "http://totemescaperoom.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1330185,
+                    41.376434
+                ]
+            },
+            "properties": {
+                "sitio": "Training room",
+                "juego": [
+                    ""
+                ],
+                "web": "http://trainingroombcn.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1571213,
+                    41.399692
+                ]
+            },
+            "properties": {
+                "sitio": "Últim avís",
+                "juego": [
+                    "Últim avís"
+                ],
+                "web": "https://ultimavis.cat/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1578216,
+                    41.3863132
+                ]
+            },
+            "properties": {
+                "sitio": "White rabbit",
+                "juego": [
+                    "Invitation",
+                    "The thinking room",
+                    "Playground"
+                ],
+                "web": "http://www.whiterabbit.cat",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1499193,
+                    41.378372
+                ]
+            },
+            "properties": {
+                "sitio": "Xcape",
+                "juego": [
+                    "El castillo de las tinieblas",
+                    "Celda infernal",
+                    "El misterio del antiguo Egipto"
+                ],
+                "web": "http://www.juegosdeescapebarcelona.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8375174,
+                    42.0998972
+                ]
+            },
+            "properties": {
+                "sitio": "Insomnia corporation",
+                "juego": [
+                    "El còctel del doctor",
+                    "XPERIMENT"
+                ],
+                "web": "http://www.insomniacorp.com/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.444338,
+                    41.780422
+                ]
+            },
+            "properties": {
+                "sitio": "Castellfollit aventura",
+                "juego": [
+                    ""
+                ],
+                "web": "http://castellfollitaventura.cat/escaperoom",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0726703,
+                    41.3662334
+                ]
+            },
+            "properties": {
+                "sitio": "Indaga cornellà",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.indagacornella.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0730483,
+                    41.3585008
+                ]
+            },
+            "properties": {
+                "sitio": "Last minute Cornella",
+                "juego": [
+                    ""
+                ],
+                "web": "https://www.facebook.com/lastminutecornella/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0693133,
+                    41.35653
+                ]
+            },
+            "properties": {
+                "sitio": "Missionleak",
+                "juego": [
+                    "La Flor de Thaqar"
+                ],
+                "web": "http://missionleak.com/es/",
+                "valoracion": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0753745,
+                    41.3647727
+                ]
+            },
+            "properties": {
+                "sitio": "Open mind room escape",
+                "juego": [
+                    "Misión S.W.A.T"
+                ],
+                "web": "http://openmindroomescape.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.072712,
+                    41.354794
+                ]
+            },
+            "properties": {
+                "sitio": "Sala Koala",
+                "juego": [
+                    "La modelo"
+                ],
+                "web": "http://www.salakoala.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6677462,
+                    41.1994549
+                ]
+            },
+            "properties": {
+                "sitio": "Desafío pirata: the mysterious legand of cubelles",
+                "juego": [
+                    ""
+                ],
+                "web": "http://desafiopirata.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8557783,
+                    41.52502
+                ]
+            },
+            "properties": {
+                "sitio": "The mystery rooms",
+                "juego": [
+                    "The Richardson's"
+                ],
+                "web": "http://themysteryrooms.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1259738,
+                    41.8577324
+                ]
+            },
+            "properties": {
+                "sitio": "ClaustroEuphoria",
+                "juego": [
+                    "Viatge a la lluna",
+                    "Aventura surrealista",
+                    "Viatge a la lluna",
+                    "Aventura surrealista"
+                ],
+                "web": "http://www.claustroeuphoria.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9489869,
+                    42.2622058
+                ]
+            },
+            "properties": {
+                "sitio": "Kiwi escape room",
+                "juego": [
+                    "Centro penitenciario Northwind"
+                ],
+                "web": "http://kiwiescaperoom.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8207272,
+                    41.9849817
+                ]
+            },
+            "properties": {
+                "sitio": "Escapis",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.escapis.cat/es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8777513,
+                    42.034584
+                ]
+            },
+            "properties": {
+                "sitio": "Hostal 83",
+                "juego": [
+                    ""
+                ],
+                "web": "http://hostal83.wixsite.com/hostal83",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2864508,
+                    41.6116454
+                ]
+            },
+            "properties": {
+                "sitio": "Agencia 846",
+                "juego": [
+                    "Cas Namibia"
+                ],
+                "web": "http://www.agencia846.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.290333,
+                    41.6096172
+                ]
+            },
+            "properties": {
+                "sitio": "Granollers experience",
+                "juego": [
+                    "Bandidos"
+                ],
+                "web": "http://granollersexperience.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2858726,
+                    41.6038223
+                ]
+            },
+            "properties": {
+                "sitio": "KeyPlay",
+                "juego": [
+                    "Expediente Mallory"
+                ],
+                "web": "http://www.keyplay.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1128913,
+                    41.3906549
+                ]
+            },
+            "properties": {
+                "sitio": "Scroom BCN",
+                "juego": [
+                    "El piromano"
+                ],
+                "web": "http://www.scroombcn.com/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1225283,
+                    41.369007
+                ]
+            },
+            "properties": {
+                "sitio": "The X door",
+                "juego": [
+                    "White&Black",
+                    "The haunted prision"
+                ],
+                "web": "http://thexdoorbarcelona.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6622677,
+                    41.6086456
+                ]
+            },
+            "properties": {
+                "sitio": "Bluescape room",
+                "juego": [
+                    "Amenaza nuclear"
+                ],
+                "web": "http://bluescaperoom.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6251737,
+                    41.622897
+                ]
+            },
+            "properties": {
+                "sitio": "Escapate",
+                "juego": [
+                    "Wild west"
+                ],
+                "web": "http://escapatlleida.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7349213,
+                    41.64086
+                ]
+            },
+            "properties": {
+                "sitio": "Houdini escape room",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.escapehoudini.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8182198,
+                    41.7251333
+                ]
+            },
+            "properties": {
+                "sitio": "La clau room escape",
+                "juego": [
+                    "La caixa de Pandora"
+                ],
+                "web": "http://www.laclauroomescape.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8259168,
+                    41.7320447
+                ]
+            },
+            "properties": {
+                "sitio": "Secret Room Escape",
+                "juego": [
+                    "El misterio de Montserrat",
+                    "Las estancias de la ama de llaves"
+                ],
+                "web": "http://www.secretroomescape.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3032139,
+                    41.4796705
+                ]
+            },
+            "properties": {
+                "sitio": "Escape Masnou",
+                "juego": [
+                    "El submarino soviético"
+                ],
+                "web": "https://escapemasnou.com/",
+                "valoracion": 4.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.441029,
+                    41.5330891
+                ]
+            },
+            "properties": {
+                "sitio": "Cubick",
+                "juego": [
+                    ""
+                ],
+                "web": "http://cubickroomescape.es/ca/",
+                "valoracion": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4444006,
+                    41.537352
+                ]
+            },
+            "properties": {
+                "sitio": "Enigmatiks",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.enigmatiks.com/ca/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4270432,
+                    41.5429568
+                ]
+            },
+            "properties": {
+                "sitio": "Effugium",
+                "juego": [
+                    "Amenaza bomba"
+                ],
+                "web": "http://www.effugium.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4296766,
+                    41.5408356
+                ]
+            },
+            "properties": {
+                "sitio": "La sortida",
+                "juego": [
+                    "Codicia"
+                ],
+                "web": "http://www.lasortida.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0241523,
+                    41.404767
+                ]
+            },
+            "properties": {
+                "sitio": "la soga",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.la-soga.com/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2066314,
+                    41.5331997
+                ]
+            },
+            "properties": {
+                "sitio": "Trapped Mollet",
+                "juego": [
+                    ""
+                ],
+                "web": "http://www.trappedmollet.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9894454,
+                    40.7473215
+                ]
+            },
+            "properties": {
+                "sitio": "Escape the room NYC",
+                "juego": [
+                    "Agency"
+                ],
+                "web": "http://static.escapetheroomnyc.com/",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1473703,
+                    40.1130631
+                ]
+            },
+            "properties": {
+                "sitio": "Secretorum",
+                "juego": [
+                    ""
+                ],
+                "web": "http://secretorum.es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.108259,
+                    41.151249
+                ]
+            },
+            "properties": {
+                "sitio": "Enigmatik games",
+                "juego": [
+                    "CSI Costa Dorada",
+                    "El golpe"
+                ],
+                "web": "http://www.enigmatikgames.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.115556,
+                    41.5303107
+                ]
+            },
+            "properties": {
+                "sitio": "Escapem",
+                "juego": [
+                    "La sospecha"
+                ],
+                "web": "http://escapem.com/",
+                "valoracion": 3.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1784891,
+                    41.3862404
+                ]
+            },
+            "properties": {
+                "sitio": "Komnata Quest",
+                "juego": [
+                    "Castillo Sant Angelo"
+                ],
+                "web": "http://komnataquest.es/barcelona/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0553717,
+                    41.4755653
+                ]
+            },
+            "properties": {
+                "sitio": "MI7 Medusa Corp",
+                "juego": [
+                    "MI7 Medusa Corp"
+                ],
+                "web": "http://www.mi7medusacorp.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0689313,
+                    41.3797205
+                ]
+            },
+            "properties": {
+                "sitio": "Skp game",
+                "juego": [
+                    "Atahualpa",
+                    "Biblioteca",
+                    "Lancelot"
+                ],
+                "web": "http://www.skp-game.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2529187,
+                    41.9292915
+                ]
+            },
+            "properties": {
+                "sitio": "Fluwin",
+                "juego": [
+                    "El secret de Sant Jordi"
+                ],
+                "web": "http://www.fluwimoci.cat/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0108793,
+                    41.391163
+                ]
+            },
+            "properties": {
+                "sitio": "Escape to SantVi",
+                "juego": [
+                    "La habitación de Nelly"
+                ],
+                "web": "https://www.escapetosantvi.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2120809,
+                    41.4489815
+                ]
+            },
+            "properties": {
+                "sitio": "Clue Hunter",
+                "juego": [
+                    "El juego de Seed: Sótano",
+                    "Asesinato en el tren"
+                ],
+                "web": "http://www.cluehunterbarcelona.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8106403,
+                    41.2405513
+                ]
+            },
+            "properties": {
+                "sitio": "Room escape Sitges",
+                "juego": [
+                    "El misterio del archivo abandonado"
+                ],
+                "web": "http://roomescapesitges.com/",
+                "valoracion": 3.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.805336,
+                    41.2386149
+                ]
+            },
+            "properties": {
+                "sitio": "Sitgesskape",
+                "juego": [
+                    "Horror movie"
+                ],
+                "web": "http://www.sitgescape.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0087899,
+                    41.5705249
+                ]
+            },
+            "properties": {
+                "sitio": "Cafè misteri",
+                "juego": [
+                    ""
+                ],
+                "web": "http://cafemisteri.cat/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0346653,
+                    41.529807
+                ]
+            },
+            "properties": {
+                "sitio": "Vive tu escape",
+                "juego": [
+                    "Aventura pirata: El tesoro de drake"
+                ],
+                "web": "http://www.vivetuescape.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7356747,
+                    28.0597897
+                ]
+            },
+            "properties": {
+                "sitio": "Exciting Game",
+                "juego": [
+                    "El mito del Teide",
+                    "El secreto del rey Guanche"
+                ],
+                "web": "http://excitinggame.es/es/",
+                "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3726421,
+                    28.3539748
+                ]
+            },
+            "properties": {
+                "sitio": "The Escape Area",
+                "juego": [
+                    "El apartamento"
+                ],
+                "web": "http://www.theescapearea.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5289834,
+                    41.2185133
+                ]
+            },
+            "properties": {
+                "sitio": "Escapastic",
+                "juego": [
+                    "El laboratorio del Dr. Strauss"
+                ],
+                "web": "http://www.escapastic.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2552513,
+                    41.931212
+                ]
+            },
+            "properties": {
+                "sitio": "Faif",
+                "juego": [
+                    "La taverna"
+                ],
+                "web": "http://escapefaif.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7023711,
+                    41.3481787
+                ]
+            },
+            "properties": {
+                "sitio": "Can Bruna",
+                "juego": [
+                    "Can Bruna"
+                ],
+                "web": "http://canbruna.cat/",
+                "valoracion": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7209346,
+                    41.2252727
+                ]
+            },
+            "properties": {
+                "sitio": "Scaparium",
+                "juego": [
+                    "El robo",
+                    "Franky Resurrection"
+                ],
+                "web": "http://scaparium.com/",
+                "valoracion": 3.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8884888,
+                    41.6724245
+                ]
+            },
+            "properties": {
+                "sitio": "Locked",
+                "juego": [
+                    "Sherlocked"
+                ],
+                "web": "http://lockedzgz.com/",
+                "valoracion": ""
+            }
+        }
+    ]
+}

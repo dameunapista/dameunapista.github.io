@@ -31,9 +31,9 @@
     padding: 10px;
 }
 /* Leaflet Map */
-#mapid { 
+/*#mapid { 
     height: 400px; 
-}
+}*/
 .legend {
     line-height: 18px;
     color: #555;

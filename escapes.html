@@ -5,53 +5,23 @@ title: ¿Buscas Escape?
 <html>
 	<head>		
 		<script type="text/javascript" src="/js/jquery.js"></script>
-		<script type="text/javascript" src="/js/search.js"></script>
 		<link href="/css/style.css" rel="stylesheet" type="text/css">
 		<!-- Bootstrap --> 
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/css/bootstrap-theme.min.css">
 		<script src="/js/bootstrap.min.js"></script>
 		<!-- Leaflet -->
-		<link rel="stylesheet" href="/css/leaflet/leaflet.css" />
+		<link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css' rel='stylesheet'>
+		<!--link rel="stylesheet" href="/css/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/leaflet/leaflet-legend.css" />
 		<script src="/js/leaflet/leaflet.js"></script>
 		<script src="/js/leaflet/leaflet-legend.js"></script>
-		<script src="/js/leaflet/leaflet-color-markers.js"></script>
+		<script src="/js/leaflet/leaflet-color-markers.js"></script-->
+		<!--react-bootstrap-table-->
+		<link rel="stylesheet" href="https://npmcdn.com/react-bootstrap-table/dist/react-bootstrap-table-all.min.css">
 	</head>
-	<body onload="loadData()">
-		<div class="wrap">
-			<div class="container">
-				<h3>Buscador de Escapes</h3>
-				<p>Aquí encontraréis todos los room escapes que tenemos localizados (<label id="lblNumEscapes">0</label>). También podéis ver <a href="/links">otros listados</a>.</p>
-				<!--div class="input-group stylish-input-group">
-					<input type="checkbox" aria-label="Filtrar en el mapa">
-				</div-->
-				<div class="panel panel-default">
-					<!--div class="panel-body"-->
-						<div id="mapid"></div>
-					<!--/div-->
-				</div>
-				<div class="input-group stylish-input-group">
-					<input id="filter1" type="text" class="form-control" placeholder="Buscar..." >
-					<span class="input-group-addon">
-						<button type="submit">
-							<span class="glyphicon glyphicon-search"></span>
-						</button>  
-					</span>
-				</div>				
-				<table id="table1" class="table">
-					<thead>
-					<tr>
-						<th>Población</th>
-						<th>Escape</th>
-						<th>Juego</th>
-						<th>Web</th>
-					</tr>
-					</thead>
-					<tbody id="table_rows">
-					</tbody>
-				</table>
-			</div>
-		</div>
+	<body>
+		<div id="escapes"></div>
+        <script type="text/javascript" src="/js/escapes.bundle.js" charset="utf-8"></script>
 	</body>
 </html>

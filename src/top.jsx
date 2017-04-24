@@ -4,29 +4,18 @@ import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import ReactBsTable, {BootstrapTable, TableHeaderColumn}  from 'react-bootstrap-table';
 import axios from 'axios';
-import ReactStars from 'react-stars';
-import FaExternalLink from 'react-icons/lib/fa/external-link';
-
-function starsFormatter(cell, row){
-  return <ReactStars value={cell} count="5" edit="false"/>;
-}
-
-function linkFormatter(cell, row){
-  return <a href={cell}><FaExternalLink color="black" size="16" /></a>
-}
-
-function NumEscapes(props){
-  return (
-    <label id="lblNumEscapes">{props.value}</label>
-  );
-}
+import {starsFormatter, linkFormatter, NumEscapes} from './utils.jsx';
 
 function TopEscapes(props) {
-   return (
+  let tableOptions = {
+    defaultSortName: 'valoracion',
+    defaultSortOrder: 'desc'
+  };
+  return (
     <div>
 			<h3>Top Escapes</h3>
 			<p>Aquí encontraréis los room escapes que más nos han gustado, de entre los <NumEscapes value={props.total} /> que llevamos jugados ya!.</p>
-      <BootstrapTable data={props.data} options={ {defaultSortName: 'valoracion', defaultSortOrder: 'desc'} }>
+      <BootstrapTable data={props.data} options={ tableOptions }>
         <TableHeaderColumn dataField='valoracion' dataFormat={starsFormatter} width='90' tdStyle={ { textAlign: 'center' } } >Valoración</TableHeaderColumn>
         <TableHeaderColumn isKey dataField='sitio'>Sitio</TableHeaderColumn>
         <TableHeaderColumn dataField='juego'>Juego</TableHeaderColumn>

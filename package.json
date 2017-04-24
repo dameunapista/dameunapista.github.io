@@ -14,12 +14,16 @@
   },
   "dependencies": {
     "axios": "^0.16.1",
+    "geojson": "^0.4.1",
     "google-spreadsheet-to-json": "^0.3.0",
+    "json-groupby": "^1.0.1",
     "jsonfile": "^2.4.0",
+    "leaflet": "^1.0.3",
     "leaflet-legend": "^1.0.2",
     "prop-types": "^15.5.8",
     "react-bootstrap-table": "^3.2.1",
     "react-icons": "^2.2.3",
+    "react-leaflet": "^1.1.6",
     "react-stars": "^2.1.0"
   },
   "devDependencies": {
@@ -30,6 +34,7 @@
     "react": "^15.5.4",
     "react-addons-update": "^15.5.2",
     "react-dom": "^15.5.4",
+    "uglifyjs-webpack-plugin": "^0.4.3",
     "webpack": "^2.4.1"
   }
 }
