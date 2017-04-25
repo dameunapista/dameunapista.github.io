@@ -4,16 +4,17 @@ import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import ReactBsTable, {BootstrapTable, TableHeaderColumn}  from 'react-bootstrap-table';
 import axios from 'axios';
-import { linkFormatter, NumEscapes} from './utils.jsx';
+import { linkFormatter, NumEscapes } from './utils.jsx';
 import { Map, Marker, Popup, TileLayer, GeoJSON } from 'react-leaflet';
 import { circleMarker } from 'leaflet';
+import LegendControl from './leaflet-legend.jsx';
 
 function getStyle(feature, layer) {
-	var escapeColor = '#FF6400';
+	var escapeColor = '#cb2539';
 	if(feature.properties.valoracion) {
-		escapeColor = '#0064FF';
+		escapeColor = '#388ccd';
 		if(feature.properties.valoracion >=4) {
-			escapeColor = '#64FF00';
+			escapeColor = '#22ac1e';
 		}
 	}
 	return {
@@ -54,6 +55,13 @@ function Escapes(props) {
 					attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 				/>
 				<GeoJSON data={props.locations} style={getStyle} pointToLayer={getPointToLayer} onEachFeature={bindPopupToFeature} />
+				<LegendControl className="supportLegend">
+					<ul className="legend">
+						<li className="legendItem1"><i style={{ background: '#22ac1e' }}></i>Recomendados</li>
+						<li className="legendItem2"><i style={{ background: '#388ccd' }}></i>Jugados</li>
+						<li className="legendItem3"><i style={{ background: '#cb2539' }}></i>No Jugados</li>						
+					</ul>
+				</LegendControl>
 			</Map>
       <BootstrapTable data={props.data} options={ tableOptions } multiColumnSort={ 3 } search searchPlaceholder='Buscar...'>
         <TableHeaderColumn dataField='poblacion' dataSort={ true }>Población</TableHeaderColumn>

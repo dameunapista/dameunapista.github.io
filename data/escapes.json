@@ -995,26 +995,6 @@
     },
     {
         "poblacion": "Figueres",
-        "sitio": "ClaustroEuphoria",
-        "web": "http://www.claustroeuphoria.com/",
-        "juego": "Viatge a la lluna",
-        "max_jugadores": 5,
-        "latitud": 41.8577324,
-        "longitud": 3.1259738,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Figueres",
-        "sitio": "ClaustroEuphoria",
-        "web": "http://www.claustroeuphoria.com/",
-        "juego": "Aventura surrealista",
-        "max_jugadores": 5,
-        "latitud": 41.8577324,
-        "longitud": 3.1259738,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Figueres",
         "sitio": "Kiwi escape room",
         "web": "http://kiwiescaperoom.com/",
         "juego": "Centro penitenciario Northwind",
