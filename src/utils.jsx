@@ -4,7 +4,7 @@ import ReactStars from 'react-stars';
 import FaExternalLink from 'react-icons/lib/fa/external-link';
 
 export function linkFormatter(cell, row){
-  return <a href={cell}><FaExternalLink color="black" size="16" /></a>
+  return <a href={cell} target="_blank"><FaExternalLink color="black" size="16" /></a>
 }
 
 export function NumEscapes(props){

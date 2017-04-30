@@ -42,6 +42,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.9985495,
+                    43.2957753
+                ]
+            },
+            "properties": {
+                "sitio": "Murder and Money",
+                "juego": [
+                    ""
+                ],
+                "web": "http://murderandmoney.com/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.1556063,
                     41.375768
                 ]
@@ -569,24 +587,6 @@
                 ],
                 "web": "http://www.pandemya.com/",
                 "valoracion": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.1380698,
-                    41.3742875
-                ]
-            },
-            "properties": {
-                "sitio": "Parapark 1",
-                "juego": [
-                    "Habitacle 113"
-                ],
-                "web": "http://parapark.es",
-                "valoracion": 3
             }
         },
         {
@@ -1278,7 +1278,7 @@
                 ]
             },
             "properties": {
-                "sitio": "Escapate",
+                "sitio": "Escapa-T",
                 "juego": [
                     "Wild west"
                 ],
@@ -1371,9 +1371,9 @@
             "properties": {
                 "sitio": "Cubick",
                 "juego": [
-                    ""
+                    "La entrevista"
                 ],
-                "web": "http://cubickroomescape.es/ca/",
+                "web": "http://cubickroomescape.es/",
                 "valoracion": 4.5
             }
         },
@@ -1441,7 +1441,7 @@
                 ]
             },
             "properties": {
-                "sitio": "la soga",
+                "sitio": "La soga",
                 "juego": [
                     ""
                 ],
@@ -1846,7 +1846,8 @@
                 "sitio": "Scaparium",
                 "juego": [
                     "El robo",
-                    "Franky Resurrection"
+                    "Franky Resurrection",
+                    "Boom Escape"
                 ],
                 "web": "http://scaparium.com/",
                 "valoracion": 3.75

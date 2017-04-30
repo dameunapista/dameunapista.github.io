@@ -10,7 +10,8 @@
         "publicar": "si",
         "fecha": 42179,
         "jugadores": "Bailongos",
-        "valoracion": 5
+        "valoracion": 5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -23,7 +24,8 @@
         "publicar": "si",
         "fecha": 42084,
         "jugadores": "Alcaparrones",
-        "valoracion": 5
+        "valoracion": 5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Masnou",
@@ -36,7 +38,8 @@
         "publicar": "si",
         "fecha": 42604,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.6
+        "valoracion": 4.6,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -49,7 +52,8 @@
         "publicar": "si",
         "fecha": 42221,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilafranca del Penedès",
@@ -62,18 +66,24 @@
         "publicar": "si",
         "fecha": 42575,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mataró",
         "sitio": "Cubick",
-        "web": "http://cubickroomescape.es/ca/",
+        "web": "http://cubickroomescape.es/",
+        "juego": "La entrevista",
+        "max_jugadores": 6,
         "latitud": 41.5330891,
         "longitud": 2.441029,
         "publicar": "si",
         "fecha": 42644,
         "jugadores": "Nadgi",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "MOORDER",
+        "personas": "16-48",
+        "pagina": "http://cubickroomescape.es/juegos-escape/escape-room-empresas/"
     },
     {
         "poblacion": "Barcelona",
@@ -86,7 +96,8 @@
         "publicar": "si",
         "fecha": 42506,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -100,7 +111,8 @@
         "publicar": "si",
         "fecha": 42540,
         "jugadores": "Nadgi",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -113,7 +125,8 @@
         "publicar": "si",
         "fecha": 42694,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.25
+        "valoracion": 4.25,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Badalona",
@@ -125,7 +138,8 @@
         "publicar": "si",
         "fecha": 42666,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.25
+        "valoracion": 4.25,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -138,7 +152,8 @@
         "publicar": "si",
         "fecha": 42127,
         "jugadores": "Gem / Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Berga",
@@ -152,7 +167,8 @@
         "publicar": "si",
         "fecha": 42456,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -166,7 +182,8 @@
         "publicar": "si",
         "fecha": 42491,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -179,7 +196,8 @@
         "publicar": "si",
         "fecha": 42407,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -191,7 +209,8 @@
         "publicar": "si",
         "fecha": 42799,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -204,7 +223,8 @@
         "publicar": "si",
         "fecha": 42441,
         "jugadores": "Bailongos",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -218,18 +238,20 @@
         "publicar": "si",
         "fecha": 42714,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Molins de Rei",
-        "sitio": "la soga",
+        "sitio": "La soga",
         "web": "http://www.la-soga.com/",
         "latitud": 41.404767,
         "longitud": 2.0241523,
         "publicar": "si",
         "fecha": 42750,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Hospitalet de LLobregat",
@@ -242,7 +264,8 @@
         "publicar": "si",
         "fecha": 42770,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -256,7 +279,8 @@
         "publicar": "si",
         "fecha": 42393,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -269,7 +293,8 @@
         "publicar": "si",
         "fecha": 42251,
         "jugadores": "Gem / Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilanova i la Geltrú",
@@ -281,7 +306,8 @@
         "publicar": "si",
         "fecha": 42434,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -294,7 +320,8 @@
         "publicar": "si",
         "fecha": 42841,
         "jugadores": "Nadgi",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sabadell",
@@ -307,7 +334,8 @@
         "publicar": "si",
         "fecha": 42630,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sitges",
@@ -319,7 +347,8 @@
         "publicar": "si",
         "fecha": 42655,
         "jugadores": "Fibers",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilanova i la Geltrú",
@@ -331,7 +360,8 @@
         "publicar": "si",
         "fecha": 42834,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -344,7 +374,8 @@
         "publicar": "si",
         "fecha": 42323,
         "jugadores": "Bailongos",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -357,7 +388,8 @@
         "publicar": "si",
         "fecha": 42351,
         "jugadores": "Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -370,7 +402,8 @@
         "publicar": "si",
         "fecha": 42684,
         "jugadores": "Gem - Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -383,7 +416,8 @@
         "publicar": "si",
         "fecha": 42546,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -398,7 +432,8 @@
         "fecha": 42112,
         "jugadores": "Alcaparrones",
         "valoracion": 3.5,
-        "observaciones": "2 salas"
+        "observaciones": "2 salas",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -411,7 +446,8 @@
         "publicar": "si",
         "fecha": 42469,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -424,7 +460,8 @@
         "publicar": "si",
         "fecha": 42169,
         "jugadores": "Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -437,7 +474,8 @@
         "publicar": "si",
         "fecha": 42580,
         "jugadores": "Bailongos",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -449,7 +487,8 @@
         "publicar": "si",
         "fecha": 42712,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -463,7 +502,8 @@
         "publicar": "si",
         "fecha": 42420,
         "jugadores": "Bailongos",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -476,7 +516,8 @@
         "publicar": "si",
         "fecha": 42484,
         "jugadores": "Nadia",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -489,7 +530,8 @@
         "publicar": "si",
         "fecha": 42533,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -502,7 +544,8 @@
         "publicar": "no",
         "fecha": 42684,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -512,10 +555,11 @@
         "max_jugadores": 5,
         "latitud": 41.3742875,
         "longitud": 2.1380698,
-        "publicar": "si",
+        "publicar": "no",
         "fecha": 42505,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Nueva York",
@@ -528,7 +572,8 @@
         "publicar": "si",
         "fecha": 42590,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -541,7 +586,8 @@
         "publicar": "si",
         "fecha": 42329,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Feliu de Llobregat",
@@ -554,7 +600,8 @@
         "publicar": "no",
         "fecha": 42316,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -567,7 +614,8 @@
         "publicar": "si",
         "fecha": 42742,
         "jugadores": "Bailongos",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Tenerife",
@@ -580,7 +628,8 @@
         "publicar": "si",
         "fecha": 42239,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -593,7 +642,8 @@
         "publicar": "si",
         "fecha": 42007,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -606,7 +656,8 @@
         "publicar": "si",
         "fecha": 42484,
         "jugadores": "Sergi",
-        "valoracion": 2.5
+        "valoracion": 2.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -619,6 +670,7 @@
         "publicar": "no",
         "fecha": 42168,
         "jugadores": "Alcaparrones",
-        "valoracion": 2
+        "valoracion": 2,
+        "teamBuilding": "no"
     }
 ]

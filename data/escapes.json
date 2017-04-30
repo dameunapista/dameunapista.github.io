@@ -5,7 +5,8 @@
         "web": "http://www.andorraquestroom.com/",
         "juego": "Misión I: Captura los contrabandistas",
         "max_jugadores": 5,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Andorra La Vella",
@@ -13,7 +14,8 @@
         "web": "http://www.andorraquestroom.com/",
         "juego": "Misión II: Golpe al \"quest bank\"",
         "max_jugadores": 5,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Andorra La Vella",
@@ -21,7 +23,8 @@
         "web": "http://www.andorraquestroom.com/",
         "juego": "Misión III: escape en el nautilua",
         "max_jugadores": 5,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Arboç",
@@ -30,7 +33,8 @@
         "max_jugadores": 8,
         "latitud": 41.268038,
         "longitud": 1.600266,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Badalona",
@@ -42,7 +46,8 @@
         "publicar": "si",
         "fecha": 42666,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.25
+        "valoracion": 4.25,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Badalona",
@@ -50,7 +55,18 @@
         "web": "http://stokerroomscape.cat/es/",
         "juego": "Encuentra el manuscrito",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Barakaldo",
+        "sitio": "Murder and Money",
+        "web": "http://murderandmoney.com/",
+        "max_jugadores": 5,
+        "latitud": 43.2957753,
+        "longitud": -2.9985495,
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -60,7 +76,8 @@
         "max_jugadores": 8,
         "latitud": 41.375768,
         "longitud": 2.1556063,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -70,7 +87,8 @@
         "max_jugadores": 6,
         "latitud": 41.385173,
         "longitud": 2.1762653,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -83,7 +101,8 @@
         "publicar": "si",
         "fecha": 42251,
         "jugadores": "Gem / Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -98,7 +117,8 @@
         "fecha": 42112,
         "jugadores": "Alcaparrones",
         "valoracion": 3.5,
-        "observaciones": "2 salas"
+        "observaciones": "2 salas",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -108,7 +128,8 @@
         "max_jugadores": 4,
         "latitud": 41.3917024,
         "longitud": 2.174245,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -118,7 +139,8 @@
         "max_jugadores": 4,
         "latitud": 41.3917024,
         "longitud": 2.174245,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -128,7 +150,8 @@
         "max_jugadores": 5,
         "latitud": 41.4319424,
         "longitud": 2.1877892,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -137,7 +160,8 @@
         "juego": "Mr. Ascott",
         "latitud": 41.4024907,
         "longitud": 2.1801108,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -150,7 +174,8 @@
         "publicar": "si",
         "fecha": 42127,
         "jugadores": "Gem / Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -160,7 +185,8 @@
         "max_jugadores": 6,
         "latitud": 41.4076976,
         "longitud": 2.1574655,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -173,7 +199,8 @@
         "publicar": "si",
         "fecha": 42533,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -182,7 +209,8 @@
         "juego": "Berlín 1983",
         "latitud": 41.4167708,
         "longitud": 2.191338,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -191,7 +219,8 @@
         "max_jugadores": 6,
         "latitud": 41.3712359,
         "longitud": 2.140304,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -204,7 +233,8 @@
         "publicar": "si",
         "fecha": 42506,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -217,7 +247,8 @@
         "publicar": "si",
         "fecha": 42179,
         "jugadores": "Bailongos",
-        "valoracion": 5
+        "valoracion": 5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -227,7 +258,8 @@
         "max_jugadores": 5,
         "latitud": 41.422591,
         "longitud": 2.1705581,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -240,7 +272,8 @@
         "publicar": "si",
         "fecha": 42469,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -253,7 +286,8 @@
         "publicar": "si",
         "fecha": 42407,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -263,7 +297,8 @@
         "max_jugadores": 10,
         "latitud": 41.4514955,
         "longitud": 2.2024353,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -276,7 +311,8 @@
         "publicar": "si",
         "fecha": 42007,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -289,7 +325,8 @@
         "publicar": "si",
         "fecha": 42684,
         "jugadores": "Gem - Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -299,7 +336,8 @@
         "max_jugadores": 6,
         "latitud": 41.402034,
         "longitud": 2.1682443,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -309,7 +347,8 @@
         "max_jugadores": 6,
         "latitud": 41.402034,
         "longitud": 2.1682443,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -319,7 +358,8 @@
         "max_jugadores": 6,
         "latitud": 41.402034,
         "longitud": 2.1682443,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -332,7 +372,8 @@
         "publicar": "si",
         "fecha": 42841,
         "jugadores": "Nadgi",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -345,7 +386,8 @@
         "publicar": "si",
         "fecha": 42169,
         "jugadores": "Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -359,7 +401,8 @@
         "publicar": "si",
         "fecha": 42491,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -373,7 +416,8 @@
         "publicar": "si",
         "fecha": 42540,
         "jugadores": "Nadgi",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -383,7 +427,8 @@
         "max_jugadores": 6,
         "latitud": 41.4114977,
         "longitud": 2.1803621,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -396,7 +441,8 @@
         "publicar": "si",
         "fecha": 42694,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.25
+        "valoracion": 4.25,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -408,7 +454,8 @@
         "publicar": "si",
         "fecha": 42799,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -418,7 +465,8 @@
         "max_jugadores": 5,
         "latitud": 41.3792856,
         "longitud": 2.1231636,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -431,7 +479,8 @@
         "publicar": "si",
         "fecha": 42546,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -441,7 +490,8 @@
         "max_jugadores": 5,
         "latitud": 41.386199,
         "longitud": 2.1712963,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -451,7 +501,8 @@
         "max_jugadores": 5,
         "latitud": 41.386199,
         "longitud": 2.1712963,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -461,7 +512,8 @@
         "max_jugadores": 6,
         "latitud": 41.3943332,
         "longitud": 2.1761636,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -472,7 +524,8 @@
         "max_jugadores": 6,
         "latitud": 41.3943332,
         "longitud": 2.1761636,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -485,7 +538,8 @@
         "publicar": "si",
         "fecha": 42742,
         "jugadores": "Bailongos",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -497,7 +551,8 @@
         "publicar": "si",
         "fecha": 42712,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -506,7 +561,8 @@
         "juego": "La maldición de Tutankamon",
         "max_jugadores": 7,
         "publicar": "si",
-        "observaciones": "montaje en casa"
+        "observaciones": "montaje en casa",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -514,7 +570,8 @@
         "web": "http://www.misteryplan.es",
         "juego": "CORRUPTOPOLY$",
         "publicar": "si",
-        "observaciones": "montaje en casa"
+        "observaciones": "montaje en casa",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -524,7 +581,8 @@
         "max_jugadores": 5,
         "latitud": 41.4070564,
         "longitud": 2.2006886,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -532,7 +590,8 @@
         "web": "http://openmindroomescape.es/",
         "juego": "Misión S.W.A.T",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -541,20 +600,8 @@
         "max_jugadores": 6,
         "latitud": 41.3749074,
         "longitud": 2.1293797,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Barcelona",
-        "sitio": "Parapark 1",
-        "web": "http://parapark.es",
-        "juego": "Habitacle 113",
-        "max_jugadores": 5,
-        "latitud": 41.3742875,
-        "longitud": 2.1380698,
         "publicar": "si",
-        "fecha": 42505,
-        "jugadores": "Nadgi",
-        "valoracion": 3
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -568,7 +615,8 @@
         "publicar": "si",
         "fecha": 42393,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -581,7 +629,8 @@
         "publicar": "si",
         "fecha": 42221,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -591,7 +640,8 @@
         "max_jugadores": 5,
         "latitud": 41.3808217,
         "longitud": 2.131628,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -604,7 +654,8 @@
         "publicar": "si",
         "fecha": 42580,
         "jugadores": "Bailongos",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -617,7 +668,8 @@
         "publicar": "si",
         "fecha": 42323,
         "jugadores": "Bailongos",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -627,7 +679,8 @@
         "max_jugadores": 2,
         "latitud": 41.439479,
         "longitud": 2.1908853,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -640,7 +693,8 @@
         "publicar": "si",
         "fecha": 42351,
         "jugadores": "Nadgi",
-        "valoracion": 3.5
+        "valoracion": 3.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -650,7 +704,8 @@
         "max_jugadores": 6,
         "latitud": 41.3907832,
         "longitud": 2.197161,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -660,7 +715,8 @@
         "max_jugadores": 6,
         "latitud": 41.3907832,
         "longitud": 2.197161,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -670,7 +726,8 @@
         "max_jugadores": 7,
         "latitud": 41.4007354,
         "longitud": 2.1731081,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -680,7 +737,8 @@
         "max_jugadores": 10,
         "latitud": 41.4007354,
         "longitud": 2.1731081,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -693,7 +751,8 @@
         "publicar": "si",
         "fecha": 42484,
         "jugadores": "Nadia",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -706,7 +765,8 @@
         "publicar": "si",
         "fecha": 42484,
         "jugadores": "Sergi",
-        "valoracion": 2.5
+        "valoracion": 2.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -717,7 +777,8 @@
         "max_jugadores": 5,
         "latitud": 41.4073437,
         "longitud": 2.1747244,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -727,7 +788,8 @@
         "max_jugadores": 5,
         "latitud": 41.4073437,
         "longitud": 2.1747244,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -737,7 +799,8 @@
         "max_jugadores": 5,
         "latitud": 41.4073437,
         "longitud": 2.1747244,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -751,7 +814,8 @@
         "publicar": "si",
         "fecha": 42714,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -760,7 +824,8 @@
         "max_jugadores": 6,
         "latitud": 41.3855569,
         "longitud": 2.1273675,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -773,7 +838,8 @@
         "publicar": "si",
         "fecha": 42329,
         "jugadores": "Alcaparrones",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -783,7 +849,8 @@
         "max_jugadores": 5,
         "latitud": 41.4320532,
         "longitud": 2.1783615,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -793,7 +860,8 @@
         "max_jugadores": 6,
         "latitud": 41.4049647,
         "longitud": 2.1974606,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -803,7 +871,8 @@
         "max_jugadores": 6,
         "latitud": 41.4399044,
         "longitud": 2.1616682,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -812,7 +881,8 @@
         "max_jugadores": 6,
         "latitud": 41.376434,
         "longitud": 2.1330185,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -825,7 +895,8 @@
         "publicar": "si",
         "fecha": 42441,
         "jugadores": "Bailongos",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -839,7 +910,8 @@
         "publicar": "si",
         "fecha": 42420,
         "jugadores": "Bailongos",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -849,7 +921,8 @@
         "max_jugadores": 2,
         "latitud": 41.3863132,
         "longitud": 2.1578216,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -859,7 +932,8 @@
         "max_jugadores": 20,
         "latitud": 41.3863132,
         "longitud": 2.1578216,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -870,7 +944,8 @@
         "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -880,7 +955,8 @@
         "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Barcelona",
@@ -890,7 +966,8 @@
         "max_jugadores": 8,
         "latitud": 41.378372,
         "longitud": 2.1499193,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Berga",
@@ -904,7 +981,8 @@
         "publicar": "si",
         "fecha": 42456,
         "jugadores": "Nadgi",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Berga",
@@ -915,7 +993,8 @@
         "max_jugadores": 5,
         "latitud": 42.0998972,
         "longitud": 1.8375174,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Castellfollit de Riubregos",
@@ -924,7 +1003,8 @@
         "max_jugadores": 6,
         "latitud": 41.780422,
         "longitud": 1.444338,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -932,7 +1012,8 @@
         "web": "http://www.indagacornella.com/",
         "latitud": 41.3662334,
         "longitud": 2.0726703,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -940,7 +1021,8 @@
         "web": "https://www.facebook.com/lastminutecornella/",
         "latitud": 41.3585008,
         "longitud": 2.0730483,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -953,7 +1035,8 @@
         "publicar": "si",
         "fecha": 42084,
         "jugadores": "Alcaparrones",
-        "valoracion": 5
+        "valoracion": 5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -963,7 +1046,8 @@
         "max_jugadores": 6,
         "latitud": 41.3647727,
         "longitud": 2.0753745,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cornellà de Llobregat",
@@ -972,7 +1056,8 @@
         "juego": "La modelo",
         "latitud": 41.354794,
         "longitud": 2.072712,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Cubelles",
@@ -980,7 +1065,8 @@
         "web": "http://desafiopirata.com/",
         "latitud": 41.1994549,
         "longitud": 1.6677462,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Esparraguera",
@@ -991,7 +1077,8 @@
         "max_jugadores": 5,
         "latitud": 41.52502,
         "longitud": 1.8557783,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Figueres",
@@ -1001,7 +1088,8 @@
         "max_jugadores": 5,
         "latitud": 42.2622058,
         "longitud": 2.9489869,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Girona",
@@ -1009,14 +1097,16 @@
         "web": "http://www.escapis.cat/es",
         "latitud": 41.9849817,
         "longitud": 2.8207272,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Girona",
         "sitio": "Fugir",
         "web": "http://www.fugir.cat/",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Gironella",
@@ -1026,7 +1116,8 @@
         "max_jugadores": 6,
         "latitud": 42.034584,
         "longitud": 1.8777513,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Granollers",
@@ -1036,7 +1127,8 @@
         "max_jugadores": 5,
         "latitud": 41.6116454,
         "longitud": 2.2864508,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Granollers",
@@ -1046,7 +1138,8 @@
         "max_jugadores": 6,
         "latitud": 41.6096172,
         "longitud": 2.290333,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Granollers",
@@ -1056,7 +1149,8 @@
         "max_jugadores": 6,
         "latitud": 41.6038223,
         "longitud": 2.2858726,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Hospitalet de LLobregat",
@@ -1069,7 +1163,8 @@
         "publicar": "si",
         "fecha": 42770,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Hospitalet de LLobregat",
@@ -1079,7 +1174,8 @@
         "max_jugadores": 6,
         "latitud": 41.369007,
         "longitud": 2.1225283,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Hospitalet de LLobregat",
@@ -1089,7 +1185,8 @@
         "max_jugadores": 6,
         "latitud": 41.369007,
         "longitud": 2.1225283,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Lleida",
@@ -1099,17 +1196,21 @@
         "max_jugadores": 5,
         "latitud": 41.6086456,
         "longitud": 0.6622677,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Lleida",
-        "sitio": "Escapate",
+        "sitio": "Escapa-T",
         "web": "http://escapatlleida.com/",
         "juego": "Wild west",
         "max_jugadores": 7,
         "latitud": 41.622897,
         "longitud": 0.6251737,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "Las 3 cajas",
+        "personas": "8-25",
+        "pagina": "http://escapatlleida.com/tres-cajas"
     },
     {
         "poblacion": "Malgrat de Mar",
@@ -1117,7 +1218,8 @@
         "web": "http://www.escapehoudini.com/",
         "latitud": 41.64086,
         "longitud": 2.7349213,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Manresa",
@@ -1127,7 +1229,8 @@
         "max_jugadores": 6,
         "latitud": 41.7251333,
         "longitud": 1.8182198,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Manresa",
@@ -1137,7 +1240,8 @@
         "max_jugadores": 6,
         "latitud": 41.7320447,
         "longitud": 1.8259168,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Manresa",
@@ -1147,7 +1251,8 @@
         "max_jugadores": 6,
         "latitud": 41.7320447,
         "longitud": 1.8259168,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Manresa",
@@ -1155,7 +1260,8 @@
         "web": "http://www.elcodihoudini.com/",
         "juego": "Aventura",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Manresa",
@@ -1163,7 +1269,8 @@
         "web": "http://www.elcodihoudini.com/",
         "juego": "Misteri",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Masnou",
@@ -1176,18 +1283,24 @@
         "publicar": "si",
         "fecha": 42604,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.6
+        "valoracion": 4.6,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mataró",
         "sitio": "Cubick",
-        "web": "http://cubickroomescape.es/ca/",
+        "web": "http://cubickroomescape.es/",
+        "juego": "La entrevista",
+        "max_jugadores": 6,
         "latitud": 41.5330891,
         "longitud": 2.441029,
         "publicar": "si",
         "fecha": 42644,
         "jugadores": "Nadgi",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "MOORDER",
+        "personas": "16-48",
+        "pagina": "http://cubickroomescape.es/juegos-escape/escape-room-empresas/"
     },
     {
         "poblacion": "Mataró",
@@ -1195,7 +1308,8 @@
         "web": "http://www.enigmatiks.com/ca/",
         "latitud": 41.537352,
         "longitud": 2.4444006,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mataró",
@@ -1204,7 +1318,8 @@
         "juego": "Amenaza bomba",
         "latitud": 41.5429568,
         "longitud": 2.4270432,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mataró",
@@ -1214,18 +1329,20 @@
         "max_jugadores": 6,
         "latitud": 41.5408356,
         "longitud": 2.4296766,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Molins de Rei",
-        "sitio": "la soga",
+        "sitio": "La soga",
         "web": "http://www.la-soga.com/",
         "latitud": 41.404767,
         "longitud": 2.0241523,
         "publicar": "si",
         "fecha": 42750,
         "jugadores": "Alcaparrones",
-        "valoracion": 4
+        "valoracion": 4,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mollet del Vallès",
@@ -1233,7 +1350,8 @@
         "web": "http://www.trappedmollet.com/",
         "latitud": 41.5331997,
         "longitud": 2.2066314,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Nueva York",
@@ -1246,7 +1364,8 @@
         "publicar": "si",
         "fecha": 42590,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Oropesa del Mar",
@@ -1254,7 +1373,8 @@
         "web": "http://secretorum.es",
         "latitud": 40.1130631,
         "longitud": 0.1473703,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Palamòs",
@@ -1263,7 +1383,8 @@
         "juego": "Viatge a la lluna",
         "latitud": 41.8577324,
         "longitud": 3.1259738,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Palamòs",
@@ -1272,7 +1393,8 @@
         "juego": "Aventura surrealista",
         "latitud": 41.8577324,
         "longitud": 3.1259738,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Reus",
@@ -1281,7 +1403,8 @@
         "juego": "CSI Costa Dorada",
         "latitud": 41.151249,
         "longitud": 1.108259,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Reus",
@@ -1290,7 +1413,8 @@
         "juego": "El golpe",
         "latitud": 41.151249,
         "longitud": 1.108259,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sabadell",
@@ -1303,7 +1427,8 @@
         "publicar": "si",
         "fecha": 42630,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Cugat del Vallès",
@@ -1313,7 +1438,8 @@
         "max_jugadores": 5,
         "latitud": 41.3862404,
         "longitud": 2.1784891,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Cugat del Vallès",
@@ -1323,7 +1449,8 @@
         "max_jugadores": 5,
         "latitud": 41.4755653,
         "longitud": 2.0553717,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Just d'Esvern",
@@ -1332,7 +1459,8 @@
         "juego": "Atahualpa",
         "latitud": 41.3797205,
         "longitud": 2.0689313,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Just d'Esvern",
@@ -1341,7 +1469,8 @@
         "juego": "Biblioteca",
         "latitud": 41.3797205,
         "longitud": 2.0689313,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Just d'Esvern",
@@ -1351,7 +1480,8 @@
         "latitud": 41.3797205,
         "longitud": 2.0689313,
         "publicar": "si",
-        "observaciones": "2 salas"
+        "observaciones": "2 salas",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Pere de Torello (Osona)",
@@ -1360,7 +1490,8 @@
         "juego": "El secret de Sant Jordi",
         "latitud": 41.9292915,
         "longitud": 2.2529187,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sant Vicenç dels Horts",
@@ -1369,7 +1500,8 @@
         "juego": "La habitación de Nelly",
         "latitud": 41.391163,
         "longitud": 2.0108793,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santa Coloma de Gramanet",
@@ -1378,7 +1510,8 @@
         "juego": "El juego de Seed: Sótano",
         "latitud": 41.4489815,
         "longitud": 2.2120809,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santa Coloma de Gramanet",
@@ -1388,35 +1521,40 @@
         "max_jugadores": 5,
         "latitud": 41.4489815,
         "longitud": 2.2120809,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santander",
         "sitio": "Xkapa",
         "web": "https://xkapa.com/",
         "juego": "La comisaria",
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santander",
         "sitio": "Xkapa",
         "web": "https://xkapa.com/",
         "juego": "La comisaria XL",
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santiago de Compostela",
         "sitio": "Room escape compostela",
         "web": "-",
         "juego": "La maldición de amy rosse",
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Santiago de Compostela",
         "sitio": "Room escape compostela",
         "web": "-",
         "juego": "neutraliza la bomba",
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sitges",
@@ -1428,7 +1566,8 @@
         "publicar": "si",
         "fecha": 42655,
         "jugadores": "Fibers",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Sitges",
@@ -1439,7 +1578,8 @@
         "max_jugadores": 5,
         "latitud": 41.2386149,
         "longitud": 1.805336,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Tarragona",
@@ -1447,7 +1587,8 @@
         "web": "http://www.fixthehistory.com/",
         "juego": "Acadèmia",
         "max_jugadores": 6,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Terrassa",
@@ -1455,7 +1596,8 @@
         "web": "http://cafemisteri.cat/",
         "latitud": 41.5705249,
         "longitud": 2.0087899,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Terrassa",
@@ -1464,7 +1606,8 @@
         "juego": "Aventura pirata: El tesoro de drake",
         "latitud": 41.529807,
         "longitud": 2.0346653,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Tenerife",
@@ -1477,7 +1620,8 @@
         "publicar": "si",
         "fecha": 42239,
         "jugadores": "Nadgi",
-        "valoracion": 3
+        "valoracion": 3,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Tenerife",
@@ -1487,7 +1631,8 @@
         "max_jugadores": 6,
         "latitud": 28.0597897,
         "longitud": -16.7356747,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Tenerife",
@@ -1497,7 +1642,8 @@
         "max_jugadores": 5,
         "latitud": 28.3539748,
         "longitud": -16.3726421,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vendrell",
@@ -1506,7 +1652,8 @@
         "juego": "El laboratorio del Dr. Strauss",
         "latitud": 41.2185133,
         "longitud": 1.5289834,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vic",
@@ -1514,7 +1661,8 @@
         "web": "http://www.fluwimoci.cat/es/",
         "juego": "El secret de Sant Jordi",
         "max_jugadores": 7,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vic",
@@ -1524,7 +1672,8 @@
         "max_jugadores": 6,
         "latitud": 41.931212,
         "longitud": 2.2552513,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilafranca del Penedès",
@@ -1537,7 +1686,8 @@
         "publicar": "si",
         "fecha": 42575,
         "jugadores": "Alcaparrones",
-        "valoracion": 4.5
+        "valoracion": 4.5,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilanova i la Geltrú",
@@ -1549,7 +1699,8 @@
         "publicar": "si",
         "fecha": 42434,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Vilanova i la Geltrú",
@@ -1561,7 +1712,19 @@
         "publicar": "si",
         "fecha": 42834,
         "jugadores": "Alcaparrones",
-        "valoracion": 3.75
+        "valoracion": 3.75,
+        "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Vilanova i la Geltrú",
+        "sitio": "Scaparium",
+        "web": "http://boomescape.com",
+        "juego": "Boom Escape",
+        "max_jugadores": 6,
+        "latitud": 41.2252727,
+        "longitud": 1.7209346,
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Zaragoza",
@@ -1570,6 +1733,7 @@
         "juego": "Sherlocked",
         "latitud": 41.6724245,
         "longitud": -0.8884888,
-        "publicar": "si"
+        "publicar": "si",
+        "teamBuilding": "no"
     }
 ]
