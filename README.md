@@ -1,1 +1,13 @@
 # dameunapista.github.io
+
+Repository for https://www.dameunspista.es
+
+## Prepare jekyll environment
+
+```
+sudo apt-get update
+
+sudo apt-get install ruby ruby-dev make gcc
+
+sudo gem install jekyll bundler
+```
