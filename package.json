@@ -7,9 +7,9 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "update_data": "node .\\src\\gs2json.js",
-    "watch": "node .\\node_modules\\webpack\\bin\\webpack.js --watch",
-    "build": "node .\\node_modules\\webpack\\bin\\webpack.js -p",
+    "update_data": "node ./src/gs2json.js",
+    "watch": "node ./node_modules/webpack/bin/webpack.js --watch",
+    "build": "node ./node_modules/webpack/bin/webpack.js -p",
     "debug": "npm run build && jekyll serve"
   },
   "dependencies": {

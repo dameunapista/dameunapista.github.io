@@ -416,7 +416,7 @@
                 ]
             },
             "properties": {
-                "sitio": "Intramundos",
+                "sitio": "Intramuros",
                 "juego": [
                     "Necronomicón"
                 ],
@@ -475,7 +475,7 @@
                     "El secuestro"
                 ],
                 "web": "http://www.kidnappedinbcn.com/",
-                "valoracion": ""
+                "valoracion": 4.5
             }
         },
         {
@@ -568,6 +568,25 @@
                     "El misterio de la mansión"
                 ],
                 "web": "http://mysteryescape.es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0772411,
+                    41.3647756
+                ]
+            },
+            "properties": {
+                "sitio": "Open mind room escape",
+                "juego": [
+                    "Misión S.W.A.T",
+                    "Misión S.W.A.T"
+                ],
+                "web": "http://openmindroomescape.es/",
                 "valoracion": ""
             }
         },
@@ -984,24 +1003,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0726703,
-                    41.3662334
-                ]
-            },
-            "properties": {
-                "sitio": "Indaga cornellà",
-                "juego": [
-                    ""
-                ],
-                "web": "http://www.indagacornella.com/",
-                "valoracion": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.0730483,
                     41.3585008
                 ]
@@ -1031,24 +1032,6 @@
                 ],
                 "web": "http://missionleak.com/es/",
                 "valoracion": 5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.0753745,
-                    41.3647727
-                ]
-            },
-            "properties": {
-                "sitio": "Open mind room escape",
-                "juego": [
-                    "Misión S.W.A.T"
-                ],
-                "web": "http://openmindroomescape.es/",
-                "valoracion": ""
             }
         },
         {
