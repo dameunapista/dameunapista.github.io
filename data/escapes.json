@@ -728,6 +728,17 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Roombo Escape",
+        "web": "http://roomboescape.es",
+        "juego": "Destiny",
+        "max_jugadores": 6,
+        "latitud": 41.3758762,
+        "longitud": 2.149928,
+        "publicar": "si",
+        "teamBuilding": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Señor escape",
         "web": "http://senorescape.es/",
         "juego": "El prisionero",
@@ -834,6 +845,15 @@
         "longitud": 2.1273675,
         "publicar": "si",
         "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "The rombo code",
+        "web": "https://barcelona.therombocode.es/",
+        "juego": "La fuga de casanova",
+        "latitud": 41.410356,
+        "longitud": 2.1686805,
+        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",
@@ -1300,6 +1320,17 @@
         "teamBuilding": "MOORDER",
         "personas": "16-48",
         "pagina": "http://cubickroomescape.es/juegos-escape/escape-room-empresas/"
+    },
+    {
+        "poblacion": "Mataró",
+        "sitio": "Cubick",
+        "web": "http://cubickroomescape.es/",
+        "juego": "El secuestro",
+        "max_jugadores": 6,
+        "latitud": 41.5330891,
+        "longitud": 2.441029,
+        "publicar": "si",
+        "teamBuilding": "no"
     },
     {
         "poblacion": "Mataró",

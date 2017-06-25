@@ -724,6 +724,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.149928,
+                    41.3758762
+                ]
+            },
+            "properties": {
+                "sitio": "Roombo Escape",
+                "juego": [
+                    "Destiny"
+                ],
+                "web": "http://roomboescape.es",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.1731081,
                     41.4007354
                 ]
@@ -810,6 +828,24 @@
                     ""
                 ],
                 "web": "http://www.resistanceroom.com/es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1686805,
+                    41.410356
+                ]
+            },
+            "properties": {
+                "sitio": "The rombo code",
+                "juego": [
+                    "La fuga de casanova"
+                ],
+                "web": "https://barcelona.therombocode.es/",
                 "valoracion": ""
             }
         },
@@ -1354,7 +1390,8 @@
             "properties": {
                 "sitio": "Cubick",
                 "juego": [
-                    "La entrevista"
+                    "La entrevista",
+                    "El secuestro"
                 ],
                 "web": "http://cubickroomescape.es/",
                 "valoracion": 4.5
