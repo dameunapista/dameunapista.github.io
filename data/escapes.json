@@ -592,17 +592,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Open mind room escape",
-        "web": "http://openmindroomescape.es/",
-        "juego": "Misión S.W.A.T",
-        "max_jugadores": 6,
-        "latitud": 41.3647756,
-        "longitud": 2.0772411,
-        "publicar": "si",
-        "teamBuilding": "no"
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Pandemya",
         "web": "http://www.pandemya.com/",
         "max_jugadores": 6,
@@ -1066,6 +1055,9 @@
         "latitud": 41.3647727,
         "longitud": 2.0753745,
         "publicar": "si",
+        "fecha": 42932,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4.25,
         "teamBuilding": "no"
     },
     {
