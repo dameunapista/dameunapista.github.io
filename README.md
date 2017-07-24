@@ -1,6 +1,6 @@
 # dameunapista.github.io
 
-Repository for https://www.dameunspista.es
+Repository for https://www.dameunapista.es
 
 ## Prepare jekyll environment
 
