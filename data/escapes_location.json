@@ -983,6 +983,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.95688,
+                    43.274799
+                ]
+            },
+            "properties": {
+                "sitio": "Eskapa2",
+                "juego": [
+                    "VIaje a lo desconocido"
+                ],
+                "web": "https://eskapa2.com/",
+                "valoracion": 4.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1.8375174,
                     42.0998972
                 ]
@@ -1546,6 +1564,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -1.650156,
+                    42.82172
+                ]
+            },
+            "properties": {
+                "sitio": "Overtime",
+                "juego": [
+                    "Cien años de perdón"
+                ],
+                "web": "https://overtimepamplona.es/",
+                "valoracion": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1.108259,
                     41.151249
                 ]
@@ -1869,6 +1905,24 @@
                     "Boom Escape"
                 ],
                 "web": "http://scaparium.com/",
+                "valoracion": 3.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.682801,
+                    42.850799
+                ]
+            },
+            "properties": {
+                "sitio": "Kode Room Escape",
+                "juego": [
+                    "El caso Mortenson"
+                ],
+                "web": "http://koderoomescape.com/",
                 "valoracion": 3.75
             }
         },

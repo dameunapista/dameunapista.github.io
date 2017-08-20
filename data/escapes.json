@@ -987,6 +987,20 @@
         "teamBuilding": "no"
     },
     {
+        "poblacion": "Bilbao",
+        "sitio": "Eskapa2",
+        "web": "https://eskapa2.com/",
+        "juego": "VIaje a lo desconocido",
+        "max_jugadores": 6,
+        "latitud": 43.274799,
+        "longitud": -2.95688,
+        "publicar": "si",
+        "fecha": 42954,
+        "jugadores": "Nadgi",
+        "valoracion": 4.3,
+        "teamBuilding": "no"
+    },
+    {
         "poblacion": "Berga",
         "sitio": "Insomnia corporation",
         "web": "http://www.insomniacorp.com/",
@@ -1419,6 +1433,20 @@
         "teamBuilding": "no"
     },
     {
+        "poblacion": "Pamplona",
+        "sitio": "Overtime",
+        "web": "https://overtimepamplona.es/",
+        "juego": "Cien años de perdón",
+        "max_jugadores": 6,
+        "latitud": 42.82172,
+        "longitud": -1.650156,
+        "publicar": "si",
+        "fecha": 42963,
+        "jugadores": "Nadgi",
+        "valoracion": 4.5,
+        "teamBuilding": "no"
+    },
+    {
         "poblacion": "Reus",
         "sitio": "Enigmatik games",
         "web": "http://www.enigmatikgames.com/",
@@ -1746,6 +1774,20 @@
         "latitud": 41.2252727,
         "longitud": 1.7209346,
         "publicar": "si",
+        "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Vitoria-Gasteiz",
+        "sitio": "Kode Room Escape",
+        "web": "http://koderoomescape.com/",
+        "juego": "El caso Mortenson",
+        "max_jugadores": 6,
+        "latitud": 42.850799,
+        "longitud": -2.682801,
+        "publicar": "si",
+        "fecha": 42957,
+        "jugadores": "Nadgi",
+        "valoracion": 3.75,
         "teamBuilding": "no"
     },
     {
