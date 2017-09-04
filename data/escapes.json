@@ -27,6 +27,22 @@
         "teamBuilding": "no"
     },
     {
+        "poblacion": "Andorra (Escaldes-Engordany)",
+        "sitio": "Claustrophobia",
+        "web": "https://andorra.claustrophobia.com/es/quest/",
+        "juego": "Una avalancha del olvido",
+        "max_jugadores": 4,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Andorra (Escaldes-Engordany)",
+        "sitio": "Claustrophobia",
+        "web": "https://andorra.claustrophobia.com/es/quest/",
+        "juego": "Cine de la desesperanza",
+        "max_jugadores": 8,
+        "publicar": "si"
+    },
+    {
         "poblacion": "Arboç",
         "sitio": "Indicis",
         "web": "http://www.indicis.es/",
@@ -92,6 +108,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Challenge Escape",
+        "web": "https://challengescape.es/",
+        "juego": "Allien Attack",
+        "max_jugadores": 6,
+        "latitud": 41.62889,
+        "longitud": 2.693277,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Chicken Banana",
         "web": "http://chickenbanana.com",
         "juego": "Mafia",
@@ -119,6 +145,16 @@
         "valoracion": 3.5,
         "observaciones": "2 salas",
         "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Chicken Banana",
+        "web": "http://chickenbanana.com",
+        "juego": "Prision",
+        "max_jugadores": 6,
+        "latitud": 41.375858,
+        "longitud": 2.1558233,
+        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",
@@ -187,6 +223,16 @@
         "longitud": 2.1574655,
         "publicar": "si",
         "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Emotion",
+        "web": "http://www.emotionescape.com/",
+        "juego": "La nube",
+        "max_jugadores": 7,
+        "latitud": 41.4090544,
+        "longitud": 2.1603823,
+        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",
@@ -380,6 +426,16 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Escape world Barcelona",
+        "web": "http://www.escapeworldbarcelona.com",
+        "juego": "Las muñecas",
+        "max_jugadores": 4,
+        "latitud": 41.4244732,
+        "longitud": 2.1736199,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Habitación 73",
         "web": "http://www.habitacion73.com",
         "juego": "Habitación 73",
@@ -476,6 +532,26 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Komnata",
+        "web": "http://komnataquest.es/barcelona/",
+        "juego": "Castillo Sant'Angelo",
+        "max_jugadores": 5,
+        "latitud": 41.386234,
+        "longitud": 2.1785193,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Komnata",
+        "web": "http://komnataquest.es/barcelona/",
+        "juego": "Siete placeres del pecado",
+        "max_jugadores": 5,
+        "latitud": 41.386234,
+        "longitud": 2.1785193,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "La Sala",
         "web": "http://lasaladeescape.com/",
         "juego": "Sala 1",
@@ -562,6 +638,46 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Maximum escape",
+        "web": "https://barcelona.maximumescape.com/es",
+        "juego": "Prisioneros de Alkaban",
+        "max_jugadores": 4,
+        "latitud": 41.3890959,
+        "longitud": 2.1731174,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Maximum escape",
+        "web": "https://barcelona.maximumescape.com/es",
+        "juego": "Sherlock Holmes contra el diablo londinense",
+        "max_jugadores": 4,
+        "latitud": 41.3890959,
+        "longitud": 2.1731174,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Maximum escape",
+        "web": "https://barcelona.maximumescape.com/es",
+        "juego": "La mazmorra:la última partida",
+        "max_jugadores": 4,
+        "latitud": 41.3918981,
+        "longitud": 2.1737561,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Maximum escape",
+        "web": "https://barcelona.maximumescape.com/es",
+        "juego": "Gangsters: dineros, arnas y alcohol",
+        "max_jugadores": 4,
+        "latitud": 41.3918981,
+        "longitud": 2.1737561,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Mistery plan",
         "web": "http://www.misteryplan.es",
         "juego": "La maldición de Tutankamon",
@@ -631,6 +747,36 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Questeros",
+        "web": "http://questeros.es/",
+        "juego": "Pesadilla en la calle Diputació",
+        "max_jugadores": 5,
+        "latitud": 41.3833484,
+        "longitud": 2.1558274,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Questeros",
+        "web": "http://questeros.es/",
+        "juego": "Rebelión de las máquinas",
+        "max_jugadores": 6,
+        "latitud": 41.3833484,
+        "longitud": 2.1558274,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Questeros",
+        "web": "http://questeros.es/",
+        "juego": "Escape Houdini",
+        "max_jugadores": 5,
+        "latitud": 41.3833484,
+        "longitud": 2.1558274,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Questory",
         "web": "http://questory.es",
         "juego": "Asalto a la guarida",
@@ -656,6 +802,17 @@
     },
     {
         "poblacion": "Barcelona",
+        "sitio": "Questory",
+        "web": "http://questory.es",
+        "juego": "Saw Experience",
+        "tematica": "Terror",
+        "max_jugadores": 5,
+        "latitud": 41.3808217,
+        "longitud": 2.131628,
+        "publicar": "si"
+    },
+    {
+        "poblacion": "Barcelona",
         "sitio": "Retobox",
         "web": "http://www.retobox.com",
         "juego": "Celda",
@@ -678,6 +835,16 @@
         "longitud": 2.1908853,
         "publicar": "si",
         "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Barcelona",
+        "sitio": "Retobox",
+        "web": "http://www.retobox.com",
+        "juego": "Cabaret",
+        "max_jugadores": 6,
+        "latitud": 41.439479,
+        "longitud": 2.1908853,
+        "publicar": "si"
     },
     {
         "poblacion": "Barcelona",

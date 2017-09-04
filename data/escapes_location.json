@@ -96,6 +96,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.693277,
+                    41.62889
+                ]
+            },
+            "properties": {
+                "sitio": "Challenge Escape",
+                "juego": [
+                    "Allien Attack"
+                ],
+                "web": "https://challengescape.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.1558233,
                     41.375858
                 ]
@@ -104,7 +122,8 @@
                 "sitio": "Chicken Banana",
                 "juego": [
                     "Mafia",
-                    "Psiquiatría"
+                    "Psiquiatría",
+                    "Prision"
                 ],
                 "web": "http://chickenbanana.com",
                 "valoracion": 4
@@ -198,6 +217,24 @@
                     "Acto 1 - Vientos de Pólvora"
                 ],
                 "web": "https://www.dopplerexperiences.com",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1603823,
+                    41.4090544
+                ]
+            },
+            "properties": {
+                "sitio": "Emotion",
+                "juego": [
+                    "La nube"
+                ],
+                "web": "http://www.emotionescape.com/",
                 "valoracion": ""
             }
         },
@@ -363,7 +400,8 @@
             "properties": {
                 "sitio": "Escape world Barcelona",
                 "juego": [
-                    "Aventura de piratas"
+                    "Aventura de piratas",
+                    "Las muñecas"
                 ],
                 "web": "http://www.escapeworldbarcelona.com",
                 "valoracion": 3.75
@@ -483,6 +521,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.1785193,
+                    41.386234
+                ]
+            },
+            "properties": {
+                "sitio": "Komnata",
+                "juego": [
+                    "Castillo Sant'Angelo",
+                    "Siete placeres del pecado"
+                ],
+                "web": "http://komnataquest.es/barcelona/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.1375158,
                     41.3756901
                 ]
@@ -551,6 +608,27 @@
                 ],
                 "web": "http://www.magicescape.es/",
                 "valoracion": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1731174,
+                    41.3890959
+                ]
+            },
+            "properties": {
+                "sitio": "Maximum escape",
+                "juego": [
+                    "Prisioneros de Alkaban",
+                    "Sherlock Holmes contra el diablo londinense",
+                    "La mazmorra:la última partida",
+                    "Gangsters: dineros, arnas y alcohol"
+                ],
+                "web": "https://barcelona.maximumescape.com/es",
+                "valoracion": ""
             }
         },
         {
@@ -630,6 +708,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.1558274,
+                    41.3833484
+                ]
+            },
+            "properties": {
+                "sitio": "Questeros",
+                "juego": [
+                    "Pesadilla en la calle Diputació",
+                    "Rebelión de las máquinas",
+                    "Escape Houdini"
+                ],
+                "web": "http://questeros.es/",
+                "valoracion": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.131628,
                     41.3808217
                 ]
@@ -638,7 +736,8 @@
                 "sitio": "Questory",
                 "juego": [
                     "Asalto a la guarida",
-                    "Prison Break"
+                    "Prison Break",
+                    "Saw Experience"
                 ],
                 "web": "http://questory.es",
                 "valoracion": ""
@@ -657,7 +756,8 @@
                 "sitio": "Retobox",
                 "juego": [
                     "Celda",
-                    "Capitán Pessoa"
+                    "Capitán Pessoa",
+                    "Cabaret"
                 ],
                 "web": "http://www.retobox.com",
                 "valoracion": 3.5
