@@ -96,24 +96,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.693277,
-                    41.62889
-                ]
-            },
-            "properties": {
-                "sitio": "Challenge Escape",
-                "juego": [
-                    "Allien Attack"
-                ],
-                "web": "https://challengescape.es/",
-                "valoracion": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.1558233,
                     41.375858
                 ]
@@ -123,7 +105,7 @@
                 "juego": [
                     "Mafia",
                     "Psiquiatría",
-                    "Prision"
+                    "Prisión"
                 ],
                 "web": "http://chickenbanana.com",
                 "valoracion": 4
@@ -272,7 +254,7 @@
                     ""
                 ],
                 "web": "http://encryptroom.com/",
-                "valoracion": ""
+                "valoracion": 4
             }
         },
         {
@@ -1391,6 +1373,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.1291,
+                    41.362107
+                ]
+            },
+            "properties": {
+                "sitio": "Unreal",
+                "juego": [
+                    "La mina"
+                ],
+                "web": "http://unrealroomescape.es/",
+                "valoracion": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.6622677,
                     41.6086456
                 ]
@@ -1434,10 +1434,11 @@
             "properties": {
                 "sitio": "Houdini escape room",
                 "juego": [
-                    ""
+                    "El aprendiz de Houdini",
+                    "Houdini & Doyle"
                 ],
                 "web": "http://www.escapehoudini.com/",
-                "valoracion": ""
+                "valoracion": 4.3
             }
         },
         {
@@ -1682,6 +1683,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.693277,
+                    41.62889
+                ]
+            },
+            "properties": {
+                "sitio": "Challenge Escape",
+                "juego": [
+                    "Allien Attack"
+                ],
+                "web": "https://challengescape.es/",
+                "valoracion": 2.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1.108259,
                     41.151249
                 ]
@@ -1853,12 +1872,12 @@
                 ]
             },
             "properties": {
-                "sitio": "Sitgesskape",
+                "sitio": "Sitgeskape",
                 "juego": [
                     "Horror movie"
                 ],
                 "web": "http://www.sitgescape.com/",
-                "valoracion": ""
+                "valoracion": 2
             }
         },
         {

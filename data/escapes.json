@@ -108,16 +108,6 @@
     },
     {
         "poblacion": "Barcelona",
-        "sitio": "Challenge Escape",
-        "web": "https://challengescape.es/",
-        "juego": "Allien Attack",
-        "max_jugadores": 6,
-        "latitud": 41.62889,
-        "longitud": 2.693277,
-        "publicar": "si"
-    },
-    {
-        "poblacion": "Barcelona",
         "sitio": "Chicken Banana",
         "web": "http://chickenbanana.com",
         "juego": "Mafia",
@@ -150,7 +140,7 @@
         "poblacion": "Barcelona",
         "sitio": "Chicken Banana",
         "web": "http://chickenbanana.com",
-        "juego": "Prision",
+        "juego": "Prisión",
         "max_jugadores": 6,
         "latitud": 41.375858,
         "longitud": 2.1558233,
@@ -266,6 +256,9 @@
         "latitud": 41.3712359,
         "longitud": 2.140304,
         "publicar": "si",
+        "fecha": 43003,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4,
         "teamBuilding": "no"
     },
     {
@@ -1381,6 +1374,18 @@
         "teamBuilding": "no"
     },
     {
+        "poblacion": "Hospitalet de LLobregat",
+        "sitio": "Unreal",
+        "web": "http://unrealroomescape.es/",
+        "juego": "La mina",
+        "latitud": 41.362107,
+        "longitud": 2.1291,
+        "publicar": "si",
+        "fecha": 42975,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4
+    },
+    {
         "poblacion": "Lleida",
         "sitio": "Bluescape room",
         "web": "http://bluescaperoom.com/",
@@ -1408,10 +1413,25 @@
         "poblacion": "Malgrat de Mar",
         "sitio": "Houdini escape room",
         "web": "http://www.escapehoudini.com/",
+        "juego": "El aprendiz de Houdini",
+        "max_jugadores": 5,
         "latitud": 41.64086,
         "longitud": 2.7349213,
         "publicar": "si",
+        "fecha": 43030,
+        "jugadores": "Alcaparrones",
+        "valoracion": 4.3,
         "teamBuilding": "no"
+    },
+    {
+        "poblacion": "Malgrat de Mar",
+        "sitio": "Houdini escape room",
+        "web": "http://www.escapehoudini.com/",
+        "juego": "Houdini & Doyle",
+        "max_jugadores": 5,
+        "latitud": 41.64086,
+        "longitud": 2.7349213,
+        "publicar": "si"
     },
     {
         "poblacion": "Manresa",
@@ -1614,6 +1634,19 @@
         "teamBuilding": "no"
     },
     {
+        "poblacion": "Pineda de Mar",
+        "sitio": "Challenge Escape",
+        "web": "https://challengescape.es/",
+        "juego": "Allien Attack",
+        "max_jugadores": 6,
+        "latitud": 41.62889,
+        "longitud": 2.693277,
+        "publicar": "si",
+        "fecha": 43030,
+        "jugadores": "Alcaparrones",
+        "valoracion": 2.5
+    },
+    {
         "poblacion": "Reus",
         "sitio": "Enigmatik games",
         "web": "http://www.enigmatikgames.com/",
@@ -1788,7 +1821,7 @@
     },
     {
         "poblacion": "Sitges",
-        "sitio": "Sitgesskape",
+        "sitio": "Sitgeskape",
         "web": "http://www.sitgescape.com/",
         "juego": "Horror movie",
         "tematica": "Terror",
@@ -1796,6 +1829,9 @@
         "latitud": 41.2386149,
         "longitud": 1.805336,
         "publicar": "si",
+        "fecha": 43021,
+        "jugadores": "Fibers",
+        "valoracion": 2,
         "teamBuilding": "no"
     },
     {

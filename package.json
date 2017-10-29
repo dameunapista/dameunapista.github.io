@@ -10,7 +10,8 @@
     "update_data": "node ./src/gs2json.js",
     "watch": "node ./node_modules/webpack/bin/webpack.js --watch",
     "build": "node ./node_modules/webpack/bin/webpack.js -p",
-    "debug": "npm run build && jekyll serve"
+    "debug": "npm run build && jekyll serve",
+    "publish": "git add _posts/* && git add img/* && git commit -a -m 'auto-publish'"
   },
   "dependencies": {
     "axios": "^0.16.1",
