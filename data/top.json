@@ -223,6 +223,7 @@
         "fecha": 42666,
         "jugadores": "Alcaparrones",
         "valoracion": 4.25,
+        "foto": "abduction",
         "teamBuilding": "no"
     },
     {
@@ -241,7 +242,7 @@
         "poblacion": "Barcelona",
         "sitio": "Cronologic",
         "web": "http://www.cronologic.es",
-        "juego": "Cronologic",
+        "juego": "Viajes en el tiempo",
         "max_jugadores": 5,
         "latitud": 41.4092265,
         "longitud": 2.1843926,
@@ -256,6 +257,7 @@
         "sitio": "Unreal",
         "web": "http://unrealroomescape.es/",
         "juego": "La mina",
+        "max_jugadores": 6,
         "latitud": 41.362107,
         "longitud": 2.1291,
         "publicar": "si",
@@ -332,6 +334,7 @@
         "fecha": 42251,
         "jugadores": "Gem / Nadgi",
         "valoracion": 4,
+        "foto": "chicken_banana_mafia",
         "teamBuilding": "no"
     },
     {
@@ -514,6 +517,7 @@
         "jugadores": "Alcaparrones",
         "valoracion": 3.5,
         "observaciones": "2 salas",
+        "foto": "chicken_banana_psiquiatria",
         "teamBuilding": "no"
     },
     {
