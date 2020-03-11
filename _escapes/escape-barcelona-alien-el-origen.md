@@ -15,7 +15,7 @@ foto: ""
 name: "Escape Barcelona-Alien: el origen"
 webpage: "http://www.escapebarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4514955,2.2024353]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2024353,41.4514955]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Habitakulum-El misteri dels monjos de la Cartoixa"
 webpage: "http://habitakulum.com/ca/"
 city: "Tarragona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.1205048,1.2507488]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.2507488,41.1205048]}}"
 active: false
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Escape to SantVi-Charly el travieso"
 webpage: "https://www.escapetosantvi.com/"
 city: "Sant Vicenç dels Horts"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.391163,2.0108793]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0108793,41.391163]}}"
 active: false
 play_date: ""
 rating: "0"

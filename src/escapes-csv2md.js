@@ -51,18 +51,21 @@ fs.createReadStream(path.join(__dirname,'..','data','escapes.csv'))
             // new fields:
             const nameID = (escape.sitio + (escape.juego.length>0? '-' + escape.juego : ''))
             logger.write(metadataTextField('name', nameID))  // Unique name ID
-            const location = {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [escape.latitud, escape.longitud]
-                }
-            }
             logger.write(metadataTextField('webpage', escape.web))  //webpage
             logger.write(metadataTextField('city', escape.poblacion)) //city
-            logger.write(metadataTextField('location', JSON.stringify(location).replace(/\"/g,'\\"')))  //location map
+            if(escape.latitud) {
+                const location = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [parseFloat(escape.longitud.replace(',','.')), parseFloat(escape.latitud.replace(',','.'))]
+                    }
+                }
+                logger.write(metadataTextField('location', JSON.stringify(location).replace(/\"/g,'\\"')))  //location map
+            }
             logger.write(metadataField('active', escape.publicar==="si")) //active, open
             logger.write(metadataTextField('play_date', escape.fecha)) //play date
+            logger.write(metadataTextField('rating', Math.round(escape.valoracion))) //rating
             
             logger.write(metadataSeparator()) // end metadata
         

@@ -15,7 +15,7 @@ foto: "abduction"
 name: "Abduction"
 webpage: "http://www.abduction.es/"
 city: "Badalona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.447387,2.2414453]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2414453,41.447387]}}"
 active: true
 play_date: "2016-10-23"
 rating: "NaN"

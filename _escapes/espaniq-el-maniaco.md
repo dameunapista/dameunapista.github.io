@@ -15,7 +15,7 @@ foto: ""
 name: "Espaniq-El maníaco"
 webpage: "http://espaniq.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.399925,2.1612722]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1612722,41.399925]}}"
 active: false
 play_date: "2015-06-13"
 rating: "2"

@@ -15,7 +15,7 @@ foto: ""
 name: "Escape Barcelona-La maldición del faraón"
 webpage: "http://www.escapebarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4383891,2.1650027]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1650027,41.4383891]}}"
 active: true
 play_date: "2016-04-09"
 rating: "NaN"

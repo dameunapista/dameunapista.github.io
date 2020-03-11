@@ -15,7 +15,7 @@ foto: ""
 name: "Cinema Escape-Barum Dum"
 webpage: "http://www.cinemaescape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.42975,2.164775]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.164775,41.42975]}}"
 active: true
 play_date: ""
 rating: "0"

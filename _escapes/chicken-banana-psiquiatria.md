@@ -15,7 +15,7 @@ foto: "chicken_banana_psiquiatria"
 name: "Chicken Banana-Psiquiatría"
 webpage: "http://chickenbanana.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.375858,2.1558233]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1558233,41.375858]}}"
 active: true
 play_date: "2015-04-18"
 rating: "NaN"

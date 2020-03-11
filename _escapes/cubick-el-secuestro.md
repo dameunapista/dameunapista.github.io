@@ -15,7 +15,7 @@ foto: ""
 name: "Cubick-El secuestro"
 webpage: "http://cubickroomescape.es/"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5330891,2.441029]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.441029,41.5330891]}}"
 active: true
 play_date: ""
 rating: "0"

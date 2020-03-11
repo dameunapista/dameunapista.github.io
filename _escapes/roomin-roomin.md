@@ -15,7 +15,7 @@ foto: ""
 name: "Roomin-Roomin"
 webpage: "http://www.roomin.es/es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.404546,2.1531043]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1531043,41.404546]}}"
 active: true
 play_date: "2015-12-13"
 rating: "NaN"

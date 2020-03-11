@@ -15,7 +15,7 @@ foto: ""
 name: "Lab escape-Proyecto Escaporium"
 webpage: "https://www.labescapepineda.com/"
 city: "Pineda de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6282401,2.6889822]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.6889822,41.6282401]}}"
 active: true
 play_date: ""
 rating: "0"

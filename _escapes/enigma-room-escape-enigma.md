@@ -15,7 +15,7 @@ foto: ""
 name: "Enigma Room Escape-Enigma"
 webpage: "http://juegoenigma.es/es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.425245,2.1760533]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1760533,41.425245]}}"
 active: true
 play_date: "2016-05-16"
 rating: "NaN"

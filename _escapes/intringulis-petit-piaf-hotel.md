@@ -15,7 +15,7 @@ foto: ""
 name: "Intringulis-Petit Piaf Hotel"
 webpage: "http://www.intringulisbcn.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4260455,2.1889315]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1889315,41.4260455]}}"
 active: true
 play_date: "2016-11-20"
 rating: "NaN"

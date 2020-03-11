@@ -15,7 +15,7 @@ foto: ""
 name: "White rabbit-Invitation"
 webpage: "http://www.whiterabbit.cat"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3863132,2.1578216]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1578216,41.3863132]}}"
 active: true
 play_date: "2016-02-20"
 rating: "3"

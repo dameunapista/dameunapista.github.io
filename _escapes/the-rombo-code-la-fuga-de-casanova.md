@@ -15,7 +15,7 @@ foto: ""
 name: "The rombo code-La fuga de casanova"
 webpage: "https://barcelona.therombocode.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.410356,2.1686805]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1686805,41.410356]}}"
 active: true
 play_date: ""
 rating: "0"

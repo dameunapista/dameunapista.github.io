@@ -15,7 +15,7 @@ foto: ""
 name: "Fear escape room-Parasite outbreak"
 webpage: "https://fearescaperoom.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.420835,2.1712533]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1712533,41.420835]}}"
 active: true
 play_date: ""
 rating: "0"

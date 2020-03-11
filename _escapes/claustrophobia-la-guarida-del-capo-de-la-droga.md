@@ -15,7 +15,7 @@ foto: ""
 name: "Claustrophobia-La guarida del capo de la droga"
 webpage: "https://claustrophobia.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3917024,2.174245]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.174245,41.3917024]}}"
 active: false
 play_date: ""
 rating: "0"

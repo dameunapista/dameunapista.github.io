@@ -15,7 +15,7 @@ foto: ""
 name: "Bizarre-Toys"
 webpage: "http://www.bizarrebcn.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.372405,2.168037]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.168037,41.372405]}}"
 active: true
 play_date: ""
 rating: "0"

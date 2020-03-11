@@ -15,7 +15,7 @@ foto: ""
 name: "Effugium-Amenaza bomba"
 webpage: "http://www.effugium.es/"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5429568,2.4270432]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.4270432,41.5429568]}}"
 active: true
 play_date: ""
 rating: "0"

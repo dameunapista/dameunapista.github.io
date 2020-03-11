@@ -15,7 +15,7 @@ foto: ""
 name: "Fluwin-El secret de Sant Jordi"
 webpage: "http://www.fluwimoci.cat/"
 city: "Sant Pere de Torello (Osona)"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.9292915,2.2529187]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2529187,41.9292915]}}"
 active: true
 play_date: ""
 rating: "0"

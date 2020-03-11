@@ -15,7 +15,7 @@ foto: ""
 name: "Escapa 32-La fórmula de l'oli"
 webpage: "http://escapa32.com/"
 city: "Olesa de Montserrat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5419693,1.8934612]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8934612,41.5419693]}}"
 active: true
 play_date: ""
 rating: "0"

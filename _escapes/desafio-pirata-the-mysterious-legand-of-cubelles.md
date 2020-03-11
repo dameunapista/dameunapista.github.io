@@ -15,7 +15,7 @@ foto: ""
 name: "Desafío pirata: the mysterious legand of cubelles"
 webpage: "http://desafiopirata.com/"
 city: "Cubelles"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.1994549,1.6677462]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.6677462,41.1994549]}}"
 active: true
 play_date: ""
 rating: "0"

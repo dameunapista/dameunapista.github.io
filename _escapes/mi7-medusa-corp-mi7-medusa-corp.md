@@ -15,7 +15,7 @@ foto: ""
 name: "MI7 Medusa Corp-MI7 Medusa Corp"
 webpage: "http://www.mi7medusacorp.com/"
 city: "Sant Cugat del Vallès"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4755653,2.0553717]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0553717,41.4755653]}}"
 active: true
 play_date: ""
 rating: "0"

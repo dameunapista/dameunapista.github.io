@@ -15,7 +15,7 @@ foto: ""
 name: "Doppler Room Escape-Acto 1 - Vientos de Pólvora"
 webpage: "https://www.dopplerexperiences.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4076976,2.1574655]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1574655,41.4076976]}}"
 active: true
 play_date: ""
 rating: "0"

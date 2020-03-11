@@ -15,7 +15,7 @@ foto: ""
 name: "Questory-Prison Break"
 webpage: "http://questory.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3808217,2.131628]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.131628,41.3808217]}}"
 active: true
 play_date: "2016-07-29"
 rating: "NaN"

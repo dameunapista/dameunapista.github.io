@@ -15,7 +15,7 @@ foto: ""
 name: "Enigmatiks"
 webpage: "http://www.enigmatiks.com/ca/"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.537352,2.4444006]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.4444006,41.537352]}}"
 active: true
 play_date: ""
 rating: "0"

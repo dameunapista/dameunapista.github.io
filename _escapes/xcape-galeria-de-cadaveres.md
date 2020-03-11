@@ -15,7 +15,7 @@ foto: ""
 name: "Xcape-Galeria de cadaveres"
 webpage: "http://www.juegosdeescapebarcelona.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.378372,2.1499193]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1499193,41.378372]}}"
 active: true
 play_date: ""
 rating: "0"

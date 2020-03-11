@@ -15,7 +15,7 @@ foto: ""
 name: "Intrappola. To-Sacrilegium"
 webpage: "http://intrappola.to/reservation/barcelona/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.403797,2.1787116]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1787116,41.403797]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Lock-clock-Fiesta after"
 webpage: "http://lock-clock.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.386199,2.1712963]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1712963,41.386199]}}"
 active: false
 play_date: ""
 rating: "0"

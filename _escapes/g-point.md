@@ -15,7 +15,7 @@ foto: ""
 name: "G point"
 webpage: "http://gpoint.es/"
 city: "Sant Adrià del Besòs"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4116927,2.222093]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.222093,41.4116927]}}"
 active: false
 play_date: ""
 rating: "0"

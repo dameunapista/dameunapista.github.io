@@ -15,7 +15,7 @@ foto: ""
 name: "Escape world Barcelona-Las muñecas"
 webpage: "http://www.escapeworldbarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4244732,2.1736199]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1736199,41.4244732]}}"
 active: true
 play_date: ""
 rating: "0"

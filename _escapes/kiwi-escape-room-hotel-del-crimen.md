@@ -15,7 +15,7 @@ foto: ""
 name: "Kiwi escape room-Hotel del crimen"
 webpage: "http://kiwiescaperoom.com/"
 city: "Figueres"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.2622058,2.9489869]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.9489869,42.2622058]}}"
 active: false
 play_date: ""
 rating: "0"

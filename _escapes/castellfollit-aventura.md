@@ -15,7 +15,7 @@ foto: ""
 name: "Castellfollit aventura"
 webpage: "http://castellfollitaventura.cat/escaperoom"
 city: "Castellfollit de Riubregos"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.780422,1.444338]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.444338,41.780422]}}"
 active: true
 play_date: ""
 rating: "0"

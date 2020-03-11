@@ -15,7 +15,7 @@ foto: ""
 name: "Parapark 1-Habitacle 113"
 webpage: "http://parapark.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3742875,2.1380698]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1380698,41.3742875]}}"
 active: false
 play_date: "2016-05-15"
 rating: "3"

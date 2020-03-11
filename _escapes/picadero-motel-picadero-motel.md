@@ -15,7 +15,7 @@ foto: ""
 name: "Picadero motel-Picadero motel"
 webpage: "http://www.picaderomotel.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4075291,2.1647714]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1647714,41.4075291]}}"
 active: true
 play_date: "2016-01-24"
 rating: "4"

@@ -15,7 +15,7 @@ foto: ""
 name: "Komnata Quest-Castillo Sant Angelo"
 webpage: "http://komnataquest.es/barcelona/"
 city: "Sant Cugat del Vallès"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3862404,2.1784891]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1784891,41.3862404]}}"
 active: true
 play_date: ""
 rating: "0"

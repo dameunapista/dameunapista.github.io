@@ -15,7 +15,7 @@ foto: ""
 name: "Limit Room Escape"
 webpage: "http://www.limitroomescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.442184,2.174567]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.174567,41.442184]}}"
 active: false
 play_date: ""
 rating: "0"

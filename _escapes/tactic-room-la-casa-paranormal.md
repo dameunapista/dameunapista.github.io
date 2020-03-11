@@ -15,7 +15,7 @@ foto: ""
 name: "Tactic room-La casa paranormal"
 webpage: "http://www.tacticgame.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4073437,2.1747244]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1747244,41.4073437]}}"
 active: true
 play_date: ""
 rating: "0"

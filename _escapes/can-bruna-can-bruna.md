@@ -15,7 +15,7 @@ foto: ""
 name: "Can Bruna-Can Bruna"
 webpage: "http://canbruna.cat/"
 city: "Vilafranca del Penedès"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3481787,1.7023711]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.7023711,41.3481787]}}"
 active: true
 play_date: "2016-07-24"
 rating: "NaN"

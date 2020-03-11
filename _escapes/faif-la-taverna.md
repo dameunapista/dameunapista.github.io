@@ -15,7 +15,7 @@ foto: ""
 name: "Faif-La taverna"
 webpage: "http://escapefaif.com/"
 city: "Vic"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.931212,2.2552513]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2552513,41.931212]}}"
 active: true
 play_date: ""
 rating: "0"

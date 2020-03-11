@@ -15,7 +15,7 @@ foto: ""
 name: "Lostroom-La fiesta de los zombies"
 webpage: "http://lostroombcn.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3943332,2.1761636]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1761636,41.3943332]}}"
 active: true
 play_date: ""
 rating: "0"

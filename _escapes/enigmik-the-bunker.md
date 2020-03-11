@@ -15,7 +15,7 @@ foto: ""
 name: "Enigmik-The Bunker"
 webpage: "http://www.enigmik.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4098961,2.1775313]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1775313,41.4098961]}}"
 active: true
 play_date: "2015-06-24"
 rating: "5"

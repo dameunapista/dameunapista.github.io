@@ -15,7 +15,7 @@ foto: ""
 name: "Hostal 83"
 webpage: "http://hostal83.wixsite.com/hostal83"
 city: "Gironella"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.034584,1.8777513]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8777513,42.034584]}}"
 active: true
 play_date: ""
 rating: "0"

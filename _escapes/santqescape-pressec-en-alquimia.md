@@ -15,7 +15,7 @@ foto: ""
 name: "SantQescape-Préssec en alquimia"
 webpage: "http://santqescape.com/"
 city: "Sant Cugat del Vallès"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4727487,2.0827449]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0827449,41.4727487]}}"
 active: true
 play_date: ""
 rating: "0"

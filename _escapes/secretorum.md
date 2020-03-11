@@ -15,7 +15,7 @@ foto: ""
 name: "Secretorum"
 webpage: "http://secretorum.es"
 city: "Oropesa del Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[40.1130631,0.1473703]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[0.1473703,40.1130631]}}"
 active: true
 play_date: ""
 rating: "0"

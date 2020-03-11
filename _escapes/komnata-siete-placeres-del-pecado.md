@@ -15,7 +15,7 @@ foto: ""
 name: "Komnata-Siete placeres del pecado"
 webpage: "http://komnataquest.es/barcelona/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.386234,2.1785193]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1785193,41.386234]}}"
 active: true
 play_date: ""
 rating: "0"

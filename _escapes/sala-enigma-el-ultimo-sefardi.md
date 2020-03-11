@@ -15,7 +15,7 @@ foto: ""
 name: "Sala Enigma-El último sefardí"
 webpage: "http://hospitalet.salaenigma.com/"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3630965,2.1227423]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1227423,41.3630965]}}"
 active: true
 play_date: ""
 rating: "0"

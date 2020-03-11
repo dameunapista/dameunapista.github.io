@@ -15,7 +15,7 @@ foto: ""
 name: "Últim avís-Últim avís"
 webpage: "https://ultimavis.cat/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.399692,2.1571213]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1571213,41.399692]}}"
 active: true
 play_date: "2016-03-12"
 rating: "4"

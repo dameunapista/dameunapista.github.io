@@ -15,7 +15,7 @@ foto: ""
 name: "Cubick-La entrevista"
 webpage: "http://cubickroomescape.es/"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5330891,2.441029]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.441029,41.5330891]}}"
 active: true
 play_date: "2016-10-01"
 rating: "NaN"

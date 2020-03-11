@@ -15,7 +15,7 @@ foto: ""
 name: "La soga"
 webpage: "http://www.la-soga.com/"
 city: "Molins de Rei"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.404767,2.0241523]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0241523,41.404767]}}"
 active: true
 play_date: "2017-01-15"
 rating: "4"

@@ -15,7 +15,7 @@ foto: ""
 name: "Cafè misteri"
 webpage: "http://cafemisteri.cat/"
 city: "Terrassa"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5705249,2.0087899]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0087899,41.5705249]}}"
 active: true
 play_date: ""
 rating: "0"

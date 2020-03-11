@@ -15,7 +15,7 @@ foto: ""
 name: "Inmersion room escape"
 webpage: "http://www.escaperoomimmersion.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.378252,2.1283343]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1283343,41.378252]}}"
 active: true
 play_date: ""
 rating: "0"

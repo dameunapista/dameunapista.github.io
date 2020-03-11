@@ -15,7 +15,7 @@ foto: ""
 name: "Questeros-Rebelión de las máquinas"
 webpage: "http://questeros.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3833484,2.1558274]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1558274,41.3833484]}}"
 active: true
 play_date: ""
 rating: "0"

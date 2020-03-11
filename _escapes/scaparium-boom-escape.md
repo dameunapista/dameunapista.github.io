@@ -15,7 +15,7 @@ foto: ""
 name: "Scaparium-Boom Escape"
 webpage: "http://boomescape.com"
 city: "Vilanova i la Geltrú"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.2252727,1.7209346]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.7209346,41.2252727]}}"
 active: true
 play_date: ""
 rating: "0"

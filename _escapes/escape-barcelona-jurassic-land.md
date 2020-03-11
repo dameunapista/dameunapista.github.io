@@ -15,7 +15,7 @@ foto: ""
 name: "Escape Barcelona-Jurassic Land"
 webpage: "http://www.escapebarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4514955,2.2024353]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2024353,41.4514955]}}"
 active: true
 play_date: "2017-06-03"
 rating: "NaN"

@@ -15,7 +15,7 @@ foto: ""
 name: "Trapped Mollet"
 webpage: "http://www.trappedmollet.com/"
 city: "Mollet del Vallès"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5331997,2.2066314]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2066314,41.5331997]}}"
 active: true
 play_date: ""
 rating: "0"

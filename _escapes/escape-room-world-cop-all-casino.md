@@ -15,7 +15,7 @@ foto: ""
 name: "Escape room world-Cop all casino"
 webpage: "http://www.escaperoom.world/"
 city: "Platja d'Aro"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.8159744,3.062447]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[3.062447,41.8159744]}}"
 active: true
 play_date: ""
 rating: "0"

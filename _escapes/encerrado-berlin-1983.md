@@ -15,7 +15,7 @@ foto: ""
 name: "Encerrado-Berlín 1983"
 webpage: "http://www.encerrado.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4167708,2.191338]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.191338,41.4167708]}}"
 active: true
 play_date: ""
 rating: "0"

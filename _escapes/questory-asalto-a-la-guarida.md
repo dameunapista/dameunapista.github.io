@@ -15,7 +15,7 @@ foto: ""
 name: "Questory-Asalto a la guarida"
 webpage: "http://questory.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3808217,2.131628]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.131628,41.3808217]}}"
 active: true
 play_date: ""
 rating: "0"

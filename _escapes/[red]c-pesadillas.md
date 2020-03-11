@@ -15,7 +15,7 @@ foto: ""
 name: "[Red]C-Pesadillas"
 webpage: "https://www.redcescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4191648,2.1874738]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1874738,41.4191648]}}"
 active: true
 play_date: ""
 rating: "0"

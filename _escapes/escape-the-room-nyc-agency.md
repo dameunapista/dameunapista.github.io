@@ -15,7 +15,7 @@ foto: ""
 name: "Escape the room NYC-Agency"
 webpage: "http://static.escapetheroomnyc.com/"
 city: "Nueva York"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[40.7473215,-73.9894454]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9894454,40.7473215]}}"
 active: true
 play_date: "2016-08-08"
 rating: "3"

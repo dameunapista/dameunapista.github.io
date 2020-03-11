@@ -15,7 +15,7 @@ foto: ""
 name: "Open mind room escape-Misión S.W.A.T"
 webpage: "http://openmindroomescape.es/"
 city: "Cornellà de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3647727,2.0753745]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0753745,41.3647727]}}"
 active: true
 play_date: "2017-07-16"
 rating: "NaN"

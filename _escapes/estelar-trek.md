@@ -15,7 +15,7 @@ foto: ""
 name: "Estelar trek"
 webpage: "http://estelartrek.com/"
 city: "Sabadell"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5636023,2.0842348]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0842348,41.5636023]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Enigmatik games-El golpe"
 webpage: "http://www.enigmatikgames.com/"
 city: "Reus"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.151249,1.108259]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.108259,41.151249]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Houdini escape room-Houdini & Doyle"
 webpage: "http://www.escapehoudini.com/"
 city: "Malgrat de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.64086,2.7349213]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.7349213,41.64086]}}"
 active: true
 play_date: ""
 rating: "0"

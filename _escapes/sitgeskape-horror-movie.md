@@ -15,7 +15,7 @@ foto: ""
 name: "Sitgeskape-Horror movie"
 webpage: "http://www.sitgescape.com/"
 city: "Sitges"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.2386149,1.805336]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.805336,41.2386149]}}"
 active: true
 play_date: "2017-10-13"
 rating: "2"

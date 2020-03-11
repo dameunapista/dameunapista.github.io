@@ -15,7 +15,7 @@ foto: ""
 name: "La busqueda-Poltergeist"
 webpage: "https://www.la-busqueda.com/"
 city: "Sevilla"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[37.372942,-5.9974587]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.9974587,37.372942]}}"
 active: false
 play_date: ""
 rating: "0"

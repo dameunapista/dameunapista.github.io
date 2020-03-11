@@ -15,7 +15,7 @@ foto: ""
 name: "Emotion-La nube"
 webpage: "http://www.emotionescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4090544,2.1603823]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1603823,41.4090544]}}"
 active: true
 play_date: ""
 rating: "0"

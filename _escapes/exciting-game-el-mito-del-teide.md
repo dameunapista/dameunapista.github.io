@@ -15,7 +15,7 @@ foto: ""
 name: "Exciting Game-El mito del Teide"
 webpage: "http://excitinggame.es/es/"
 city: "Tenerife"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[28.0597897,-16.7356747]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-16.7356747,28.0597897]}}"
 active: true
 play_date: "2015-08-23"
 rating: "3"

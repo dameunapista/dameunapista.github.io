@@ -15,7 +15,7 @@ foto: ""
 name: "Totem room escape-Las profecias de El Bosco"
 webpage: "http://totemescaperoom.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4399044,2.1616682]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1616682,41.4399044]}}"
 active: true
 play_date: ""
 rating: "0"

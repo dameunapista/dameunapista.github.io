@@ -15,7 +15,7 @@ foto: ""
 name: "Proyecto Target-Proyecto Target"
 webpage: "http://proyectotarget.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.371419,2.1434603]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1434603,41.371419]}}"
 active: true
 play_date: "2015-08-05"
 rating: "NaN"

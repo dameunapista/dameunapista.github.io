@@ -15,7 +15,7 @@ foto: ""
 name: "The Witching Hour-Can bruixa?"
 webpage: "http://thewitchinghour.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.38475,2.1285076]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1285076,41.38475]}}"
 active: false
 play_date: ""
 rating: "0"

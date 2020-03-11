@@ -15,7 +15,7 @@ foto: ""
 name: "60' Escape-Los infiltrados"
 webpage: "https://60escape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.375768,2.1556063]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1556063,41.375768]}}"
 active: true
 play_date: ""
 rating: "0"

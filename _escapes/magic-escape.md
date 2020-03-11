@@ -15,7 +15,7 @@ foto: ""
 name: "Magic escape"
 webpage: "http://www.magicescape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3949605,2.1641855]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1641855,41.3949605]}}"
 active: true
 play_date: "2016-12-08"
 rating: "3"

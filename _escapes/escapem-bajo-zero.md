@@ -15,7 +15,7 @@ foto: ""
 name: "Escapem-Bajo zero"
 webpage: "http://escapem.com/"
 city: "Sabadell"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5303107,2.115556]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.115556,41.5303107]}}"
 active: true
 play_date: ""
 rating: "0"

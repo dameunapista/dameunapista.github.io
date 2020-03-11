@@ -15,7 +15,7 @@ foto: ""
 name: "Señor escape-La isla"
 webpage: "http://senorescape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4007354,2.1731081]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1731081,41.4007354]}}"
 active: true
 play_date: ""
 rating: "0"

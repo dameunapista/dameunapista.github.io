@@ -15,7 +15,7 @@ foto: ""
 name: "Intramuros-Necronomicón"
 webpage: "http://intramurosroomescape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4114977,2.1803621]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1803621,41.4114977]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "La Sala-Sala 1"
 webpage: "http://lasaladeescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3756901,2.1375158]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1375158,41.3756901]}}"
 active: true
 play_date: "2016-06-25"
 rating: "NaN"

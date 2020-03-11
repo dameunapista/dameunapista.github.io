@@ -15,7 +15,7 @@ foto: ""
 name: "The resistance-Lanzadera alien"
 webpage: "http://www.resistanceroom.com/es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3855569,2.1273675]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1273675,41.3855569]}}"
 active: true
 play_date: ""
 rating: "0"

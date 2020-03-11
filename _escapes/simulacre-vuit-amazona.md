@@ -15,7 +15,7 @@ foto: ""
 name: "Simulacre vuit-Amazona"
 webpage: "http://roomescapesimulacrevuit.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4235985,2.1742077]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1742077,41.4235985]}}"
 active: true
 play_date: "2016-04-24"
 rating: "3"

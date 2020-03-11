@@ -15,7 +15,7 @@ foto: ""
 name: "Atropos-Aegis"
 webpage: "http://www.atroposescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4218477,2.176553]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.176553,41.4218477]}}"
 active: false
 play_date: ""
 rating: "0"

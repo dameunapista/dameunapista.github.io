@@ -15,7 +15,7 @@ foto: ""
 name: "Break the wall-El misterio de Oberón"
 webpage: "https://www.breakthewall.es/"
 city: "Valladolid"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.648776,-4.7174857]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-4.7174857,41.648776]}}"
 active: true
 play_date: ""
 rating: "0"

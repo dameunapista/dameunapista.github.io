@@ -15,7 +15,7 @@ foto: ""
 name: "Agencia 846-Cas Namibia"
 webpage: "http://www.agencia846.com/"
 city: "Granollers"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6116454,2.2864508]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2864508,41.6116454]}}"
 active: true
 play_date: ""
 rating: "0"

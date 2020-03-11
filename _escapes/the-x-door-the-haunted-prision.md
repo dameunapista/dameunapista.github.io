@@ -15,7 +15,7 @@ foto: ""
 name: "The X door-The haunted prision"
 webpage: "http://thexdoorbarcelona.com"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.369007,2.1225283]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1225283,41.369007]}}"
 active: true
 play_date: ""
 rating: "0"

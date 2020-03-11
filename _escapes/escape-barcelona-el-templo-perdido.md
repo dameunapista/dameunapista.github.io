@@ -15,7 +15,7 @@ foto: ""
 name: "Escape Barcelona-El templo perdido"
 webpage: "http://www.escapebarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4383891,2.1650027]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1650027,41.4383891]}}"
 active: true
 play_date: "2016-02-07"
 rating: "4"

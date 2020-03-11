@@ -15,7 +15,7 @@ foto: ""
 name: "Conundroom-Mr. Ascott"
 webpage: "http://www.conundroom.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4024907,2.1801108]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1801108,41.4024907]}}"
 active: true
 play_date: ""
 rating: "0"

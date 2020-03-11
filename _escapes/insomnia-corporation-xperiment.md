@@ -15,7 +15,7 @@ foto: ""
 name: "Insomnia corporation-XPERIMENT"
 webpage: "http://www.insomniacorp.com/"
 city: "Berga"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.0998972,1.8375174]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8375174,42.0998972]}}"
 active: true
 play_date: ""
 rating: "0"

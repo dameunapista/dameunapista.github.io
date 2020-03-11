@@ -15,7 +15,7 @@ foto: ""
 name: "Escápate Barcelona-El silo"
 webpage: "http://roomescapatebarcelona.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.422591,2.1705581]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1705581,41.422591]}}"
 active: true
 play_date: ""
 rating: "0"

@@ -15,7 +15,7 @@ foto: ""
 name: "Eskapa2-VIaje a lo desconocido"
 webpage: "https://eskapa2.com/"
 city: "Bilbao"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[43.274799,-2.95688]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-2.95688,43.274799]}}"
 active: true
 play_date: "2017-08-07"
 rating: "NaN"

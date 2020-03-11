@@ -15,7 +15,7 @@ foto: ""
 name: "Tolok room escape-El misterio maya"
 webpage: "http://www.tolokroomescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4320532,2.1783615]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1783615,41.4320532]}}"
 active: true
 play_date: ""
 rating: "0"

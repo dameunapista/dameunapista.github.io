@@ -15,7 +15,7 @@ foto: ""
 name: "The house of whispers-La historia de Myra Savage"
 webpage: "http://thehouseofwhispers.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4040265,2.1656596]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1656596,41.4040265]}}"
 active: true
 play_date: "2016-12-10"
 rating: "4"

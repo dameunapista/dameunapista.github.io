@@ -15,7 +15,7 @@ foto: ""
 name: "Vive tu escape-Boom escape"
 webpage: "http://www.vivetuescape.com/"
 city: "Terrassa"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.529807,2.0346653]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0346653,41.529807]}}"
 active: false
 play_date: ""
 rating: "0"
