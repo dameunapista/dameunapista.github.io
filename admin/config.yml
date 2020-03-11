@@ -18,13 +18,19 @@ collections:
         - {label: "Texto", name: "body", widget: "markdown"}
     - name: "escapes" # Used in routes, e.g., /admin/collections/blog
       label: "Escapes" # Used in the UI
+      description: "Escapes y sus salas/juegos"
       folder: "_escapes" # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      identifier_field: "name"
       fields: # The fields for each document, usually in front matter
-        - {label: "Layout", name: "layout", widget: "hidden", default: "feed"}
-        - {label: "Escape", name: "title", widget: "string"}
-        - {label: "Fecha Publicación", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "foto", widget: "image"}
-        - {label: "Valoración (scale of 1-5)", name: "valoracion", widget: "number"}
-        - {label: "Comentarios", name: "body", widget: "markdown"}
+        # - {label: "Layout", name: "layout", widget: "hidden", default: "feed"}
+        - {label: "Escape", name: "name", widget: "string"}
+        - {label: "Página Web", name: "webpage", widget: "string"}
+        - {label: "Ciudad", name: "city", widget: "string"}
+        - {label: "Ubicación", name: "location", widget: "map", type: "Point" }
+        - {label: "Jugado", name: "played_date", widget: "datetime", default: "", dateFormat: "YYYY.MM.DD", timeFormat: false, required: false}
+        - {label: "Valoración", name: "rating", widget: "select", options: [{ label: "Muy Bueno", value: "5" },{ label: "Bueno", value: "4" },{ label: "Normal", value: "3" }, { label: "Malo", value: "2" }], required: false}
+        - {label: "Foto", name: "photo", widget: "image", default: "/images/uploads/nophoto.jpg", required: false}
+        - {label: "Comentarios", name: "body", widget: "markdown", required: false}
+        - {label: "Fecha Modificación", name: "date", widget: "datetime", dateFormat: "YYYY.MM.DD", timeFormat: "HH:mm", required: false}
