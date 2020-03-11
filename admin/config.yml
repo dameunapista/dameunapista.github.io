@@ -23,6 +23,8 @@ collections:
       create: true # Allow users to create new documents in this collection
       slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
       identifier_field: "name"
+      editor:
+        preview: false
       fields: # The fields for each document, usually in front matter
         # - {label: "Layout", name: "layout", widget: "hidden", default: "feed"}
         - {label: "Escape", name: "name", widget: "string"}
@@ -33,4 +35,5 @@ collections:
         - {label: "Valoración", name: "rating", widget: "select", options: [{ label: "Muy Bueno", value: "5" },{ label: "Bueno", value: "4" },{ label: "Normal", value: "3" }, { label: "Malo", value: "2" }], required: false}
         - {label: "Foto", name: "photo", widget: "image", default: "/images/uploads/nophoto.jpg", required: false}
         - {label: "Comentarios", name: "body", widget: "markdown", required: false}
+        - {label: "Activo", name: "active", widget: "boolean", default: true}
         - {label: "Fecha Modificación", name: "date", widget: "datetime", dateFormat: "YYYY.MM.DD", timeFormat: "HH:mm", required: false}
