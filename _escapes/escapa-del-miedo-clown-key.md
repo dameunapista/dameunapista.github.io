@@ -15,7 +15,8 @@ foto: ""
 name: "Escapa del miedo-Clown key"
 webpage: "https://escapadelmiedo.com/"
 city: "Granollers"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,60305480\",\"2,28611310\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6030548,2.2861131]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

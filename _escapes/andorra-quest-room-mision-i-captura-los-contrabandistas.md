@@ -15,7 +15,7 @@ foto: ""
 name: "Andorra Quest Room-Misión I: Captura los contrabandistas"
 webpage: "http://www.andorraquestroom.com/"
 city: "Andorra La Vella"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

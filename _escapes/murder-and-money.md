@@ -15,7 +15,8 @@ foto: ""
 name: "Murder and Money"
 webpage: "http://murderandmoney.com/"
 city: "Barakaldo"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"43,29577530\",\"-2,99854950\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[43.2957753,-2.9985495]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

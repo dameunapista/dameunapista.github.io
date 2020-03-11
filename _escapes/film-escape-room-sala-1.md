@@ -15,7 +15,8 @@ foto: ""
 name: "Film escape room-Sala 1"
 webpage: "http://filmescaperoom.com/"
 city: "Figueres"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"42,27015080\",\"2,96322060\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.2701508,2.9632206]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Maximum escape-Sherlock Holmes contra el diablo londinense"
 webpage: "https://barcelona.maximumescape.com/es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38909590\",\"2,17311740\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3890959,2.1731174]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

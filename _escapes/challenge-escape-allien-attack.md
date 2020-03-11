@@ -15,7 +15,8 @@ foto: ""
 name: "Challenge Escape-Allien Attack"
 webpage: "https://challengescape.es/"
 city: "Pineda de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,62889000\",\"2,69327700\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.62889,2.693277]}}"
 active: true
 play_date: "2017-10-22"
+rating: "NaN"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "La sortida-Codicia"
 webpage: "http://www.lasortida.es/"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,54083560\",\"2,42967660\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5408356,2.4296766]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

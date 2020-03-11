@@ -15,7 +15,7 @@ foto: ""
 name: "Fluwim-El secret de Sant Jordi"
 webpage: "http://www.fluwimoci.cat/es/"
 city: "Vic"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

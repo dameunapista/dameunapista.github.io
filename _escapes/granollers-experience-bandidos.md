@@ -15,7 +15,8 @@ foto: ""
 name: "Granollers experience-Bandidos"
 webpage: "http://granollersexperience.com/"
 city: "Granollers"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,60961720\",\"2,29033300\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6096172,2.290333]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

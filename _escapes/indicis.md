@@ -15,7 +15,8 @@ foto: ""
 name: "Indicis"
 webpage: "http://www.indicis.es/"
 city: "Arboç"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,26803800\",\"1,60026600\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.268038,1.600266]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

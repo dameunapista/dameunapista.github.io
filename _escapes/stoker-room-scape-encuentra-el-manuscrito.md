@@ -15,7 +15,7 @@ foto: ""
 name: "Stoker Room Scape-Encuentra el manuscrito"
 webpage: "http://stokerroomscape.cat/es/"
 city: "Badalona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

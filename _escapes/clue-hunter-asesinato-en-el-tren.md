@@ -15,7 +15,8 @@ foto: ""
 name: "Clue Hunter-Asesinato en el tren"
 webpage: "http://www.cluehunterbarcelona.com/"
 city: "Santa Coloma de Gramanet"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,44898150\",\"2,21208090\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4489815,2.2120809]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

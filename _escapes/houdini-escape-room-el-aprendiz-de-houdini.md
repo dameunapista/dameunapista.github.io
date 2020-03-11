@@ -15,7 +15,8 @@ foto: ""
 name: "Houdini escape room-El aprendiz de Houdini"
 webpage: "http://www.escapehoudini.com/"
 city: "Malgrat de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,64086000\",\"2,73492130\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.64086,2.7349213]}}"
 active: true
 play_date: "2017-10-22"
+rating: "NaN"
 ---

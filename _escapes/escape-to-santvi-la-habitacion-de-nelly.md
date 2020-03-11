@@ -15,7 +15,8 @@ foto: ""
 name: "Escape to SantVi-La habitación de Nelly"
 webpage: "https://www.escapetosantvi.com/"
 city: "Sant Vicenç dels Horts"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,39116300\",\"2,01087930\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.391163,2.0108793]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

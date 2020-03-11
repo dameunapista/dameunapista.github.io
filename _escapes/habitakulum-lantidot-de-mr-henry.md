@@ -15,7 +15,8 @@ foto: ""
 name: "Habitakulum-L'antídot de Mr. Henry"
 webpage: "http://habitakulum.com/ca/"
 city: "Tarragona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,12050480\",\"1,25074880\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.1205048,1.2507488]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

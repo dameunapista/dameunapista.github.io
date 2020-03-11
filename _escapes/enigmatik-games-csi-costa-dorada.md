@@ -15,7 +15,8 @@ foto: ""
 name: "Enigmatik games-CSI Costa Dorada"
 webpage: "http://www.enigmatikgames.com/"
 city: "Reus"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,15124900\",\"1,10825900\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.151249,1.108259]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

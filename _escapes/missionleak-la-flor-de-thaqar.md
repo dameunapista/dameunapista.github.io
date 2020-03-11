@@ -15,7 +15,8 @@ foto: ""
 name: "Missionleak-La Flor de Thaqar"
 webpage: "http://missionleak.com/es/"
 city: "Cornellà de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,35653000\",\"2,06931330\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.35653,2.0693133]}}"
 active: true
 play_date: "2015-03-21"
+rating: "5"
 ---

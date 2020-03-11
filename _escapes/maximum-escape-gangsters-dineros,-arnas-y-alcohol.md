@@ -15,7 +15,8 @@ foto: ""
 name: "Maximum escape-Gangsters: dineros, arnas y alcohol"
 webpage: "https://barcelona.maximumescape.com/es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,39189810\",\"2,17375610\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3918981,2.1737561]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

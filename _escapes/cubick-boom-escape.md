@@ -15,7 +15,8 @@ foto: ""
 name: "Cubick-Boom Escape"
 webpage: "http://boomescape.com"
 city: "Mataró"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,53308910\",\"2,44102900\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5330891,2.441029]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

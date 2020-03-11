@@ -15,7 +15,8 @@ foto: ""
 name: "Retobox-Capitán Pessoa"
 webpage: "http://www.retobox.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,43947900\",\"2,19088530\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.439479,2.1908853]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

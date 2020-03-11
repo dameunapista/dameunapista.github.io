@@ -15,7 +15,8 @@ foto: ""
 name: "Room escape VIP-Monasterium"
 webpage: "http://roomescapevip.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,36889420\",\"2,13925640\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3688942,2.1392564]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

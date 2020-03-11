@@ -15,7 +15,8 @@ foto: ""
 name: "Pandemya"
 webpage: "http://www.pandemya.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37490740\",\"2,12937970\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3749074,2.1293797]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

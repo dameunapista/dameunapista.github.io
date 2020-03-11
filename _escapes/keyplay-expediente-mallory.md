@@ -15,7 +15,8 @@ foto: ""
 name: "KeyPlay-Expediente Mallory"
 webpage: "http://www.keyplay.es/"
 city: "Granollers"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,60382230\",\"2,28587260\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6038223,2.2858726]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

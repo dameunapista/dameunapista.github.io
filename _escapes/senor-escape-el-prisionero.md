@@ -15,7 +15,8 @@ foto: ""
 name: "Señor escape-El prisionero"
 webpage: "http://senorescape.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40073540\",\"2,17310810\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4007354,2.1731081]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

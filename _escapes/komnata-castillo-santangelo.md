@@ -15,7 +15,8 @@ foto: ""
 name: "Komnata-Castillo Sant'Angelo"
 webpage: "http://komnataquest.es/barcelona/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38623400\",\"2,17851930\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.386234,2.1785193]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

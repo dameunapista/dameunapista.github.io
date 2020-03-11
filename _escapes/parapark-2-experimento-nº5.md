@@ -15,7 +15,8 @@ foto: ""
 name: "Parapark 2-Experimento nº5"
 webpage: "http://parapark.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37796360\",\"2,13430810\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3779636,2.1343081]}}"
 active: false
 play_date: "2016-11-10"
+rating: "3"
 ---

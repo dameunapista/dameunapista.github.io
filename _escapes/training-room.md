@@ -15,7 +15,8 @@ foto: ""
 name: "Training room"
 webpage: "http://trainingroombcn.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37643400\",\"2,13301850\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.376434,2.1330185]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

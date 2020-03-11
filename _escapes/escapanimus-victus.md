@@ -15,7 +15,8 @@ foto: ""
 name: "Escapanimus-Victus"
 webpage: "http://www.escapanimus.cat/es/"
 city: "Sabadell"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,55116700\",\"2,10062000\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.551167,2.10062]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Escapa si puedes-Apartamento 97"
 webpage: "http://www.escapasipuedes.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40525860\",\"2,14751540\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4052586,2.1475154]}}"
 active: true
 play_date: "2015-01-03"
+rating: "3"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "The X door-White&Black"
 webpage: "http://thexdoorbarcelona.com"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,36900700\",\"2,12252830\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.369007,2.1225283]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Tic Tac room-Walter Gate"
 webpage: "http://tictacroom.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37346900\",\"2,12629830\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.373469,2.1262983]}}"
 active: true
 play_date: "2015-11-21"
+rating: "3"
 ---

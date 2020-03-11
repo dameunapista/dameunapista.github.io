@@ -15,7 +15,7 @@ foto: ""
 name: "Xkapa-La comisaria XL"
 webpage: "https://xkapa.com/"
 city: "Santander"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

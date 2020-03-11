@@ -15,7 +15,7 @@ foto: ""
 name: "Room escape compostela-neutraliza la bomba"
 webpage: "-"
 city: "Santiago de Compostela"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

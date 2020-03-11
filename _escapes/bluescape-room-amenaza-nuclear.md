@@ -15,7 +15,8 @@ foto: ""
 name: "Bluescape room-Amenaza nuclear"
 webpage: "http://bluescaperoom.com/"
 city: "Lleida"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,60864560\",\"0,66226770\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6086456,0.6622677]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

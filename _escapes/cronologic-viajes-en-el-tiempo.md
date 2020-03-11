@@ -15,7 +15,8 @@ foto: ""
 name: "Cronologic-Viajes en el tiempo"
 webpage: "http://www.cronologic.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40922650\",\"2,18439260\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4092265,2.1843926]}}"
 active: true
 play_date: "2015-05-03"
+rating: "4"
 ---

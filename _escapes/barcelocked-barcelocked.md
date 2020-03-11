@@ -15,7 +15,8 @@ foto: ""
 name: "Barcelocked-Barcelocked"
 webpage: "https://barcelocked.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38517300\",\"2,17626530\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.385173,2.1762653]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

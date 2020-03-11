@@ -15,7 +15,8 @@ foto: ""
 name: "Escapa-T-Wild west"
 webpage: "http://escapatlleida.com/"
 city: "Lleida"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,62289700\",\"0,62517370\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.622897,0.6251737]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Escapa si puedes-Agencia 29"
 webpage: "http://www.escapasipuedes.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40931270\",\"2,15602710\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4093127,2.1560271]}}"
 active: true
 play_date: "2016-11-10"
+rating: "NaN"
 ---

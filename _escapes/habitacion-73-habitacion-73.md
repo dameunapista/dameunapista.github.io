@@ -15,7 +15,8 @@ foto: ""
 name: "Habitación 73-Habitación 73"
 webpage: "http://www.habitacion73.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40744300\",\"2,15689840\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.407443,2.1568984]}}"
 active: true
 play_date: "2015-06-14"
+rating: "NaN"
 ---

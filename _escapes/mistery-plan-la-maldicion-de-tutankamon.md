@@ -15,7 +15,7 @@ foto: ""
 name: "Mistery plan-La maldición de Tutankamon"
 webpage: "http://www.misteryplan.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

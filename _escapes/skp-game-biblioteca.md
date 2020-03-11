@@ -15,7 +15,8 @@ foto: ""
 name: "Skp game-Biblioteca"
 webpage: "http://www.skp-game.com/"
 city: "Sant Just d'Esvern"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37972050\",\"2,06893130\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3797205,2.0689313]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

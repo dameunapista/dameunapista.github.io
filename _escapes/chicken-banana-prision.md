@@ -15,7 +15,8 @@ foto: ""
 name: "Chicken Banana-Prisión"
 webpage: "http://chickenbanana.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37585800\",\"2,15582330\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.375858,2.1558233]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

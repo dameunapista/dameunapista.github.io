@@ -15,7 +15,8 @@ foto: ""
 name: "Elementary-Sherlock Holmes: l'hora final"
 webpage: "http://www.elementary.cat/"
 city: "Vic"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,93062960\",\"2,25514230\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.9306296,2.2551423]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

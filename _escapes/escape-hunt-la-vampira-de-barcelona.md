@@ -15,7 +15,8 @@ foto: ""
 name: "Escape Hunt-La vampira de Barcelona"
 webpage: "http://barcelona.escapehunt.com/es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40203400\",\"2,16824430\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.402034,2.1682443]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

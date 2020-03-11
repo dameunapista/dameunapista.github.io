@@ -15,7 +15,8 @@ foto: "chicken_banana_mafia"
 name: "Chicken Banana-Mafia"
 webpage: "http://chickenbanana.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37585800\",\"2,15582330\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.375858,2.1558233]}}"
 active: true
 play_date: "2015-09-04"
+rating: "4"
 ---

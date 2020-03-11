@@ -15,7 +15,8 @@ foto: ""
 name: "Tactic room-Chernóbil"
 webpage: "http://www.tacticgame.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40734370\",\"2,17472440\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4073437,2.1747244]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

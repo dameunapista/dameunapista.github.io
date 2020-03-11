@@ -15,7 +15,8 @@ foto: ""
 name: "Escapastic-Hospital horror story"
 webpage: "http://www.escapastic.com/"
 city: "Vendrell"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,21851330\",\"1,52898340\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.2185133,1.5289834]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

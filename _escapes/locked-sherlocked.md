@@ -15,7 +15,8 @@ foto: ""
 name: "Locked-Sherlocked"
 webpage: "http://lockedzgz.com/"
 city: "Zaragoza"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,67242450\",\"-0,88848880\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6724245,-0.8884888]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

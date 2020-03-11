@@ -15,7 +15,8 @@ foto: ""
 name: "Questeros-Pesadilla en la calle Diputació"
 webpage: "http://questeros.es/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38334840\",\"2,15582740\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3833484,2.1558274]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

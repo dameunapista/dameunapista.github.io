@@ -15,7 +15,8 @@ foto: ""
 name: "[Red]C-El maniconio"
 webpage: "https://www.redcescape.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,41916480\",\"2,18747380\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4191648,2.1874738]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,7 @@ foto: ""
 name: "Fugir"
 webpage: "http://www.fugir.cat/"
 city: "Girona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

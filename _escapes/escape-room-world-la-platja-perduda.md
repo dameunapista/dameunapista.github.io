@@ -15,7 +15,8 @@ foto: ""
 name: "Escape room world-La platja perduda"
 webpage: "http://www.escaperoom.world/"
 city: "Platja d'Aro"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,81597440\",\"3,06244700\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.8159744,3.062447]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

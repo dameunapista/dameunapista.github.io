@@ -15,7 +15,8 @@ foto: ""
 name: "Xcape-Celda infernal"
 webpage: "http://www.juegosdeescapebarcelona.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37837200\",\"2,14991930\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.378372,2.1499193]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

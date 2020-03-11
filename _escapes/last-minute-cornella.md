@@ -15,7 +15,8 @@ foto: ""
 name: "Last minute Cornella"
 webpage: "https://www.facebook.com/lastminutecornella/"
 city: "Cornellà de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,35850080\",\"2,07304830\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3585008,2.0730483]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

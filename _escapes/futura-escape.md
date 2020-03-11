@@ -15,7 +15,8 @@ foto: ""
 name: "Futura escape"
 webpage: "https://futuraescape.com/"
 city: "Pineda de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,61835620\",\"2,67115540\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.6183562,2.6711554]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

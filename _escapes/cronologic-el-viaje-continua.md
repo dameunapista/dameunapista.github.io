@@ -15,7 +15,8 @@ foto: ""
 name: "Cronologic-El viaje continua"
 webpage: "http://www.cronologic.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,41021380\",\"2,18688640\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4102138,2.1868864]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

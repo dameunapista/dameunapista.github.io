@@ -15,7 +15,8 @@ foto: ""
 name: "Scroom BCN-El piromano"
 webpage: "http://www.scroombcn.com/"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,39065490\",\"2,11289130\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3906549,2.1128913]}}"
 active: true
 play_date: "2017-02-04"
+rating: "4"
 ---

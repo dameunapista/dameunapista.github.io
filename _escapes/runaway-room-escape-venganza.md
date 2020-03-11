@@ -15,7 +15,8 @@ foto: ""
 name: "Runaway room escape-Venganza"
 webpage: "http://www.runawayescaperoom.com/"
 city: "Igualada"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,58166890\",\"1,62624910\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.5816689,1.6262491]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

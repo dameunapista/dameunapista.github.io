@@ -15,7 +15,8 @@ foto: ""
 name: "Overtime-Cien años de perdón"
 webpage: "https://overtimepamplona.es/"
 city: "Pamplona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"42,82172000\",\"-1,65015600\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.82172,-1.650156]}}"
 active: true
 play_date: "2017-08-16"
+rating: "NaN"
 ---

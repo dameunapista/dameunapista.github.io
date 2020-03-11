@@ -15,7 +15,7 @@ foto: ""
 name: "Claustrophobia-Una avalancha del olvido"
 webpage: "https://andorra.claustrophobia.com/es/quest/"
 city: "Andorra (Escaldes-Engordany)"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

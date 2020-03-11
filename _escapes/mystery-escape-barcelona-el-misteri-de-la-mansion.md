@@ -15,7 +15,8 @@ foto: ""
 name: "Mystery escape barcelona-El misteri de la mansión"
 webpage: "http://mysteryescape.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40705640\",\"2,20068860\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4070564,2.2006886]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

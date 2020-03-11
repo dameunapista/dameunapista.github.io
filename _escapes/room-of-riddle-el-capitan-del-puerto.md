@@ -15,7 +15,8 @@ foto: ""
 name: "Room of Riddle-El capitán del puerto"
 webpage: "http://barcelona.roomofriddles.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,39078320\",\"2,19716100\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3907832,2.197161]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

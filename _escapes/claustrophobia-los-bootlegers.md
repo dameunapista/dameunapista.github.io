@@ -15,7 +15,8 @@ foto: ""
 name: "Claustrophobia-Los bootlegers"
 webpage: "https://claustrophobia.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,39170240\",\"2,17424500\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3917024,2.174245]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

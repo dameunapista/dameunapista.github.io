@@ -15,7 +15,8 @@ foto: ""
 name: "Vive tu escape-Brujeria"
 webpage: "http://www.vivetuescape.com/"
 city: "Terrassa"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,52980700\",\"2,03466530\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.529807,2.0346653]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

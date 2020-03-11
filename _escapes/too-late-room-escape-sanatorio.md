@@ -15,7 +15,8 @@ foto: ""
 name: "Too late room escape-Sanatorio"
 webpage: "http://www.toolateroomescape.com/"
 city: "Vilanova i la Geltrú"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,22365060\",\"1,73504400\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.2236506,1.735044]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

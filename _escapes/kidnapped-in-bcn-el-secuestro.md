@@ -15,7 +15,8 @@ foto: ""
 name: "Kidnapped in BCN-El secuestro"
 webpage: "http://www.kidnappedinbcn.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37928560\",\"2,12316360\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3792856,2.1231636]}}"
 active: true
 play_date: "2017-05-07"
+rating: "NaN"
 ---

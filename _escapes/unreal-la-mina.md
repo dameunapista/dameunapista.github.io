@@ -15,7 +15,8 @@ foto: ""
 name: "Unreal-La mina"
 webpage: "http://unrealroomescape.es/"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,36210700\",\"2,12910000\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.362107,2.1291]}}"
 active: true
 play_date: "2017-08-28"
+rating: "4"
 ---

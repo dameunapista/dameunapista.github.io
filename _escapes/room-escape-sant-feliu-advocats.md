@@ -15,7 +15,8 @@ foto: ""
 name: "Room escape Sant Feliu-Advocats"
 webpage: "http://www.roomescapesantfeliu.com"
 city: "Sant Feliu de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38326930\",\"2,04836750\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3832693,2.0483675]}}"
 active: false
 play_date: "2015-11-08"
+rating: "3"
 ---

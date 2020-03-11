@@ -15,7 +15,8 @@ foto: ""
 name: "White rabbit-The thinking room"
 webpage: "http://www.whiterabbit.cat"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,38631320\",\"2,15782160\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3863132,2.1578216]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

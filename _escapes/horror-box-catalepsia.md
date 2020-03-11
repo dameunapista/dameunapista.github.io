@@ -15,7 +15,8 @@ foto: ""
 name: "Horror Box-Catalepsia"
 webpage: "http://www.vivetuentierro.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,41087110\",\"2,17847004\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4108711,2.17847004]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

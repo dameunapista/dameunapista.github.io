@@ -15,7 +15,7 @@ foto: ""
 name: "Room escape Hospi-El juego de Ariel"
 webpage: "http://roomescapehospi.com/"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

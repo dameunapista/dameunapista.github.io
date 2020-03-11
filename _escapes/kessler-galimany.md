@@ -15,7 +15,8 @@ foto: ""
 name: "Kessler Galimany"
 webpage: "http://galimany.com/room-escape"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37493980\",\"2,13571550\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3749398,2.1357155]}}"
 active: true
 play_date: "2017-03-05"
+rating: "4"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Scaparium-El robo"
 webpage: "http://scaparium.com/"
 city: "Vilanova i la Geltrú"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,22527270\",\"1,72093460\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.2252727,1.7209346]}}"
 active: true
 play_date: "2016-03-05"
+rating: "NaN"
 ---

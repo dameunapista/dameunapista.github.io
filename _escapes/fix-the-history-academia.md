@@ -15,7 +15,7 @@ foto: ""
 name: "Fix the history-Acadèmia"
 webpage: "http://www.fixthehistory.com/"
 city: "Tarragona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

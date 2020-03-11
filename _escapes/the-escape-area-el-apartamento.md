@@ -15,7 +15,8 @@ foto: ""
 name: "The Escape Area-El apartamento"
 webpage: "http://www.theescapearea.com/"
 city: "Tenerife"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"28,35397480\",\"-16,37264210\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[28.3539748,-16.3726421]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

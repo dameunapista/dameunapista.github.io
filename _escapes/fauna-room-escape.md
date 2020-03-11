@@ -15,7 +15,8 @@ foto: ""
 name: "Fauna room escape"
 webpage: "http://www.faunaroomescape.com/"
 city: "Hospitalet de LLobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,36906290\",\"2,10677820\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3690629,2.1067782]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

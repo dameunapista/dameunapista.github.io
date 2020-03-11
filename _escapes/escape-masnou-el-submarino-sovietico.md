@@ -15,7 +15,8 @@ foto: ""
 name: "Escape Masnou-El submarino soviético"
 webpage: "https://escapemasnou.com/"
 city: "Masnou"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,47967050\",\"2,30321390\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4796705,2.3032139]}}"
 active: true
 play_date: "2016-08-22"
+rating: "NaN"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "The gourmet escape room-L'especial del xef"
 webpage: "https://www.escaperoomlloret.com/ca/"
 city: "LLoret de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,70082150\",\"2,84514190\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.7008215,2.8451419]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

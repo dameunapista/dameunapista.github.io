@@ -15,7 +15,7 @@ foto: ""
 name: "El codi Houdini-Misteri"
 webpage: "http://www.elcodihoudini.com/"
 city: "Manresa"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

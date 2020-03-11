@@ -15,7 +15,8 @@ foto: ""
 name: "La clau room escape-La caixa de Pandora"
 webpage: "http://www.laclauroomescape.com/"
 city: "Manresa"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,72513330\",\"1,81821980\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.7251333,1.8182198]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

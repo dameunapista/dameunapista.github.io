@@ -15,7 +15,8 @@ foto: ""
 name: "Exciting Game-El secreto del rey Guanche"
 webpage: "http://excitinggame.es/es/"
 city: "Tenerife"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"28,05978970\",\"-16,73567470\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[28.0597897,-16.7356747]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

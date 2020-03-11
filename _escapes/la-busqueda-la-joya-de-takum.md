@@ -15,7 +15,8 @@ foto: ""
 name: "La busqueda-La joya de Takum"
 webpage: "https://www.la-busqueda.com/"
 city: "Sevilla"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"37,37294200\",\"-5,99745870\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[37.372942,-5.9974587]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

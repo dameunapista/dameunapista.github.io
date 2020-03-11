@@ -15,7 +15,8 @@ foto: ""
 name: "Escapis"
 webpage: "http://www.escapis.cat/es"
 city: "Girona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,98498170\",\"2,82072720\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.9849817,2.8207272]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

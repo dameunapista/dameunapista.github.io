@@ -15,7 +15,7 @@ foto: ""
 name: "Locked"
 webpage: "http://lockedzgz.com/"
 city: "Zaragoza"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"\",\"\"]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

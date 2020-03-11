@@ -15,7 +15,8 @@ foto: ""
 name: "Top secret-Ley seca"
 webpage: "http://www.topsecretbarcelona.com/"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,40496470\",\"2,19746060\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4049647,2.1974606]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

@@ -15,7 +15,8 @@ foto: ""
 name: "Sala Koala-La modelo"
 webpage: "http://www.salakoala.com/"
 city: "Cornellà de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,35479400\",\"2,07271200\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.354794,2.072712]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

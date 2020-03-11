@@ -15,7 +15,8 @@ foto: ""
 name: "Indaga cornellà"
 webpage: "http://www.indagacornella.com/"
 city: "Cornellà de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,36623340\",\"2,07267030\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3662334,2.0726703]}}"
 active: false
 play_date: ""
+rating: "0"
 ---

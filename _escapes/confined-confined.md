@@ -15,7 +15,8 @@ foto: ""
 name: "Confined-Confined"
 webpage: "http://www.confinedbcn.com"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,43194240\",\"2,18778920\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.4319424,2.1877892]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

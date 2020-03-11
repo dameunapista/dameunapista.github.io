@@ -15,7 +15,8 @@ foto: ""
 name: "Roombo Escape-Destiny"
 webpage: "http://roomboescape.es"
 city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"41,37587620\",\"2,14992800\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[41.3758762,2.149928]}}"
 active: true
 play_date: ""
+rating: "0"
 ---

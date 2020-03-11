@@ -15,7 +15,8 @@ foto: ""
 name: "Kode Room Escape-El caso Mortenson"
 webpage: "http://koderoomescape.com/"
 city: "Vitoria-Gasteiz"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[\"42,85079900\",\"-2,68280100\"]}}"
+location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[42.850799,-2.682801]}}"
 active: true
 play_date: "2017-08-10"
+rating: "NaN"
 ---
