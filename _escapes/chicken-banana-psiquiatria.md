@@ -6,8 +6,8 @@ foto: chicken_banana_psiquiatria
 sitio: Chicken Banana
 name: Chicken Banana-Psiquiatría
 city: Barcelona
-played_date: ''
-rating: NaN
+played_date: 2015-04-17T22:00:00.000Z
+rating: '3'
 photo: /images/uploads/2015_04_22.JPG
 active: true
 date: 2020-03-13T22:24:32.400Z
