@@ -1,22 +1,26 @@
 ---
-poblacion: "Sant Feliu de Llobregat"
-sitio: "Room escape Sant Feliu"
-web: "http://www.roomescapesantfeliu.com"
-juego: "Advocats"
-tematica: ""
-max_jugadores: 5
-latitud: 41.38326930
-longitud: 2.04836750
-publicar: "no"
-fecha: "2015-11-08"
-jugadores: "Nadgi"
 valoracion: 3
-foto: ""
-name: "Room escape Sant Feliu-Advocats"
-webpage: "http://www.roomescapesantfeliu.com"
-city: "Sant Feliu de Llobregat"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0483675,41.3832693]}}"
+juego: Advocats
+webpage: 'http://www.roomescapesantfeliu.com'
+foto: ''
+sitio: Room escape Sant Feliu
+name: Room escape Sant Feliu-Advocats
+city: Sant Feliu de Llobregat
+played_date: 2015-11-07T23:00:00.000Z
+rating: '3'
+photo: /images/uploads/advocats.jpg
 active: false
-play_date: "2015-11-08"
-rating: "3"
+date: 2020-03-13T23:24:30.564Z
+jugadores: Nadgi
+web: 'http://www.roomescapesantfeliu.com'
+max_jugadores: 5
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.0483675,41.3832693]}}
+longitud: 2.0483675
+tematica: ''
+play_date: '2015-11-08'
+latitud: 41.3832693
+publicar: 'no'
+fecha: '2015-11-08'
+poblacion: Sant Feliu de Llobregat
 ---
