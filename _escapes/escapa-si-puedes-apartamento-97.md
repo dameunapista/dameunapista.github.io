@@ -12,6 +12,7 @@ fecha: "2015-01-03"
 jugadores: "Alcaparrones"
 valoracion: 3
 foto: ""
+photo: /images/uploads/2015_01_08.JPG
 name: "Escapa si puedes-Apartamento 97"
 webpage: "http://www.escapasipuedes.com"
 city: "Barcelona"

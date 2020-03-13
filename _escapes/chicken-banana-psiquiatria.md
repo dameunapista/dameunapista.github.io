@@ -8,7 +8,7 @@ name: Chicken Banana-Psiquiatría
 city: Barcelona
 played_date: ''
 rating: NaN
-photo: /images/uploads/ 2015_04_22.JPG
+photo: /images/uploads/2015_04_22.JPG
 active: true
 date: 2020-03-13T22:24:32.400Z
 jugadores: Alcaparrones
