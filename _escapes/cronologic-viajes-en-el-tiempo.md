@@ -6,6 +6,9 @@ foto: ''
 sitio: Cronologic
 name: Cronologic-Viajes en el tiempo
 city: Barcelona
+played_date: 2015-05-02T22:00:00.000Z
+rating: '4'
+photo: /images/uploads/nophoto.jpg
 active: true
 date: 2020-03-13T22:55:22.334Z
 jugadores: Gem / Nadgi
@@ -18,8 +21,6 @@ tematica: ''
 play_date: '2015-05-03'
 latitud: 41.4092265
 publicar: si
-played_date: 2015-05-02T22:00:00.000Z
-rating: '4'
 fecha: '2015-05-03'
 poblacion: Barcelona
 ---
