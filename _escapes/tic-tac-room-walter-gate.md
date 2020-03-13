@@ -1,22 +1,26 @@
 ---
-poblacion: "Barcelona"
-sitio: "Tic Tac room"
-web: "http://tictacroom.es"
-juego: "Walter Gate"
-tematica: ""
-max_jugadores: 6
-latitud: 41.37346900
-longitud: 2.12629830
-publicar: "si"
-fecha: "2015-11-21"
-jugadores: "Alcaparrones"
 valoracion: 3
-foto: ""
-name: "Tic Tac room-Walter Gate"
-webpage: "http://tictacroom.es"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1262983,41.373469]}}"
+juego: Walter Gate
+webpage: 'http://tictacroom.es'
+foto: ''
+sitio: Tic Tac room
+name: Tic Tac room-Walter Gate
+city: Barcelona
+played_date: 2015-11-20T23:00:00.000Z
+rating: '3'
+photo: /images/uploads/2015_11_27.JPG
 active: true
-play_date: "2015-11-21"
-rating: "3"
+date: 2020-03-13T23:27:16.900Z
+jugadores: Alcaparrones
+web: 'http://tictacroom.es'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.1262983,41.373469]}}
+longitud: 2.1262983
+tematica: ''
+play_date: '2015-11-21'
+latitud: 41.373469
+publicar: si
+fecha: '2015-11-21'
+poblacion: Barcelona
 ---
