@@ -1,22 +1,26 @@
 ---
-poblacion: "Tenerife"
-sitio: "Exciting Game"
-web: "http://excitinggame.es/es/"
-juego: "El mito del Teide"
-tematica: ""
-max_jugadores: 6
-latitud: 28.05978970
-longitud: -16.73567470
-publicar: "si"
-fecha: "2015-08-23"
-jugadores: "Nadgi"
 valoracion: 3
-foto: ""
-name: "Exciting Game-El mito del Teide"
-webpage: "http://excitinggame.es/es/"
-city: "Tenerife"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-16.7356747,28.0597897]}}"
+juego: El mito del Teide
+webpage: 'http://excitinggame.es/es/'
+foto: ''
+sitio: Exciting Game
+name: Exciting Game-El mito del Teide
+city: Tenerife
+played_date: 2015-08-22T22:00:00.000Z
+rating: '3'
+photo: /images/uploads/nophoto.jpg
 active: true
-play_date: "2015-08-23"
-rating: "3"
+date: 2020-03-13T23:14:42.666Z
+jugadores: Nadgi
+web: 'http://excitinggame.es/es/'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.7356747,28.0597897]}}
+longitud: -16.7356747
+tematica: ''
+play_date: '2015-08-23'
+latitud: 28.0597897
+publicar: si
+fecha: '2015-08-23'
+poblacion: Tenerife
 ---
