@@ -1,22 +1,26 @@
 ---
-poblacion: "Barcelona"
-sitio: "Enigmik"
-web: "http://www.enigmik.com"
-juego: "The Bunker"
-tematica: ""
-max_jugadores: 6
-latitud: 41.40989610
-longitud: 2.17753130
-publicar: "si"
-fecha: "2015-06-24"
-jugadores: "Bailongos"
 valoracion: 5
-foto: ""
-name: "Enigmik-The Bunker"
-webpage: "http://www.enigmik.com"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1775313,41.4098961]}}"
+juego: The Bunker
+webpage: 'http://www.enigmik.com'
+foto: ''
+sitio: Enigmik
+name: Enigmik-The Bunker
+city: Barcelona
+played_date: 2015-07-23T22:00:00.000Z
+rating: '5'
+photo: /images/uploads/2015_07_24.JPG
 active: true
-play_date: "2015-06-24"
-rating: "5"
+date: 2020-03-13T23:12:25.864Z
+jugadores: Bailongos
+web: 'http://www.enigmik.com'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.1775313,41.4098961]}}
+longitud: 2.1775313
+tematica: ''
+play_date: '2015-06-24'
+latitud: 41.4098961
+publicar: si
+fecha: '2015-06-24'
+poblacion: Barcelona
 ---
