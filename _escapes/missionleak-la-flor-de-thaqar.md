@@ -6,7 +6,7 @@ foto: ''
 sitio: Missionleak
 name: Missionleak-La Flor de Thaqar
 city: Cornellà de Llobregat
-played_date: 2015-03-20T23:00:00.000Z
+played_date: 2015-02-20T23:00:00.000Z
 rating: '5'
 photo: /images/uploads/2015_02_21.JPG
 active: true
