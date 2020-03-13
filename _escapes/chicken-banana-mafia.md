@@ -7,7 +7,7 @@ sitio: Chicken Banana
 name: Chicken Banana-Mafia
 city: Barcelona
 played_date: 2015-09-03T22:00:00.000Z
-rating: '4'
+rating: '3'
 photo: /images/uploads/chicken_banana_mafia.jpg
 active: true
 date: 2020-03-13T23:20:27.267Z
