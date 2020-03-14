@@ -20,11 +20,10 @@ layout: feed
         "name": "{{ escape.name }}",
         "url": "{{ escape.url }}",
         "city": "{{ escape.city }}",
-        "location": "{{ escape.location }}",
+        "location": {{ escape.location | default: "null" }},
         "active": {{ escape.active | default: "false" }},
         "play_date": "{{ escape.play_date }}",
-        "date": "{{ escape.date }}",
-
+        "date": "{{ escape.date }}"
     }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
