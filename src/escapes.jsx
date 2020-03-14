@@ -11,9 +11,9 @@ import LegendControl from './leaflet-legend.jsx';
 
 function getStyle(feature, layer) {
 	var escapeColor = '#cb2539';
-	if(feature.properties.valoracion) {
+	if(feature.properties.rating) {
 		escapeColor = '#388ccd';
-		if(feature.properties.valoracion >=4) {
+		if(feature.properties.rating >=4) {
 			escapeColor = '#22ac1e';
 		}
 	}
@@ -32,9 +32,9 @@ function getPointToLayer(feature, latlng) {
 function bindPopupToFeature(feature, layer) {
 		var escape = feature.properties;
 		layer.bindPopup(
-			'<b>' + escape.sitio + '</b><br>' + 
-				(escape.juego || '-') + '<br>' + 
-				'<a href="'+ (escape.web || '#') +'">'+ (escape.web || '-') +'</a>'
+			'<b>' + escape.city + '</b><br>' + 
+				(escape.name || '-') + '<br>' + 
+				'<a href="'+ (escape.webpage || '#') +'">'+ (escape.webpage || '-') +'</a>'
 		);
 }
 
@@ -64,9 +64,9 @@ function Escapes(props) {
 				</LegendControl>
 			</Map>
       <BootstrapTable data={props.data} options={ tableOptions } multiColumnSort={ 3 } search searchPlaceholder='Buscar...'>
-        <TableHeaderColumn dataField='city' dataSort={ true }>Población</TableHeaderColumn>
-        <TableHeaderColumn isKey dataField='name' dataSort={ true } /*filter={ { type: 'TextFilter', delay: 1000 } }*/>Sitio</TableHeaderColumn>
-        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="50" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
+        <TableHeaderColumn dataField='city' dataSort={ true } width="30%" >Población</TableHeaderColumn>
+        <TableHeaderColumn isKey dataField='name' dataSort={ true } width="60%" /*filter={ { type: 'TextFilter', delay: 1000 } }*/>Sitio</TableHeaderColumn>
+        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="10%" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
       </BootstrapTable>
     </div>
   );
@@ -75,18 +75,36 @@ function Escapes(props) {
 // Get Escapes
 axios.get('/data/escapes.json')
   .then(function (escape_response) {
-		// Get Escapes Location
-		axios.get('/data/escapes_location.json')
-			.then(function (locations_response) {
+	  	const escapesLocationByWebPage = escape_response.data
+		  	.filter(esc => esc.location !== null)
+		  	.reduce(function (r, a) {
+			  	r[a.webpage] = r[a.webpage] || [];
+			  	r[a.webpage].push(a);
+			  	return r;
+		  }, Object.create(null))
 
-    	ReactDOM.render(
-        <Escapes data={escape_response.data} total={escape_response.data.length} locations={locations_response.data}/>,
+		const escapesLocation = []
+		for (var webpage in escapesLocationByWebPage) {
+			if (Object.prototype.hasOwnProperty.call(escapesLocationByWebPage, webpage)) {
+				const webpageEscapes = escapesLocationByWebPage[webpage]
+				const location = Object.assign({}, webpageEscapes[0].location)
+				const maxRating = Math.max.apply(null, webpageEscapes.map(e => e.rating || -1))
+				const escapeLoc = Object.assign(location, {
+					properties: {
+						city : webpageEscapes[0].city,
+						name : webpageEscapes.map(e => e.name).join(','),
+						webpage : webpage,
+						rating : maxRating > 0 ? maxRating : null
+					}
+				})
+				escapesLocation.push(escapeLoc)
+			}
+		}
+
+		ReactDOM.render(
+        <Escapes data={escape_response.data} total={escape_response.data.length} locations={escapesLocation}/>,
         document.getElementById('escapes')
         );
-		})
-		.catch(function (error) {
-			console.log(error);
-		});
   })
   .catch(function (error) {
     console.log(error);
