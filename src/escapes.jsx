@@ -40,8 +40,8 @@ function bindPopupToFeature(feature, layer) {
 
 function Escapes(props) {
 	let tableOptions = {
-		defaultSortName:['juego', 'sitio', 'poblacion'], 
-		defaultSortOrder:['asc', 'asc','asc']
+		defaultSortName:['name', 'city'], 
+		defaultSortOrder:['asc', 'asc']
 	};
 
 	const position = [41.394458,2.158904]; //bcn
@@ -51,8 +51,8 @@ function Escapes(props) {
       <p>Aquí encontraréis todos los room escapes que tenemos localizados (<NumEscapes value={props.total} />). También podéis ver <a href="/links">otros listados</a>.</p>
 			<Map center={position} zoom={12} maxZoom={18} style={{height:400}} >
 				<TileLayer
-					url='http://{s}.tile.osm.org/{z}/{x}/{y}.png'
-					attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+					url='https://{s}.tile.osm.org/{z}/{x}/{y}.png'
+					attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 				/>
 				<GeoJSON data={props.locations} style={getStyle} pointToLayer={getPointToLayer} onEachFeature={bindPopupToFeature} />
 				<LegendControl className="supportLegend">
@@ -64,10 +64,9 @@ function Escapes(props) {
 				</LegendControl>
 			</Map>
       <BootstrapTable data={props.data} options={ tableOptions } multiColumnSort={ 3 } search searchPlaceholder='Buscar...'>
-        <TableHeaderColumn dataField='poblacion' dataSort={ true }>Población</TableHeaderColumn>
-        <TableHeaderColumn isKey dataField='sitio' dataSort={ true } /*filter={ { type: 'TextFilter', delay: 1000 } }*/>Sitio</TableHeaderColumn>
-        <TableHeaderColumn dataField='juego' dataSort={ true }>Juego</TableHeaderColumn>
-        <TableHeaderColumn dataField='web' dataFormat={linkFormatter}  width="50" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
+        <TableHeaderColumn dataField='city' dataSort={ true }>Población</TableHeaderColumn>
+        <TableHeaderColumn isKey dataField='name' dataSort={ true } /*filter={ { type: 'TextFilter', delay: 1000 } }*/>Sitio</TableHeaderColumn>
+        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="50" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
       </BootstrapTable>
     </div>
   );
