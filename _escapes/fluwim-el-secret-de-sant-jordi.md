@@ -17,5 +17,5 @@ webpage: "http://www.fluwimoci.cat/es/"
 city: "Vic"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

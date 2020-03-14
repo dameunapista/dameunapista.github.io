@@ -18,5 +18,5 @@ city: "Pamplona"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-1.650156,42.82172]}}"
 active: true
 play_date: "2017-08-16"
-rating: "NaN"
+rating: null
 ---

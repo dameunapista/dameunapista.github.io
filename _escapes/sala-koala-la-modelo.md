@@ -18,5 +18,5 @@ city: "Cornellà de Llobregat"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.072712,41.354794]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

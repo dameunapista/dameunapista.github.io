@@ -18,5 +18,5 @@ city: "Platja d'Aro"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[3.062447,41.8159744]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

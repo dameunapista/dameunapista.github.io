@@ -18,5 +18,5 @@ city: "Badalona"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2414453,41.447387]}}"
 active: true
 play_date: "2016-10-23"
-rating: "NaN"
+rating: null
 ---

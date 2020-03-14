@@ -18,5 +18,5 @@ city: "Igualada"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.6262491,41.5816689]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

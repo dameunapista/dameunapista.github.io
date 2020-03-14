@@ -17,5 +17,5 @@ webpage: "http://www.andorraquestroom.com/"
 city: "Andorra La Vella"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

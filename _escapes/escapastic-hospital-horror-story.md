@@ -18,5 +18,5 @@ city: "Vendrell"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.5289834,41.2185133]}}"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

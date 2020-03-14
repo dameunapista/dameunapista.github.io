@@ -18,5 +18,5 @@ city: "Vilafranca del Penedès"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.7023711,41.3481787]}}"
 active: true
 play_date: "2016-07-24"
-rating: "NaN"
+rating: null
 ---

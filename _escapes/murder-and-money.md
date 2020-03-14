@@ -18,5 +18,5 @@ city: "Barakaldo"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-2.9985495,43.2957753]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

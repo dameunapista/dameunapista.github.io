@@ -18,5 +18,5 @@ city: "Vic"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2551423,41.9306296]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

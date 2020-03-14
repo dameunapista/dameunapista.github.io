@@ -18,5 +18,5 @@ city: "Lleida"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[0.6251737,41.622897]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

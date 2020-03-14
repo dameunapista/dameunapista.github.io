@@ -18,5 +18,5 @@ city: "Manresa"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8259168,41.7320447]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

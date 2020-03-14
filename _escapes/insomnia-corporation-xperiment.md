@@ -18,5 +18,5 @@ city: "Berga"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8375174,42.0998972]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

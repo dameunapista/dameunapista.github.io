@@ -18,5 +18,5 @@ city: "Mataró"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.441029,41.5330891]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

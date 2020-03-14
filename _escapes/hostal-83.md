@@ -18,5 +18,5 @@ city: "Gironella"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8777513,42.034584]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

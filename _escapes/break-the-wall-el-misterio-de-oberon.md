@@ -18,5 +18,5 @@ city: "Valladolid"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-4.7174857,41.648776]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

@@ -18,5 +18,5 @@ city: "Barcelona"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1889315,41.4260455]}}"
 active: true
 play_date: "2016-11-20"
-rating: "NaN"
+rating: null
 ---

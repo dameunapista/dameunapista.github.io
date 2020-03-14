@@ -18,5 +18,5 @@ city: "Figueres"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.9632206,42.2701508]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

@@ -18,5 +18,5 @@ city: "Reus"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.108259,41.151249]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

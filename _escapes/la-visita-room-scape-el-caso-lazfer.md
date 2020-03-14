@@ -18,5 +18,5 @@ city: "Barberà del Vallès"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.115699,41.5105572]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

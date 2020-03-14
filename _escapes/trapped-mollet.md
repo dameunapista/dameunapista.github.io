@@ -18,5 +18,5 @@ city: "Mollet del Vallès"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2066314,41.5331997]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

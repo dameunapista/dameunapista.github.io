@@ -18,5 +18,5 @@ city: "Sant Vicenç dels Horts"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0108793,41.391163]}}"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

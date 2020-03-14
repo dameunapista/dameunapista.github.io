@@ -17,5 +17,5 @@ webpage: "http://roomescapehospi.com/"
 city: "Hospitalet de LLobregat"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

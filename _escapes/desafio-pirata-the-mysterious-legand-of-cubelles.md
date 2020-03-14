@@ -18,5 +18,5 @@ city: "Cubelles"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.6677462,41.1994549]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

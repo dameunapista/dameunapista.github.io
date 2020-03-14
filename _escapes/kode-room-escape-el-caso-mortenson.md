@@ -18,5 +18,5 @@ city: "Vitoria-Gasteiz"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-2.682801,42.850799]}}"
 active: true
 play_date: "2017-08-10"
-rating: "NaN"
+rating: null
 ---

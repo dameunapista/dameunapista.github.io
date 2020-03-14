@@ -18,5 +18,5 @@ city: "Zaragoza"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-0.8884888,41.6724245]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

@@ -17,5 +17,5 @@ webpage: "http://www.elcodihoudini.com/"
 city: "Manresa"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

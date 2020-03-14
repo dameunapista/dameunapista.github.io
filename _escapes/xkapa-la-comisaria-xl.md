@@ -17,5 +17,5 @@ webpage: "https://xkapa.com/"
 city: "Santander"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

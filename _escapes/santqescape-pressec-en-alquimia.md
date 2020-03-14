@@ -18,5 +18,5 @@ city: "Sant Cugat del Vallès"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0827449,41.4727487]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

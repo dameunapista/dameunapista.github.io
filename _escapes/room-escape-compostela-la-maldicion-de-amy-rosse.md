@@ -17,5 +17,5 @@ webpage: "-"
 city: "Santiago de Compostela"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

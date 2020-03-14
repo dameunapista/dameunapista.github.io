@@ -17,5 +17,5 @@ webpage: "http://www.misteryplan.es"
 city: "Barcelona"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

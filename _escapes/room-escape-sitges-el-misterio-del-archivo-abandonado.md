@@ -18,5 +18,5 @@ city: "Sitges"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8106403,41.2405513]}}"
 active: true
 play_date: "2016-10-12"
-rating: "NaN"
+rating: null
 ---

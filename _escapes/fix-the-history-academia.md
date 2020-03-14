@@ -17,5 +17,5 @@ webpage: "http://www.fixthehistory.com/"
 city: "Tarragona"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

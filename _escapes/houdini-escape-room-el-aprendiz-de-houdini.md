@@ -18,5 +18,5 @@ city: "Malgrat de Mar"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.7349213,41.64086]}}"
 active: true
 play_date: "2017-10-22"
-rating: "NaN"
+rating: null
 ---

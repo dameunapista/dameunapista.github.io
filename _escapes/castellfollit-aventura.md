@@ -18,5 +18,5 @@ city: "Castellfollit de Riubregos"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.444338,41.780422]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

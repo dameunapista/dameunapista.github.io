@@ -17,5 +17,5 @@ webpage: "http://stokerroomscape.cat/es/"
 city: "Badalona"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

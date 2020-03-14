@@ -18,5 +18,5 @@ city: "Sabadell"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.10062,41.551167]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

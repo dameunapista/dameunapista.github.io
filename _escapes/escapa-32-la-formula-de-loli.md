@@ -18,5 +18,5 @@ city: "Olesa de Montserrat"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8934612,41.5419693]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

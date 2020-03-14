@@ -18,5 +18,5 @@ city: "Terrassa"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0346653,41.529807]}}"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

@@ -18,5 +18,5 @@ city: "Tenerife"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-16.3726421,28.3539748]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

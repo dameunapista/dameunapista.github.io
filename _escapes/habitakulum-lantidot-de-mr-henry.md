@@ -18,5 +18,5 @@ city: "Tarragona"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.2507488,41.1205048]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

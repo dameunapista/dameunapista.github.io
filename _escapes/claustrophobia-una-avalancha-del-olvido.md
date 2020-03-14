@@ -17,5 +17,5 @@ webpage: "https://andorra.claustrophobia.com/es/quest/"
 city: "Andorra (Escaldes-Engordany)"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

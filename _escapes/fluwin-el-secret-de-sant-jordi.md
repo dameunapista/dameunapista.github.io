@@ -18,5 +18,5 @@ city: "Sant Pere de Torello (Osona)"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2529187,41.9292915]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

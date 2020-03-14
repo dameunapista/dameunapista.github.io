@@ -17,5 +17,5 @@ webpage: "http://www.fugir.cat/"
 city: "Girona"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

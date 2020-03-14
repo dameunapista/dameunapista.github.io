@@ -18,5 +18,5 @@ city: "Esparraguera"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.8557783,41.52502]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

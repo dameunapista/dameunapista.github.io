@@ -18,5 +18,5 @@ city: "Granollers"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2858726,41.6038223]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

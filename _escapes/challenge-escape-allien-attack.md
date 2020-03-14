@@ -18,5 +18,5 @@ city: "Pineda de Mar"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.693277,41.62889]}}"
 active: true
 play_date: "2017-10-22"
-rating: "NaN"
+rating: null
 ---

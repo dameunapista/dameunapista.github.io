@@ -17,5 +17,5 @@ webpage: "http://lockedzgz.com/"
 city: "Zaragoza"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

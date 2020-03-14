@@ -18,5 +18,5 @@ city: "Vilanova i la Geltrú"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[1.7209346,41.2252727]}}"
 active: true
 play_date: "2016-03-05"
-rating: "NaN"
+rating: null
 ---

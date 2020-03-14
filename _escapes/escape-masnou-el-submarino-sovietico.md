@@ -18,5 +18,5 @@ city: "Masnou"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.3032139,41.4796705]}}"
 active: true
 play_date: "2016-08-22"
-rating: "NaN"
+rating: null
 ---

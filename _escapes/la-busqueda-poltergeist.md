@@ -18,5 +18,5 @@ city: "Sevilla"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-5.9974587,37.372942]}}"
 active: false
 play_date: ""
-rating: "0"
+rating: null
 ---

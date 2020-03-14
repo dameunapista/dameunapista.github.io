@@ -18,5 +18,5 @@ city: "Oropesa del Mar"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[0.1473703,40.1130631]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

@@ -18,5 +18,5 @@ city: "Bilbao"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-2.95688,43.274799]}}"
 active: true
 play_date: "2017-08-07"
-rating: "NaN"
+rating: null
 ---

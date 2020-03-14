@@ -18,5 +18,5 @@ city: "Sant Just d'Esvern"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.0689313,41.3797205]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

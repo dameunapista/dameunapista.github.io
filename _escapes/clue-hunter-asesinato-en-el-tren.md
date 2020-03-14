@@ -18,5 +18,5 @@ city: "Santa Coloma de Gramanet"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2120809,41.4489815]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---

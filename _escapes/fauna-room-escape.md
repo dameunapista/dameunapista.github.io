@@ -18,5 +18,5 @@ city: "Hospitalet de LLobregat"
 location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1067782,41.3690629]}}"
 active: true
 play_date: ""
-rating: "0"
+rating: null
 ---
