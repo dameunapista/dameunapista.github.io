@@ -42379,7 +42379,7 @@ function NumEscapes(props) {
 }
 
 function starsFormatter(cell, row) {
-  return _react2.default.createElement(_reactStars2.default, { value: cell, count: '5', edit: 'false' });
+  return _react2.default.createElement(_reactStars2.default, { value: cell, count: 3, edit: false });
 }
 
 /***/ }),

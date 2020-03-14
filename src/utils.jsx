@@ -14,5 +14,5 @@ export function NumEscapes(props){
 }
 
 export function starsFormatter(cell, row){
-  return <ReactStars value={cell} count="5" edit="false"/>;
+  return <ReactStars value={cell} count={3} edit={false}/>;
 }

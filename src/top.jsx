@@ -8,7 +8,7 @@ import {starsFormatter, linkFormatter, NumEscapes} from './utils.jsx';
 
 function TopEscapes(props) {
   let tableOptions = {
-    defaultSortName: 'valoracion',
+    defaultSortName: 'rating',
     defaultSortOrder: 'desc'
   };
   return (
@@ -16,24 +16,26 @@ function TopEscapes(props) {
 			<h3>Top Escapes</h3>
 			<p>Aquí encontraréis los room escapes que más nos han gustado, de entre los <NumEscapes value={props.total} /> que llevamos jugados ya!.</p>
       <BootstrapTable data={props.data} options={ tableOptions }>
-        <TableHeaderColumn dataField='valoracion' dataFormat={starsFormatter} width='90' tdStyle={ { textAlign: 'center' } } >Valoración</TableHeaderColumn>
-        <TableHeaderColumn isKey dataField='sitio'>Sitio</TableHeaderColumn>
-        <TableHeaderColumn dataField='juego'>Juego</TableHeaderColumn>
-        <TableHeaderColumn dataField='web' dataFormat={linkFormatter}  width="50" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
+        <TableHeaderColumn dataField='rating' dataAlign='center' dataFormat={starsFormatter} width='70' tdStyle={{ textAlign: 'center' }} >Valoración</TableHeaderColumn>
+        <TableHeaderColumn isKey dataField='name'>Escape</TableHeaderColumn>
+        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="10%" tdStyle={{ textAlign: 'center' }} >Web</TableHeaderColumn>
       </BootstrapTable>
     </div>
   );
 }
 
 // Get Top Escapes
-axios.get('/data/top.json')
+axios.get('/data/escapes.json')
   .then(function (response) {
 
-    //filter top escapes (valoracion>=4)
-    var top_escapes = response.data.filter( escape => escape.valoracion>=4);
+    const playedEscapes = response.data.filter(esc => esc.active && esc.play_date !== "")
+    
+    var top_escapes = playedEscapes
+      .filter( escape => escape.rating>=4) //filter top escapes (valoracion>=4)
+      .map( escape => Object.assign(escape, { rating: escape.rating - 2}))  // based on 3 stars max. (5-->3, 4-->2)
     
     ReactDOM.render(
-        <TopEscapes data={top_escapes} total={response.data.length}/>,
+        <TopEscapes data={top_escapes} total={playedEscapes.length}/>,
         document.getElementById('top')
         );
   })
