@@ -80176,7 +80176,9 @@ function getPointToLayer(feature, latlng) {
 
 function bindPopupToFeature(feature, layer) {
 	var escape = feature.properties;
-	layer.bindPopup('<b>' + escape.city + '</b><br>' + (escape.name || '-') + '<br>' + '<a href="' + (escape.webpage || '#') + '">' + (escape.webpage || '-') + '</a>');
+	layer.bindPopup(escape.name.map(function (n) {
+		return '<b>' + n + '</b>';
+	}).join('<br>') + '<br>' + (escape.city || '-') + '<br>' + '<a href="' + (escape.webpage || '#') + '">' + (escape.webpage || '-') + '</a>');
 }
 
 function Escapes(props) {
@@ -80266,7 +80268,10 @@ function Escapes(props) {
 
 // Get Escapes
 _axios2.default.get('/data/escapes.json').then(function (escape_response) {
-	var escapesLocationByWebPage = escape_response.data.filter(function (esc) {
+	var activeEscapes = escape_response.data.filter(function (esc) {
+		return esc.active;
+	});
+	var escapesLocationByWebPage = activeEscapes.filter(function (esc) {
 		return esc.location !== null;
 	}).reduce(function (r, a) {
 		r[a.webpage] = r[a.webpage] || [];
@@ -80287,7 +80292,7 @@ _axios2.default.get('/data/escapes.json').then(function (escape_response) {
 					city: webpageEscapes[0].city,
 					name: webpageEscapes.map(function (e) {
 						return e.name;
-					}).join(','),
+					}), //.join(','),
 					webpage: webpage,
 					rating: maxRating > 0 ? maxRating : null
 				}
@@ -80296,7 +80301,7 @@ _axios2.default.get('/data/escapes.json').then(function (escape_response) {
 		}
 	}
 
-	_reactDom2.default.render(_react2.default.createElement(Escapes, { data: escape_response.data, total: escape_response.data.length, locations: escapesLocation }), document.getElementById('escapes'));
+	_reactDom2.default.render(_react2.default.createElement(Escapes, { data: activeEscapes, total: activeEscapes.length, locations: escapesLocation }), document.getElementById('escapes'));
 }).catch(function (error) {
 	console.log(error);
 });

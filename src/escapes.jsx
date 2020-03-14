@@ -32,8 +32,8 @@ function getPointToLayer(feature, latlng) {
 function bindPopupToFeature(feature, layer) {
 		var escape = feature.properties;
 		layer.bindPopup(
-			'<b>' + escape.city + '</b><br>' + 
-				(escape.name || '-') + '<br>' + 
+			escape.name.map(n => '<b>' + n + '</b>').join('<br>') + '<br>' + 
+				(escape.city || '-') + '<br>' + 
 				'<a href="'+ (escape.webpage || '#') +'">'+ (escape.webpage || '-') +'</a>'
 		);
 }
@@ -75,7 +75,8 @@ function Escapes(props) {
 // Get Escapes
 axios.get('/data/escapes.json')
   .then(function (escape_response) {
-	  	const escapesLocationByWebPage = escape_response.data
+	  	const activeEscapes = escape_response.data.filter(esc => esc.active)
+	  	const escapesLocationByWebPage = activeEscapes
 		  	.filter(esc => esc.location !== null)
 		  	.reduce(function (r, a) {
 			  	r[a.webpage] = r[a.webpage] || [];
@@ -92,7 +93,7 @@ axios.get('/data/escapes.json')
 				const escapeLoc = Object.assign(location, {
 					properties: {
 						city : webpageEscapes[0].city,
-						name : webpageEscapes.map(e => e.name).join(','),
+						name : webpageEscapes.map(e => e.name), //.join(','),
 						webpage : webpage,
 						rating : maxRating > 0 ? maxRating : null
 					}
@@ -102,7 +103,7 @@ axios.get('/data/escapes.json')
 		}
 
 		ReactDOM.render(
-        <Escapes data={escape_response.data} total={escape_response.data.length} locations={escapesLocation}/>,
+        <Escapes data={activeEscapes} total={activeEscapes.length} locations={escapesLocation}/>,
         document.getElementById('escapes')
         );
   })
