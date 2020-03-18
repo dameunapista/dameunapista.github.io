@@ -1,25 +1,50 @@
 // with es6
 import React from 'react';
-import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
-import ReactBsTable, {BootstrapTable, TableHeaderColumn}  from 'react-bootstrap-table';
+import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css'
+import BootstrapTable from 'react-bootstrap-table-next'
 import axios from 'axios';
 import {starsFormatter, linkFormatter, NumEscapes} from './utils.jsx';
 
 function TopEscapes(props) {
-  let tableOptions = {
-    defaultSortName: 'rating',
-    defaultSortOrder: 'desc'
-  };
+  const columns = [{
+    dataField: 'rating',
+    text: 'Valoración',
+    formatter: starsFormatter,
+    headerStyle: {
+      width: '110px'
+    },
+    headerAlign: 'center',
+    align: 'center',
+    sort: true
+  }, {
+    dataField: 'name',
+    text: 'Escape',
+    headerAlign: 'center',
+    sort: true
+  }, {
+    dataField: 'webpage',
+    text: 'Web',
+    formatter: linkFormatter,
+    headerStyle: {
+      width: '50px'
+    },
+    headerAlign: 'center',
+    align: 'center'
+  }];
+
+  const defaultSorted = [{
+    dataField: 'rating',
+    order: 'desc'
+  },{
+    dataField: 'name',
+    order: 'desc'
+  }];
   return (
     <div>
 			<h3>Top Escapes</h3>
 			<p>Aquí encontraréis los room escapes que más nos han gustado, de entre los <NumEscapes value={props.total} /> que llevamos jugados ya!.</p>
-      <BootstrapTable data={props.data} options={ tableOptions }>
-        <TableHeaderColumn dataField='rating' dataAlign='center' dataFormat={starsFormatter} width='70' tdStyle={{ textAlign: 'center' }} >Valoración</TableHeaderColumn>
-        <TableHeaderColumn isKey dataField='name'>Escape</TableHeaderColumn>
-        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="10%" tdStyle={{ textAlign: 'center' }} >Web</TableHeaderColumn>
-      </BootstrapTable>
+      <BootstrapTable keyField='name' data={props.data} columns={columns} defaultSorted={defaultSorted} ></BootstrapTable>
     </div>
   );
 }

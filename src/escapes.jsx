@@ -2,12 +2,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
-import ReactBsTable, {BootstrapTable, TableHeaderColumn}  from 'react-bootstrap-table';
+import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css'
+import BootstrapTable from 'react-bootstrap-table-next'
+import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
 import axios from 'axios';
 import { linkFormatter, NumEscapes } from './utils.jsx';
 import { Map, Marker, Popup, TileLayer, GeoJSON } from 'react-leaflet';
 import { circleMarker } from 'leaflet';
-import LegendControl from './leaflet-legend.jsx';
+import Control from "react-leaflet-control";
 
 function getStyle(feature, layer) {
 	var escapeColor = '#cb2539';
@@ -39,37 +41,79 @@ function bindPopupToFeature(feature, layer) {
 }
 
 function Escapes(props) {
-	let tableOptions = {
-		defaultSortName:['name', 'city'], 
-		defaultSortOrder:['asc', 'asc']
-	};
+	const { SearchBar } = Search;
+	const columns = [{
+		dataField: 'city',
+		text: 'Población',
+		headerStyle: {
+		  width: '35%'
+		},
+		headerAlign: 'center',
+		align: 'center',
+		sort: true
+	  }, {
+		dataField: 'name',
+		text: 'Escape',
+		headerAlign: 'center',
+		sort: true
+	  }, {
+		dataField: 'webpage',
+		text: 'Web',
+		formatter: linkFormatter,
+		headerStyle: {
+		  width: '50px'
+		},
+		headerAlign: 'center',
+		align: 'center'
+	  }];
+	
+	  const defaultSorted = [{
+		dataField: 'city',
+		order: 'asc'
+	  },{
+		dataField: 'name',
+		order: 'asc'
+	  }];
 
 	const position = [41.394458,2.158904]; //bcn
-  return (
-    <div>
-      <h3>Buscador de Escapes</h3>
-      <p>Aquí encontraréis todos los room escapes que tenemos localizados (<NumEscapes value={props.total} />). También podéis ver <a href="/links">otros listados</a>.</p>
-			<Map center={position} zoom={12} maxZoom={18} style={{height:400}} >
-				<TileLayer
-					url='https://{s}.tile.osm.org/{z}/{x}/{y}.png'
-					attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
-				/>
-				<GeoJSON data={props.locations} style={getStyle} pointToLayer={getPointToLayer} onEachFeature={bindPopupToFeature} />
-				<LegendControl className="supportLegend">
-					<ul className="legend">
-						<li className="legendItem1"><i style={{ background: '#22ac1e' }}></i>Recomendados</li>
-						<li className="legendItem2"><i style={{ background: '#388ccd' }}></i>Jugados</li>
-						<li className="legendItem3"><i style={{ background: '#cb2539' }}></i>No Jugados</li>						
-					</ul>
-				</LegendControl>
-			</Map>
-      <BootstrapTable data={props.data} options={ tableOptions } multiColumnSort={ 3 } search searchPlaceholder='Buscar...'>
-        <TableHeaderColumn dataField='city' dataSort={ true } width="30%" >Población</TableHeaderColumn>
-        <TableHeaderColumn isKey dataField='name' dataSort={ true } width="60%" /*filter={ { type: 'TextFilter', delay: 1000 } }*/>Sitio</TableHeaderColumn>
-        <TableHeaderColumn dataField='webpage' dataFormat={linkFormatter}  width="10%" tdStyle={ { textAlign: 'center' } } >Web</TableHeaderColumn>
-      </BootstrapTable>
-    </div>
-  );
+  	return (
+		<div>
+			<h3>Buscador de Escapes</h3>
+			<p>Aquí encontraréis todos los room escapes que tenemos localizados (<NumEscapes value={props.total} />). También podéis ver <a href="/links">otros listados</a>.</p>
+				<Map center={position} zoom={12} maxZoom={18} style={{height:400}} >
+					<TileLayer
+						url='https://{s}.tile.osm.org/{z}/{x}/{y}.png'
+						attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+						/>
+					<GeoJSON data={props.locations} style={getStyle} pointToLayer={getPointToLayer} onEachFeature={bindPopupToFeature} />
+					<Control position="bottomright">
+						<ul className="legend">
+							<li className="legendItem1"><i style={{ background: '#22ac1e' }}></i>Recomendados</li>
+							<li className="legendItem2"><i style={{ background: '#388ccd' }}></i>Jugados</li>
+							<li className="legendItem3"><i style={{ background: '#cb2539' }}></i>No Jugados</li>						
+						</ul>
+					</Control>
+				</Map>
+				<ToolkitProvider
+					keyField='name'
+					data={props.data}
+					columns={columns}
+					defaultSorted={defaultSorted}
+					search
+				>
+					{
+					props => (
+						<div>
+							{/* <h3>Buscar:</h3> */}
+							<hr />
+							<SearchBar { ...props.searchProps } placeholder="Buscar..." />
+							<BootstrapTable { ...props.baseProps } />
+						</div>
+						)
+					}
+				</ToolkitProvider>
+		</div>
+  	);
 }
 
 // Get Escapes

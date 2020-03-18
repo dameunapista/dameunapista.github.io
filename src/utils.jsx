@@ -1,10 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import ReactStars from 'react-stars';
-import FaExternalLink from 'react-icons/lib/fa/external-link';
+import BeautyStars from "beauty-stars"
+import { FaExternalLinkAlt } from 'react-icons/fa';
 
 export function linkFormatter(cell, row){
-  return <a href={cell} target="_blank"><FaExternalLink color="black" size="16" /></a>
+  return <a href={cell} target="_blank"><FaExternalLinkAlt color="black" size="16" /></a>
 }
 
 export function NumEscapes(props){
@@ -14,5 +13,5 @@ export function NumEscapes(props){
 }
 
 export function starsFormatter(cell, row){
-  return <ReactStars value={cell} count={3} edit={false}/>;
+  return <BeautyStars value={cell} maxStars={3} editable={false} size={'18px'}/>;
 }
