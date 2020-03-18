@@ -1,0 +1,20 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+	/*width: 1920px;*/
+    height: 200px;
+    /*background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
+	background: url('/img/home_image.png') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.tagline {
+  text-shadow: 0 0 10px #000;
+  color: #fff
+}
