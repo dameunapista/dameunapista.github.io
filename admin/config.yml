@@ -4,18 +4,6 @@ backend:
 # This line should *not* be indented
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 collections:
-    - name: "blog" # Used in routes, e.g., /admin/collections/blog
-      label: "Blog" # Used in the UI
-      folder: "_posts" # The path to the folder where the documents are stored
-      create: true # Allow users to create new documents in this collection
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-      fields: # The fields for each document, usually in front matter
-        - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-        - {label: "Título", name: "title", widget: "string"}
-        - {label: "Fecha Publicación", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "thumbnail", widget: "image"}
-        # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-        - {label: "Texto", name: "body", widget: "markdown"}
     - name: "escapes" # Used in routes, e.g., /admin/collections/blog
       label: "Escapes" # Used in the UI
       description: "Escapes y sus salas/juegos"
@@ -37,3 +25,15 @@ collections:
         - {label: "Comentarios", name: "body", widget: "markdown", required: false}
         - {label: "Activo", name: "active", widget: "boolean", default: true}
         - {label: "Fecha Modificación", name: "date", widget: "datetime", dateFormat: "YYYY.MM.DD", timeFormat: "HH:mm", required: false}
+    - name: "blog" # Used in routes, e.g., /admin/collections/blog
+        label: "Blog" # Used in the UI
+        folder: "_posts" # The path to the folder where the documents are stored
+        create: true # Allow users to create new documents in this collection
+        slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+        fields: # The fields for each document, usually in front matter
+          - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+          - {label: "Título", name: "title", widget: "string"}
+          - {label: "Fecha Publicación", name: "date", widget: "datetime"}
+          - {label: "Foto", name: "thumbnail", widget: "image"}
+          # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+          - {label: "Texto", name: "body", widget: "markdown"}
