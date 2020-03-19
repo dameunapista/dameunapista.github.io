@@ -24,6 +24,7 @@ layout: feed
         "location": {{ escape.location | default: "null" }},
         "active": {{ escape.active | default: "false" }},
         "play_date": "{{ escape.play_date }}",
+        "photo": "{{ escape.photo }}",
         "rating": {{ escape.rating | default: "null" }},
         "date": "{{ escape.date }}"
     }{% unless forloop.last %},{% endunless %}

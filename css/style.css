@@ -57,3 +57,8 @@
   white-space: normal !important; /*default nowrap*/
   /*text-overflow: ellipsis;*/
 }
+/* para no deformar las imagenes de las cards (photos)*/
+.card-img-top {
+    object-fit: scale-down;
+    height: 250px;
+}
