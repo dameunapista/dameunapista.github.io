@@ -7,7 +7,7 @@ sitio: Picadero motel
 name: Picadero motel-Picadero motel
 city: Barcelona
 played_date: 2016-01-23T23:00:00.000Z
-rating: '4'
+rating: '3'
 photo: /images/uploads/picadero_motel1.jpg
 active: true
 date: 2020-03-21T15:31:00.306Z
