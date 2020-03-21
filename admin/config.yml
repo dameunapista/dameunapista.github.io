@@ -19,7 +19,7 @@ collections:
         - {label: "Página Web", name: "webpage", widget: "string"}
         - {label: "Ciudad", name: "city", widget: "string"}
         - {label: "Ubicación", name: "location", widget: "map", type: "Point" }
-        - {label: "Jugado", name: "played_date", widget: "datetime", default: "", dateFormat: "YYYY.MM.DD", timeFormat: false, required: false}
+        - {label: "Jugado", name: "play_date", widget: "datetime", default: "", dateFormat: "YYYY.MM.DD", timeFormat: false, required: false}
         - {label: "Valoración", name: "rating", widget: "select", options: [{ label: "Muy Bueno", value: "5" },{ label: "Bueno", value: "4" },{ label: "Normal", value: "3" }, { label: "Malo", value: "2" }], required: false}
         - {label: "Foto", name: "photo", widget: "image", default: "/images/uploads/nophoto.jpg", required: false}
         - {label: "Comentarios", name: "body", widget: "markdown", required: false}
