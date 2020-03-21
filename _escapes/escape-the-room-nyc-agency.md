@@ -1,22 +1,24 @@
 ---
-poblacion: "Nueva York"
-sitio: "Escape the room NYC"
-web: "http://static.escapetheroomnyc.com/"
-juego: "Agency"
-tematica: ""
-max_jugadores: 8
-latitud: 40.74732150
-longitud: -73.98944540
-publicar: "si"
-fecha: "2016-08-08"
-jugadores: "Nadgi"
 valoracion: 3
-foto: ""
-name: "Escape the room NYC-Agency"
-webpage: "http://static.escapetheroomnyc.com/"
-city: "Nueva York"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-73.9894454,40.7473215]}}"
+juego: Agency
+webpage: 'http://static.escapetheroomnyc.com/'
+foto: ''
+sitio: Escape the room NYC
+name: Escape the room NYC-Agency
+city: Nueva York
+play_date: '2016-08-08'
+rating: '3'
 active: true
-play_date: "2016-08-08"
-rating: "3"
+date: 2020-03-21T18:18:56.420Z
+jugadores: Nadgi
+web: 'http://static.escapetheroomnyc.com/'
+max_jugadores: 8
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9894454,40.7473215]}}
+longitud: -73.9894454
+tematica: ''
+latitud: 40.7473215
+publicar: si
+fecha: '2016-08-08'
+poblacion: Nueva York
 ---
