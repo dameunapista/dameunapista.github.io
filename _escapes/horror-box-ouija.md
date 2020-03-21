@@ -1,22 +1,24 @@
 ---
-poblacion: "Barcelona"
-sitio: "Horror Box"
-web: "http://www.horrorbox.es/producto/ouija-escape-room/"
-juego: "Ouija"
-tematica: "Terror"
-max_jugadores: 6
-latitud: 41.41087110
-longitud: 2.17847004
-publicar: "si"
-fecha: "2016-06-19"
-jugadores: "Nadgi"
 valoracion: 4.5
-foto: ""
-name: "Horror Box-Ouija"
-webpage: "http://www.horrorbox.es/producto/ouija-escape-room/"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.17847004,41.4108711]}}"
+juego: Ouija
+webpage: 'http://www.horrorbox.es/producto/ouija-escape-room/'
+foto: ''
+sitio: Horror Box
+name: Horror Box-Ouija
+city: Barcelona
+play_date: '2016-06-19'
+rating: '4'
 active: true
-play_date: "2016-06-19"
-rating: null
+date: 2020-03-21T16:48:34.660Z
+jugadores: Nadgi
+web: 'http://www.horrorbox.es/producto/ouija-escape-room/'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.17847004,41.4108711]}}
+longitud: 2.17847004
+tematica: Terror
+latitud: 41.4108711
+publicar: si
+fecha: '2016-06-19'
+poblacion: Barcelona
 ---
