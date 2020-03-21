@@ -9,7 +9,7 @@ city: Barcelona
 play_date: '2016-04-24'
 rating: '3'
 photo: /images/uploads/simulacrevuit.jpg
-active: true
+active: false
 date: 2020-03-21T16:24:16.196Z
 jugadores: Nadia
 web: 'http://roomescapesimulacrevuit.es/'
