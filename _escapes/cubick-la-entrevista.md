@@ -8,6 +8,7 @@ name: Cubick-La entrevista
 city: Mataró
 play_date: '2016-10-01'
 rating: '5'
+photo: /images/uploads/cubick.jpg
 active: true
 date: 2020-03-21T18:30:17.079Z
 jugadores: Nadgi
