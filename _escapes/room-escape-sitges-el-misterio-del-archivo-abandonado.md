@@ -8,6 +8,7 @@ name: Room escape Sitges-El misterio del archivo abandonado
 city: Sitges
 play_date: '2016-10-12'
 rating: '3'
+photo: /images/uploads/sitges_misterio_archivo_abandonado.jpg
 active: true
 date: 2020-03-21T18:37:39.602Z
 jugadores: Fibers
