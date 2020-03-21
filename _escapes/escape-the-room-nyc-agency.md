@@ -8,6 +8,7 @@ name: Escape the room NYC-Agency
 city: Nueva York
 play_date: '2016-08-08'
 rating: '3'
+photo: /images/uploads/nyc_agency.jpg
 active: true
 date: 2020-03-21T18:18:56.420Z
 jugadores: Nadgi
