@@ -53,7 +53,7 @@ function TopEscapes(props) {
 axios.get('/data/escapes.json')
   .then(function (response) {
 
-    const playedEscapes = response.data.filter(esc => esc.active && esc.play_date !== "")
+    const playedEscapes = response.data.filter(esc => esc.play_date !== "")
     
     var top_escapes = playedEscapes
       .filter( escape => escape.rating>=4) //filter top escapes (valoracion>=4)
