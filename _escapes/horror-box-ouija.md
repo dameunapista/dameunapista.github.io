@@ -8,6 +8,7 @@ name: Horror Box-Ouija
 city: Barcelona
 play_date: '2016-06-19'
 rating: '4'
+photo: /images/uploads/ouija.jpg
 active: true
 date: 2020-03-21T16:48:34.660Z
 jugadores: Nadgi
