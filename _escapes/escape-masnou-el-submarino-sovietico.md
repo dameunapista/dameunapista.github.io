@@ -1,22 +1,25 @@
 ---
-poblacion: "Masnou"
-sitio: "Escape Masnou"
-web: "https://escapemasnou.com/"
-juego: "El submarino soviético"
-tematica: ""
-max_jugadores: 5
-latitud: 41.47967050
-longitud: 2.30321390
-publicar: "si"
-fecha: "2016-08-22"
-jugadores: "Alcaparrones"
 valoracion: 4.6
-foto: ""
-name: "Escape Masnou-El submarino soviético"
-webpage: "https://escapemasnou.com/"
-city: "Masnou"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.3032139,41.4796705]}}"
+juego: El submarino soviético
+webpage: 'https://escapemasnou.com/'
+foto: ''
+sitio: Escape Masnou
+name: Escape Masnou-El submarino soviético
+city: Masnou
+play_date: '2016-08-22'
+rating: '5'
+photo: /images/uploads/2016_08_27.JPG
 active: true
-play_date: "2016-08-22"
-rating: null
+date: 2020-03-21T18:27:00.275Z
+jugadores: Alcaparrones
+web: 'https://escapemasnou.com/'
+max_jugadores: 5
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.3032139,41.4796705]}}
+longitud: 2.3032139
+tematica: ''
+latitud: 41.4796705
+publicar: si
+fecha: '2016-08-22'
+poblacion: Masnou
 ---
