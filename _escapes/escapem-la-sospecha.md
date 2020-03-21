@@ -1,22 +1,25 @@
 ---
-poblacion: "Sabadell"
-sitio: "Escapem"
-web: "http://escapem.com/"
-juego: "La sospecha"
-tematica: ""
-max_jugadores: 5
-latitud: 41.53031070
-longitud: 2.11555600
-publicar: "si"
-fecha: "2016-09-17"
-jugadores: "Alcaparrones"
 valoracion: 3.75
-foto: ""
-name: "Escapem-La sospecha"
-webpage: "http://escapem.com/"
-city: "Sabadell"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.115556,41.5303107]}}"
+juego: La sospecha
+webpage: 'http://escapem.com/'
+foto: ''
+sitio: Escapem
+name: Escapem-La sospecha
+city: Sabadell
+play_date: '2016-09-17'
+rating: '4'
+photo: /images/uploads/2016_09_18.JPG
 active: true
-play_date: "2016-09-17"
-rating: null
+date: 2020-03-21T18:27:51.588Z
+jugadores: Alcaparrones
+web: 'http://escapem.com/'
+max_jugadores: 5
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.115556,41.5303107]}}
+longitud: 2.115556
+tematica: ''
+latitud: 41.5303107
+publicar: si
+fecha: '2016-09-17'
+poblacion: Sabadell
 ---
