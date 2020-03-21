@@ -1,22 +1,25 @@
 ---
-poblacion: "Barcelona"
-sitio: "Horror Box"
-web: "http://www.horrorbox.es/producto/jigsaw-escape-room/"
-juego: "Jigsaw"
-tematica: "Terror"
-max_jugadores: 6
-latitud: 41.41087110
-longitud: 2.17847004
-publicar: "si"
-fecha: "2016-05-01"
-jugadores: "Nadgi"
 valoracion: 4
-foto: ""
-name: "Horror Box-Jigsaw"
-webpage: "http://www.horrorbox.es/producto/jigsaw-escape-room/"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.17847004,41.4108711]}}"
+juego: Jigsaw
+webpage: 'http://www.horrorbox.es/producto/jigsaw-escape-room/'
+foto: ''
+sitio: Horror Box
+name: Horror Box-Jigsaw
+city: Barcelona
+play_date: '2016-05-01'
+rating: '4'
+photo: /images/uploads/jigsaw.jpg
 active: true
-play_date: "2016-05-01"
-rating: "4"
+date: 2020-03-21T16:30:29.581Z
+jugadores: Nadgi
+web: 'http://www.horrorbox.es/producto/jigsaw-escape-room/'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.17847004,41.4108711]}}
+longitud: 2.17847004
+tematica: Terror
+latitud: 41.4108711
+publicar: si
+fecha: '2016-05-01'
+poblacion: Barcelona
 ---
