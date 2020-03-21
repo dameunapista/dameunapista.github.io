@@ -67,7 +67,7 @@ axios.get('/data/escapes.json')
   .then(function (response) {
 
     const playedEscapes = response.data
-      .filter(esc => esc.active && esc.play_date !== "")
+      .filter(esc => esc.play_date !== "")
       .map( escape => Object.assign(escape, { rating: (escape.rating || 2) - 2}))  // based on 3 stars max. (5-->3, 4-->2, 3-->1, else 0)
       .sort((a,b) => (a.play_date > b.play_date) ? -1 : ((b.play_date > a.play_date) ? 1 : 0))  //sort by date (as string)
     
