@@ -1,22 +1,25 @@
 ---
-poblacion: "Barcelona"
-sitio: "La Sala"
-web: "http://lasaladeescape.com/"
-juego: "Sala 1"
-tematica: ""
-max_jugadores: 7
-latitud: 41.37569010
-longitud: 2.13751580
-publicar: "si"
-fecha: "2016-06-25"
-jugadores: "Alcaparrones"
 valoracion: 3.5
-foto: ""
-name: "La Sala-Sala 1"
-webpage: "http://lasaladeescape.com/"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1375158,41.3756901]}}"
+juego: Sala 1
+webpage: 'http://lasaladeescape.com/'
+foto: ''
+sitio: La Sala
+name: La Sala-Sala 1
+city: Barcelona
+play_date: '2016-06-25'
+rating: '2'
+photo: /images/uploads/2016_07_28.JPG
 active: true
-play_date: "2016-06-25"
-rating: null
+date: 2020-03-21T16:51:04.948Z
+jugadores: Alcaparrones
+web: 'http://lasaladeescape.com/'
+max_jugadores: 7
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.1375158,41.3756901]}}
+longitud: 2.1375158
+tematica: ''
+latitud: 41.3756901
+publicar: si
+fecha: '2016-06-25'
+poblacion: Barcelona
 ---
