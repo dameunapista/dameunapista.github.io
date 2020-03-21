@@ -1,22 +1,25 @@
 ---
-poblacion: "Barcelona"
-sitio: "Simulacre vuit"
-web: "http://roomescapesimulacrevuit.es/"
-juego: "Firenze"
-tematica: ""
-max_jugadores: 6
-latitud: 41.42359850
-longitud: 2.17420770
-publicar: "si"
-fecha: "2016-04-24"
-jugadores: "Sergi"
 valoracion: 2.5
-foto: ""
-name: "Simulacre vuit-Firenze"
-webpage: "http://roomescapesimulacrevuit.es/"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1742077,41.4235985]}}"
-active: true
-play_date: "2016-04-24"
-rating: null
+juego: Firenze
+webpage: 'http://roomescapesimulacrevuit.es/'
+foto: ''
+sitio: Simulacre vuit
+name: Simulacre vuit-Firenze
+city: Barcelona
+play_date: '2016-04-24'
+rating: '2'
+photo: /images/uploads/simulacrevuit.jpg
+active: false
+date: 2020-03-21T16:28:00.211Z
+jugadores: Sergi
+web: 'http://roomescapesimulacrevuit.es/'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.1742077,41.4235985]}}
+longitud: 2.1742077
+tematica: ''
+latitud: 41.4235985
+publicar: si
+fecha: '2016-04-24'
+poblacion: Barcelona
 ---
