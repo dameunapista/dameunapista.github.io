@@ -6,9 +6,9 @@ foto: ''
 sitio: Exciting Game
 name: Exciting Game-El mito del Teide
 city: Tenerife
-played_date: 2015-08-22T22:00:00.000Z
+play_date: '2015-08-23'
 rating: '3'
-photo: /images/uploads/nophoto.jpg
+photo: /images/uploads/exciting_mito_teide.jpg
 active: true
 date: 2020-03-13T23:14:42.666Z
 jugadores: Nadgi
@@ -18,9 +18,9 @@ location: >-
   {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.7356747,28.0597897]}}
 longitud: -16.7356747
 tematica: ''
-play_date: '2015-08-23'
 latitud: 28.0597897
 publicar: si
+played_date: 2015-08-22T22:00:00.000Z
 fecha: '2015-08-23'
 poblacion: Tenerife
 ---
