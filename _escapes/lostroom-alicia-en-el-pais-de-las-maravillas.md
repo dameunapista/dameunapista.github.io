@@ -1,22 +1,25 @@
 ---
-poblacion: "Barcelona"
-sitio: "Lostroom"
-web: "http://lostroombcn.com"
-juego: "Alicia en el pais de las maravillas"
-tematica: ""
-max_jugadores: 6
-latitud: 41.39433320
-longitud: 2.17616360
-publicar: "si"
-fecha: "2017-01-07"
-jugadores: "Bailongos"
 valoracion: 3
-foto: ""
-name: "Lostroom-Alicia en el pais de las maravillas"
-webpage: "http://lostroombcn.com"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1761636,41.3943332]}}"
+juego: Alicia en el pais de las maravillas
+webpage: 'http://lostroombcn.com'
+foto: ''
+sitio: Lostroom
+name: Lostroom-Alicia en el pais de las maravillas
+city: Barcelona
+play_date: '2017-01-07'
+rating: '2'
+photo: /images/uploads/alicia.jpg
 active: true
-play_date: "2017-01-07"
-rating: "3"
+date: 2020-04-05T12:03:37.918Z
+jugadores: Bailongos
+web: 'http://lostroombcn.com'
+max_jugadores: 6
+location: >-
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.1761636,41.3943332]}}
+longitud: 2.1761636
+tematica: ''
+latitud: 41.3943332
+publicar: si
+fecha: '2017-01-07'
+poblacion: Barcelona
 ---
