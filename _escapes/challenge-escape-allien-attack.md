@@ -1,22 +1,24 @@
 ---
-poblacion: "Pineda de Mar"
-sitio: "Challenge Escape"
-web: "https://challengescape.es/"
-juego: "Allien Attack"
-tematica: ""
-max_jugadores: 6
-latitud: 41.62889000
-longitud: 2.69327700
-publicar: "si"
-fecha: "2017-10-22"
-jugadores: "Alcaparrones"
 valoracion: 2.5
+juego: Allien Attack
+webpage: https://challengescape.es/
 foto: ""
-name: "Challenge Escape-Allien Attack"
-webpage: "https://challengescape.es/"
-city: "Pineda de Mar"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.693277,41.62889]}}"
+sitio: Challenge Escape
+name: Challenge Escape-Allien Attack
+city: Pineda de Mar
+play_date: 2017-10-22
+rating: "2"
+photo: /images/uploads/challenge_allien_attack.jpg
 active: true
-play_date: "2017-10-22"
-rating: null
+date: 2020-04-10T17:28:43.887Z
+jugadores: Alcaparrones
+web: https://challengescape.es/
+max_jugadores: 6
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[2.693277,41.62889]}}'
+longitud: 2.693277
+tematica: ""
+latitud: 41.62889
+publicar: si
+fecha: 2017-10-22
+poblacion: Pineda de Mar
 ---
