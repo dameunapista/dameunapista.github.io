@@ -6,8 +6,8 @@ foto: ""
 sitio: Overtime
 name: Overtime-Cien años de perdón
 city: Pamplona
-play_date: 2017-08-16
-rating: "4"
+play_date: 2017-08-16T00:00:00.000Z
+rating: "5"
 photo: /images/uploads/overtime.jpg
 active: true
 date: 2020-04-10T17:22:07.340Z
@@ -19,6 +19,6 @@ longitud: -1.650156
 tematica: ""
 latitud: 42.82172
 publicar: si
-fecha: 2017-08-16
+fecha: 2017-08-16T00:00:00.000Z
 poblacion: Pamplona
 ---
