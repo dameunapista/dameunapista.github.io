@@ -1,22 +1,24 @@
 ---
-poblacion: "Bilbao"
-sitio: "Eskapa2"
-web: "https://eskapa2.com/"
-juego: "VIaje a lo desconocido"
-tematica: ""
-max_jugadores: 6
-latitud: 43.27479900
-longitud: -2.95688000
-publicar: "si"
-fecha: "2017-08-07"
-jugadores: "Nadgi"
 valoracion: 4.3
+juego: VIaje a lo desconocido
+webpage: https://eskapa2.com/
 foto: ""
-name: "Eskapa2-VIaje a lo desconocido"
-webpage: "https://eskapa2.com/"
-city: "Bilbao"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-2.95688,43.274799]}}"
+sitio: Eskapa2
+name: Eskapa2-VIaje a lo desconocido
+city: Bilbao
+play_date: 2017-08-07
+rating: "4"
+photo: /images/uploads/eskapa2.jpg
 active: true
-play_date: "2017-08-07"
-rating: null
+date: 2020-04-10T17:15:38.510Z
+jugadores: Nadgi
+web: https://eskapa2.com/
+max_jugadores: 6
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.95688,43.274799]}}'
+longitud: -2.95688
+tematica: ""
+latitud: 43.274799
+publicar: si
+fecha: 2017-08-07
+poblacion: Bilbao
 ---
