@@ -1,22 +1,24 @@
 ---
-poblacion: "Pamplona"
-sitio: "Overtime"
-web: "https://overtimepamplona.es/"
-juego: "Cien años de perdón"
-tematica: ""
-max_jugadores: 6
-latitud: 42.82172000
-longitud: -1.65015600
-publicar: "si"
-fecha: "2017-08-16"
-jugadores: "Nadgi"
 valoracion: 4.5
+juego: Cien años de perdón
+webpage: https://overtimepamplona.es/
 foto: ""
-name: "Overtime-Cien años de perdón"
-webpage: "https://overtimepamplona.es/"
-city: "Pamplona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[-1.650156,42.82172]}}"
+sitio: Overtime
+name: Overtime-Cien años de perdón
+city: Pamplona
+play_date: 2017-08-16
+rating: "4"
+photo: /images/uploads/overtime.jpg
 active: true
-play_date: "2017-08-16"
-rating: null
+date: 2020-04-10T17:22:07.340Z
+jugadores: Nadgi
+web: https://overtimepamplona.es/
+max_jugadores: 6
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.650156,42.82172]}}'
+longitud: -1.650156
+tematica: ""
+latitud: 42.82172
+publicar: si
+fecha: 2017-08-16
+poblacion: Pamplona
 ---
