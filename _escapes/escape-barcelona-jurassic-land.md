@@ -1,22 +1,24 @@
 ---
-poblacion: "Barcelona"
-sitio: "Escape Barcelona"
-web: "http://www.escapebarcelona.com"
-juego: "Jurassic Land"
-tematica: ""
-max_jugadores: 10
-latitud: 41.45149550
-longitud: 2.20243530
-publicar: "si"
-fecha: "2017-06-03"
-jugadores: "Alcaparrones"
 valoracion: 4.25
+juego: Jurassic Land
+webpage: http://www.escapebarcelona.com
 foto: ""
-name: "Escape Barcelona-Jurassic Land"
-webpage: "http://www.escapebarcelona.com"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.2024353,41.4514955]}}"
+sitio: Escape Barcelona
+name: Escape Barcelona-Jurassic Land
+city: Barcelona
+play_date: 2017-06-03
+rating: "4"
+photo: /images/uploads/jurassic_land.jpg
 active: true
-play_date: "2017-06-03"
-rating: null
+date: 2020-04-10T17:13:43.676Z
+jugadores: Alcaparrones
+web: http://www.escapebarcelona.com
+max_jugadores: 10
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[2.2024353,41.4514955]}}'
+longitud: 2.2024353
+tematica: ""
+latitud: 41.4514955
+publicar: si
+fecha: 2017-06-03
+poblacion: Barcelona
 ---
