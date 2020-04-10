@@ -7,7 +7,7 @@ sitio: Challenge Escape
 name: Challenge Escape-Allien Attack
 city: Pineda de Mar
 play_date: 2017-10-22
-rating: "2"
+rating: "3"
 photo: /images/uploads/challenge_allien_attack.jpg
 active: true
 date: 2020-04-10T17:28:43.887Z
