@@ -8,6 +8,7 @@ name: Retobox-Capitán Pessoa
 city: Barcelona
 play_date: 2017-10-31T23:00:00.000Z
 rating: "3"
+photo: /images/uploads/capitan_pessoa.jpeg
 active: true
 date: 2020-04-12T14:50:46.135Z
 jugadores: ""
