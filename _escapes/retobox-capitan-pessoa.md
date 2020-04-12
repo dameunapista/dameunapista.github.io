@@ -1,22 +1,23 @@
 ---
-poblacion: "Barcelona"
-sitio: "Retobox"
-web: "http://www.retobox.com"
-juego: "Capitán Pessoa"
-tematica: ""
-max_jugadores: 2
-latitud: 41.43947900
-longitud: 2.19088530
-publicar: "si"
-fecha: ""
-jugadores: ""
-valoracion: 
+valoracion: null
+juego: Capitán Pessoa
+webpage: http://www.retobox.com
 foto: ""
-name: "Retobox-Capitán Pessoa"
-webpage: "http://www.retobox.com"
-city: "Barcelona"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.1908853,41.439479]}}"
+sitio: Retobox
+name: Retobox-Capitán Pessoa
+city: Barcelona
+play_date: 2017-10-31T23:00:00.000Z
+rating: "3"
 active: true
-play_date: ""
-rating: null
+date: 2020-04-12T14:50:46.135Z
+jugadores: ""
+web: http://www.retobox.com
+max_jugadores: 2
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[2.1908853,41.439479]}}'
+longitud: 2.1908853
+tematica: ""
+latitud: 41.439479
+publicar: si
+fecha: ""
+poblacion: Barcelona
 ---
