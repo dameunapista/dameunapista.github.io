@@ -8,6 +8,7 @@ name: Granollers experience-Bandidos
 city: Granollers
 play_date: 2017-11-02T23:00:00.000Z
 rating: "4"
+photo: /images/uploads/bandidos.jpeg
 active: true
 date: 2020-04-12T14:58:31.574Z
 jugadores: ""
