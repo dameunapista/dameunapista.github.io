@@ -13,7 +13,7 @@ date: 2020-04-12T15:15:51.509Z
 jugadores: ""
 web: http://totemescaperoom.com/
 max_jugadores: 6
-location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[2.1616682,41.4399044]}}'
+location: '{"type":"Point","coordinates":[2.1638077,41.4399155]}'
 longitud: 2.1616682
 tematica: ""
 latitud: 41.4399044
