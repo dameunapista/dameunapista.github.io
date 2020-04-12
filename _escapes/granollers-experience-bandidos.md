@@ -1,22 +1,23 @@
 ---
-poblacion: "Granollers"
-sitio: "Granollers experience"
-web: "http://granollersexperience.com/"
-juego: "Bandidos"
-tematica: ""
-max_jugadores: 6
-latitud: 41.60961720
-longitud: 2.29033300
-publicar: "si"
-fecha: ""
-jugadores: ""
-valoracion: 
+valoracion: null
+juego: Bandidos
+webpage: http://granollersexperience.com/
 foto: ""
-name: "Granollers experience-Bandidos"
-webpage: "http://granollersexperience.com/"
-city: "Granollers"
-location: "{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[2.290333,41.6096172]}}"
+sitio: Granollers experience
+name: Granollers experience-Bandidos
+city: Granollers
+play_date: 2017-11-02T23:00:00.000Z
+rating: "4"
 active: true
-play_date: ""
-rating: null
+date: 2020-04-12T14:58:31.574Z
+jugadores: ""
+web: http://granollersexperience.com/
+max_jugadores: 6
+location: '{"type":"Feature","geometry":{"type":"Point","coordinates":[2.290333,41.6096172]}}'
+longitud: 2.290333
+tematica: ""
+latitud: 41.6096172
+publicar: si
+fecha: ""
+poblacion: Granollers
 ---
