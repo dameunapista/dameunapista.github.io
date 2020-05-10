@@ -18,7 +18,8 @@ collections:
         - {label: "Escape", name: "name", widget: "string"}
         - {label: "Página Web", name: "webpage", widget: "string"}
         - {label: "Ciudad", name: "city", widget: "string"}
-        - {label: "Ubicación", name: "location", widget: "map", type: "Point" }
+        # - {label: "Ubicación", name: "location", widget: "map", type: "Point" }
+        - {label: "Ubicación", name: "location", widget: "text", default: "{\"type\":\"Point\",\"coordinates\":[2.170321,41.399851]}" }
         - {label: "Jugado", name: "play_date", widget: "datetime", default: "", dateFormat: "YYYY-MM-DD", timeFormat: false, required: false}
         - {label: "Valoración", name: "rating", widget: "select", options: [{ label: "Muy Bueno", value: "5" },{ label: "Bueno", value: "4" },{ label: "Normal", value: "3" }, { label: "Malo", value: "2" }], required: false}
         - {label: "Foto", name: "photo", widget: "image", default: "/images/uploads/nophoto.jpg", required: false}
