@@ -12,7 +12,7 @@ const EscapeCard = (props) => {
   const formattedDate = new Intl.DateTimeFormat('es-ES').format(new Date(data.play_date))
   return(
     <Card>
-      <Card.Img variant="top" src={imgUrl} />
+      <Card.Img variant="top" src={imgUrl} style={{ objectFit: 'cover' }} />
       <Card.Body>
         <Card.Title>{data.name}</Card.Title>
         <BeautyStars value={data.rating || 0} maxStars={3} editable={false} size={'18px'}/>
