@@ -1,11 +1,11 @@
 ---
-name: Los misterios de Kemet
-webpage: https://www.misteriosdekemet.com/
-city: Esplugues de Llobregat
-location: '{"type":"Point","coordinates":[2.0816826,41.370733]}'
-play_date: 2024-04-21T09:01:04.916Z
-rating: "4"
-photo: /images/uploads/misterioskemet.jpeg
+name: La Iniciativa
+webpage: https://lainiciativa.es/
+city: Granollers
+location: '{"type":"Point","coordinates":[41.600348,2.2866032]}'
+play_date: 2024-05-18T09:03:23.722Z
+rating: "3"
+photo: /images/uploads/lainiciativa.jpeg
 active: true
-date: 2024-09-01T08:59:39.142Z
+date: 2024-09-01T09:02:12.280Z
 ---
